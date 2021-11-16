@@ -8,6 +8,14 @@
   width: 1440px;
 }
 
+#overlay-work {
+  background-color: var(--black);
+}
+
+.overlay .work {
+  background-color: #00000000;
+}
+
 .work .uiux-vLgc0E {
   background-color: transparent;
   display: block;
@@ -25,14 +33,14 @@
   width: auto;
 }
 
-.work .uiux-vLgc0E.animate-enter12 {
-  animation: animate-enter12-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .uiux-vLgc0E.animate-enter11 {
+  animation: animate-enter11-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter12-frames {
+@keyframes animate-enter11-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -43,6 +51,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-copy-vLgc0E {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 98px;
   position: absolute;
@@ -52,6 +61,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-copy-ypQ9k3 {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 0px;
   position: absolute;
@@ -61,6 +71,7 @@ transform: translate(0,0);
 
 .work .thumbnail-copy-4-vLgc0E {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 100px;
   position: absolute;
@@ -70,6 +81,7 @@ transform: translate(0,0);
 
 .work .thumbnail-copy-4-flU6CU {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 0px;
   position: absolute;
@@ -79,6 +91,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-copy-2-vLgc0E {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 98px;
   position: absolute;
@@ -88,6 +101,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-copy-2-0yuhxT {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 0px;
   position: absolute;
@@ -97,6 +111,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-copy-3-vLgc0E {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 99px;
   position: absolute;
@@ -106,6 +121,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-copy-3-WNueUK {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 0px;
   position: absolute;
@@ -115,6 +131,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-copy-4-vLgc0E {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 97px;
   position: absolute;
@@ -124,6 +141,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-copy-4-BfIJGd {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 0px;
   position: absolute;
@@ -148,14 +166,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.work .sheep-copy-vLgc0E.animate-enter13 {
-  animation: animate-enter13-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.work .sheep-copy-vLgc0E.animate-enter12 {
+  animation: animate-enter12-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter13-frames {
+@keyframes animate-enter12-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -195,14 +213,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.work .plex-copy-vLgc0E.animate-enter14 {
-  animation: animate-enter14-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.work .plex-copy-vLgc0E.animate-enter13 {
+  animation: animate-enter13-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter14-frames {
+@keyframes animate-enter13-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -242,14 +260,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.work .google-copy-vLgc0E.animate-enter15 {
-  animation: animate-enter15-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.work .google-copy-vLgc0E.animate-enter14 {
+  animation: animate-enter14-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter15-frames {
+@keyframes animate-enter14-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -275,14 +293,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.work .dlight-copy-vLgc0E.animate-enter16 {
-  animation: animate-enter16-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.work .dlight-copy-vLgc0E.animate-enter15 {
+  animation: animate-enter15-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter16-frames {
+@keyframes animate-enter15-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -336,14 +354,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.work .ava-copy-vLgc0E.animate-enter17 {
-  animation: animate-enter17-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.work .ava-copy-vLgc0E.animate-enter16 {
+  animation: animate-enter16-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter17-frames {
+@keyframes animate-enter16-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -390,14 +408,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.work .benchling-copy-vLgc0E.animate-enter18 {
-  animation: animate-enter18-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.work .benchling-copy-vLgc0E.animate-enter17 {
+  animation: animate-enter17-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter18-frames {
+@keyframes animate-enter17-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -422,6 +440,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-copy-5-vLgc0E {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 97px;
   position: absolute;
@@ -431,6 +450,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-copy-5-SHv2XF {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 0px;
   position: absolute;
@@ -455,14 +475,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.work .paul-rand-vLgc0E.animate-enter19 {
-  animation: animate-enter19-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.work .paul-rand-vLgc0E.animate-enter18 {
+  animation: animate-enter18-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter19-frames {
+@keyframes animate-enter18-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -488,14 +508,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.work .in-vLgc0E.animate-enter20 {
-  animation: animate-enter20-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.work .in-vLgc0E.animate-enter19 {
+  animation: animate-enter19-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter20-frames {
+@keyframes animate-enter19-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -521,14 +541,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.work .conversation-vLgc0E.animate-enter21 {
-  animation: animate-enter21-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.work .conversation-vLgc0E.animate-enter20 {
+  animation: animate-enter20-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter21-frames {
+@keyframes animate-enter20-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -596,14 +616,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.work .branding-vLgc0E.animate-enter22 {
-  animation: animate-enter22-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .branding-vLgc0E.animate-enter21 {
+  animation: animate-enter21-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter22-frames {
+@keyframes animate-enter21-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -614,6 +634,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-vLgc0E {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 100px;
   position: absolute;
@@ -623,6 +644,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-PkzIGd {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 0px;
   position: absolute;
@@ -632,6 +654,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-03nOWn {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 100px;
   position: absolute;
@@ -641,6 +664,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-YRr0VO {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 0px;
   position: absolute;
@@ -650,6 +674,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-Ehflww {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 102px;
   position: absolute;
@@ -659,6 +684,7 @@ transform: translate(0,0);
 
 .work .full-bleed-lifestyle1-x5DbGU {
   background-color: transparent;
+  cursor: pointer;
   height: 550px;
   left: 0px;
   position: absolute;
@@ -666,201 +692,116 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.work .gns-vLgc0E {
-  background-color: transparent;
-  height: 26px;
-  left: 101px;
-  position: absolute;
-  top: 73px;
-  width: 1238px;
-}
-
-.work .about-copy-2-n2c4Cx {
+.work .about-copy-2-vLgc0E {
   background-color: transparent;
   cursor: pointer;
   font-weight: 400;
   height: 17px;
-  left: 1166px;
+  left: 1267px;
   letter-spacing: 0.00px;
   line-height: 17px;
   pointer-events: auto;
   position: absolute;
   text-align: left;
-  top: 5px;
+  top: 78px;
   transition: all 1s ease-in-out;
   white-space: nowrap;
   width: auto;
 }
 
-.work .about-copy-2-n2c4Cx:hover {
+.work .about-copy-2-vLgc0E:hover {
   filter: blur(10px);
 }
 
-.work .work-copy-2-n2c4Cx {
+.work .work-copy-2-vLgc0E {
   background-color: transparent;
   cursor: pointer;
   font-weight: 400;
   height: 17px;
-  left: 1027px;
+  left: 1128px;
   letter-spacing: 0.00px;
   line-height: 17px;
   pointer-events: auto;
   position: absolute;
   text-align: left;
-  top: 5px;
+  top: 78px;
   transition: all 1s ease-in-out;
   white-space: nowrap;
   width: auto;
 }
 
-.work .work-copy-2-n2c4Cx:hover {
+.work .work-copy-2-vLgc0E:hover {
   filter: blur(10px);
 }
 
-.work .ash-cui-n2c4Cx {
+.work .ash-cui-vLgc0E {
   background-color: transparent;
+  cursor: pointer;
   font-weight: 600;
   height: 26px;
-  left: 0px;
+  left: 101px;
   letter-spacing: 0.00px;
   line-height: 26px;
   position: absolute;
   text-align: left;
-  top: 0px;
+  top: 73px;
   white-space: nowrap;
   width: auto;
 }
 
-.work .footer-vLgc0E {
+.work .sayhi-vLgc0E {
   background-color: transparent;
-  height: 519px;
-  left: 474px;
+  height: 162px;
+  left: 480px;
   position: absolute;
-  top: 7417px;
-  width: 482px;
+  top: 7439px;
+  width: 462px;
 }
 
-.work .group-4-9WxQnC {
-  background-color: transparent;
-  display: block;
-  filter: blur(10px);
-  height: 178px;
-  left: 0px;
-  opacity: 0;
-  position: absolute;
-  top: 0px;
-  width: 482px;
-}
-
-.work .group-4-9WxQnC.animate-enter23 {
-  animation: animate-enter23-frames 2.00s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  filter: blur(10px);
-  opacity: 0;
-}
-
-@keyframes animate-enter23-frames {
-  from{opacity: 0;
-filter: blur(10px);
-}
-to{opacity: 1;
-filter: none;
-}
-}
-
-.work .group-2-tdhvVm {
-  background-color: transparent;
-  height: 178px;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 482px;
-}
-
-.work .say-hi-OWjFZj {
-  background-color: transparent;
-  font-weight: 700;
-  height: 166px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 160px;
-  position: absolute;
-  text-align: left;
-  top: -6px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.work .path-OWjFZj {
+.work .path-vLgc0E {
   background-color: transparent;
   height: 7px;
-  left: 338px;
+  left: 812px;
   position: absolute;
-  top: 174px;
+  top: 7590px;
   width: 136px;
 }
 
-.work .textlabel-OWjFZj {
+.work .textlabel-vLgc0E {
   background-color: transparent;
   font-weight: 400;
   height: 53px;
-  left: 431px;
+  left: 905px;
   letter-spacing: 0.00px;
   line-height: 53px;
   position: absolute;
   text-align: left;
-  top: 2px;
+  top: 7419px;
   white-space: nowrap;
   width: auto;
 }
 
-.work .group-9WxQnC {
+.work .textlabel-03nOWn {
   background-color: transparent;
-  display: block;
-  height: 51px;
-  left: 179px;
-  opacity: 0;
-  position: absolute;
-  top: 468px;
-  transform: translate(0, 25px);
-  width: 123px;
-}
-
-.work .group-9WxQnC.animate-enter24 {
-  animation: animate-enter24-frames 1.50s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
-}
-
-@keyframes animate-enter24-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
-}
-
-.work .resume-mmbhog {
-  background-color: transparent;
+  cursor: pointer;
   font-weight: 400;
-  height: 50px;
-  left: 0px;
+  height: 59px;
+  left: 1301px;
   letter-spacing: 0.00px;
-  line-height: 50px;
+  line-height: 59px;
   position: absolute;
   text-align: left;
-  top: 0px;
+  top: 7880px;
+  transform: rotate(-45deg);
   white-space: nowrap;
   width: auto;
 }
 
-.work .path-3-copy-3-mmbhog {
-  background-color: transparent;
-  height: 4px;
-  left: -1px;
+.work .rectangle-vLgc0E {
+  background-color: var(--black);
+  height: 11px;
+  left: 562px;
   position: absolute;
-  top: 47px;
-  width: 124px;
+  top: 0px;
+  width: 311px;
 }

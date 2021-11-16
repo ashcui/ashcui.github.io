@@ -7,6 +7,8 @@
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="photo" />
     <link rel="stylesheet" type="text/css" href="css/conversation.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <script src="https://animaapp.s3.amazonaws.com/launchpad-static/launchpad.js"></script>
     <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
     <link rel="stylesheet" type="text/css" href="css/globals.css" />
   </head>
@@ -14,11 +16,12 @@
     <input type="hidden" id="anPageName" name="page" value="conversation" />
     <div class="container-center-horizontal">
       <div class="conversation screen">
-        <div class="conversation-5FVeIU manrope-bold-white-120px animate-enter182" show-on-scroll>Conversation</div>
-        <div class="a-display-of-two-art-5FVeIU h2 animate-enter183" show-on-scroll>A Display of Two Art Worlds</div>
-        <div class="x2019-5FVeIU manrope-bold-white-22px animate-enter184" show-on-scroll>2019</div>
-        <div class="role-copy-5FVeIU h2 animate-enter185" show-on-scroll>ROLE</div>
-        <div class="nowadays-more-and-m-5FVeIU h3 animate-enter186" show-on-scroll>
+        <div class="conversation-5FVeIU manrope-bold-white-120px animate-enter162" show-on-scroll>Conversation</div>
+        <div class="rectangle-5FVeIU" id="rectangle"></div>
+        <div class="a-display-of-two-art-5FVeIU h2 animate-enter163" show-on-scroll>A Display of Two Art Worlds</div>
+        <div class="x2019-5FVeIU manrope-bold-white-22px animate-enter164" show-on-scroll>2019</div>
+        <div class="role-copy-5FVeIU h2 animate-enter165" show-on-scroll>ROLE</div>
+        <div class="nowadays-more-and-m-5FVeIU h3 animate-enter166" show-on-scroll>
           Nowadays, more and more &#34;nonsense&#34; creations becoming art. Do you have the experience of walking into
           a museum, but can&#39;t enjoy or even understand the artworks in front of you? This situation makes me think
           about the variation of art forms, how art transforms from classic to modern, to post-modern, are we lost in
@@ -30,93 +33,85 @@
         <div class="full-bleed-lifestyle1-5FVeIU">
           <img
             class="full-bleed-lifestyle1-5Y3PY8"
-            src="img/conversation-fullbleedlifestyle1-D3A54194-8468-48A7-BB1D-4D49CE7678E1.png"
+            src="img/work-fullbleedlifestyle1-B5C5C4E0-CFA9-4056-B609-6CB2E5E0432C.png"
           />
         </div>
-        <div class="group-5FVeIU animate-enter187" show-on-scroll>
+        <div class="group-5FVeIU animate-enter167" show-on-scroll>
           <div class="design-direction-JCgbPb manrope-normal-mercury-18px" show-on-scroll>Design Direction</div>
           <div class="painting-copy-2-JCgbPb manrope-normal-mercury-18px" show-on-scroll>Painting</div>
           <div class="exhibition-design-JCgbPb manrope-normal-mercury-18px" show-on-scroll>Exhibition Design</div>
           <div class="visual-identity-copy-JCgbPb manrope-normal-mercury-18px" show-on-scroll>Visual Identity</div>
           <div class="illustration-copy-2-JCgbPb manrope-normal-mercury-18px" show-on-scroll>Illustration</div>
         </div>
-        <img class="path-5-5FVeIU" src="img/paulrand-path-5-4E6E30B8-9751-47CD-99B1-145B95FF24FE.png" />
+        <img class="path-5-5FVeIU" src="img/in-path-5-47E29055-21CB-45C4-BB41-6ECE55B93E4B.png" />
         <div class="wix-01-5FVeIU">
-          <img class="wix-01-exZxdL" src="img/conversation-wix-01-554FFDB9-9228-4F9A-B659-1902A738D078.png" />
+          <img class="wix-01-exZxdL" src="img/conversation-wix-01-8282ED46-4A6D-4567-912E-8FBC92143F9C.png" />
         </div>
-        <img class="wix-02-5FVeIU" src="img/conversation-wix-02-2C2C64F7-B185-4B2E-AA69-C0B8F4C03D19.jpg" />
+        <img class="wix-02-5FVeIU" src="img/conversation-wix-02-59E327CB-824E-4B51-A58F-661FDD51F193.jpg" />
         <div class="wix-01-copy-2-5FVeIU">
           <img
             class="wix-01-copy-2-O9pF15"
-            src="img/conversation-wix-01-copy-2-FE47DFF1-828E-4DA3-A5A0-D5D70548EF5B.png"
+            src="img/conversation-wix-01-copy-2-29A97447-A640-4636-AD32-F0CE15F818A7.png"
           />
         </div>
-        <div class="behind-the-art-5FVeIU h2 animate-enter188" show-on-scroll>Behind the art</div>
-        <div class="a-palette-with-perso-5FVeIU h2 animate-enter189" show-on-scroll>A palette with personality</div>
-        <div class="l-chose-six-most-rep-5FVeIU h3 animate-enter190" show-on-scroll>
+        <div class="behind-the-art-5FVeIU h2 animate-enter168" show-on-scroll>Behind the art</div>
+        <div class="a-palette-with-perso-5FVeIU h2 animate-enter169" show-on-scroll>A palette with personality</div>
+        <div class="l-chose-six-most-rep-5FVeIU h3 animate-enter170" show-on-scroll>
           l chose six most representative modern artists to be the reference of my creation. Mark Rothko, Andy Warhol,
           Piet Mondrian, Jackson Pollock, Yayoi Kusama and Marcel Duchamp. Combining their most famous art pieces and
           the historic gesso figures is my idea.&nbsp;&nbsp;
         </div>
-        <div class="to-provide-a-memorab-5FVeIU h3 animate-enter191" show-on-scroll>
+        <div class="to-provide-a-memorab-5FVeIU h3 animate-enter171" show-on-scroll>
           To provide a memorable, engaging experience and a strong brand presence, l curated a vibrant color palette to
           pair with the main concept of this exhibition.
         </div>
-        <img class="path-5-copy-4-5FVeIU" src="img/in-path-5-copy-5-AD5B796E-D95C-4581-B44A-A6340C1F75B7.png" />
-        <img class="path-5-copy-5-5FVeIU" src="img/in-path-5-copy-5-AD5B796E-D95C-4581-B44A-A6340C1F75B7.png" />
+        <img class="path-5-copy-4-5FVeIU" src="img/paulrand-path-5-copy-2-F32CF103-A733-441F-A5AE-A6DB4A51D7F0.png" />
+        <img class="path-5-copy-5-5FVeIU" src="img/paulrand-path-5-copy-2-F32CF103-A733-441F-A5AE-A6DB4A51D7F0.png" />
         <div class="wix-01-copy-5FVeIU">
-          <img class="wix-01-copy-hZaGAb" src="img/conversation-wix-01-copy-8B2C17D3-A876-44F2-8836-642DDF0DD33D.png" />
+          <img class="wix-01-copy-hZaGAb" src="img/conversation-wix-01-copy-DC5BD8E0-5C21-4924-B754-BB01086FDBA3.png" />
         </div>
         <div class="wix-03-5FVeIU">
-          <img class="wix-03-3knFxF" src="img/conversation-wix-03-77A113EF-C123-4414-8680-C0DA36A9DDF7.png" />
+          <img class="wix-03-3knFxF" src="img/conversation-wix-03-E3ACCBF5-9BE7-42B6-985F-EFE2BCE5C819.png" />
         </div>
         <img
           class="gallery-guide2-5FVeIU"
-          src="img/conversation-galleryguide2-65005A52-AEED-4FEF-BA90-4AC65A537B85.png"
+          src="img/conversation-galleryguide2-027FA161-A38C-4772-9323-807C49CB475F.png"
         />
         <div class="getty-images-946509292-5FVeIU">
           <img
             class="getty-images-946509292-cT92BH"
-            src="img/conversation-gettyimages-946509292-F9923825-4436-4F6A-920C-ECDA2D3215DA.png"
+            src="img/conversation-gettyimages-946509292-C07685A2-88D4-473A-AFF8-A1A86ABDD426.png"
           />
         </div>
-        <div class="group-2-5FVeIU smart-layers-pointers animate-enter192" show-on-scroll>
+        <div class="group-2-5FVeIU smart-layers-pointers animate-enter172" show-on-scroll>
           <div class="next-project-La0sS8 archivoexpanded-medium-white-16px" show-on-scroll>NEXT PROJECT</div>
           <img
             class="path-6-La0sS8 smart-layers-pointers"
             show-on-scroll
-            src="img/in-path-6-90FB322A-42AE-4BA3-BDD8-3B97DC128A65@2x.png"
+            src="img/ava-path-6-7453047C-7B86-4CE0-BD58-58675B87C05F@2x.png"
           />
         </div>
-        <div class="thanks-for-scrolling-5FVeIU manrope-bold-white-80px animate-enter193" show-on-scroll>
+        <div class="thanks-for-scrolling-5FVeIU manrope-bold-white-80px animate-enter173" show-on-scroll>
           Thanks for scrolling
         </div>
-        <img class="path-5-lnUg6I" src="img/in-path-5-copy-5-AD5B796E-D95C-4581-B44A-A6340C1F75B7.png" />
+        <img class="path-5-lnUg6I" src="img/paulrand-path-5-copy-2-F32CF103-A733-441F-A5AE-A6DB4A51D7F0.png" />
         <div class="x-5FVeIU roboto-normal-white-56px">*</div>
-        <div class="exhibition-design-5FVeIU manrope-bold-white-22px animate-enter194" show-on-scroll>
+        <div class="exhibition-design-5FVeIU manrope-bold-white-22px animate-enter174" show-on-scroll>
           Exhibition Design
         </div>
-        <div class="gns-5FVeIU">
-          <div class="about-copy-2-S0uBEV smart-layers-pointers archivoexpanded-regular-normal-white-16px">ABOUT</div>
-          <div class="work-copy-2-S0uBEV smart-layers-pointers archivoexpanded-regular-normal-white-16px">WORK</div>
-          <div class="ash-cui-S0uBEV archivoexpanded-semi-bold-white-24px">ASH CUI</div>
+        <a href="about.html"
+          ><div class="about-copy-2-5FVeIU smart-layers-pointers archivoexpanded-regular-normal-white-16px">
+            ABOUT
+          </div></a
+        ><a href="work.html"
+          ><div class="work-copy-2-5FVeIU smart-layers-pointers archivoexpanded-regular-normal-white-16px">WORK</div></a
+        ><a href="index.html"><div class="ash-cui-5FVeIU archivoexpanded-semi-bold-white-24px">ASH CUI</div></a>
+        <div class="group-2-lnUg6I">
+          <img class="sayhi-2SmF4C" src="img/in-sayhi-19260BF0-BE71-4081-B3A6-81E879AA7323.png" />
+          <img class="path-2SmF4C" src="img/sheep-path-EB0FD6B1-DF18-440B-BC68-A080F22DB7C3@2x.png" />
+          <div class="textlabel-2SmF4C applecoloremoji-normal-white-40px">👋</div>
         </div>
-        <div class="footer-5FVeIU">
-          <div class="group-4-nP28Vn animate-enter195" show-on-scroll>
-            <div class="group-2-SI9rxH">
-              <div class="say-hi-y5Xtgc manrope-bold-white-166px">Say hi</div>
-              <img class="path-y5Xtgc" src="img/sheep-path-CABF12F2-28FF-47E3-B1FE-B475928B30CC@2x.png" />
-              <div class="textlabel-y5Xtgc applecoloremoji-normal-white-40px">👋</div>
-            </div>
-          </div>
-          <div class="group-nP28Vn animate-enter196" show-on-scroll>
-            <div class="resume-webe0E archivoexpanded-regular-normal-white-22px">RESUME</div>
-            <img
-              class="path-3-copy-3-webe0E"
-              src="img/homepage-path-3-copy-3-E1E2BE76-3B2D-4247-B8DE-A791609235AF@2x.png"
-            />
-          </div>
-        </div>
+        <a href="#rectangle"><div class="textlabel-5FVeIU applecoloremoji-normal-coconut-45px">🚀</div></a>
       </div>
     </div>
     <script>

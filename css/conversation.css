@@ -25,20 +25,29 @@
   width: auto;
 }
 
-.conversation .conversation-5FVeIU.animate-enter182 {
-  animation: animate-enter182-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .conversation-5FVeIU.animate-enter162 {
+  animation: animate-enter162-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter182-frames {
+@keyframes animate-enter162-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
 to{opacity: 1;
 transform: translate(0,0);
 }
+}
+
+.conversation .rectangle-5FVeIU {
+  background-color: var(--black);
+  height: 11px;
+  left: 562px;
+  position: absolute;
+  top: 0px;
+  width: 311px;
 }
 
 .conversation .a-display-of-two-art-5FVeIU {
@@ -59,14 +68,14 @@ transform: translate(0,0);
   width: 739px;
 }
 
-.conversation .a-display-of-two-art-5FVeIU.animate-enter183 {
-  animation: animate-enter183-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .a-display-of-two-art-5FVeIU.animate-enter163 {
+  animation: animate-enter163-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter183-frames {
+@keyframes animate-enter163-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -92,14 +101,14 @@ transform: translate(0,0);
   width: 56px;
 }
 
-.conversation .x2019-5FVeIU.animate-enter184 {
-  animation: animate-enter184-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.conversation .x2019-5FVeIU.animate-enter164 {
+  animation: animate-enter164-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter184-frames {
+@keyframes animate-enter164-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -126,14 +135,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.conversation .role-copy-5FVeIU.animate-enter185 {
-  animation: animate-enter185-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .role-copy-5FVeIU.animate-enter165 {
+  animation: animate-enter165-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter185-frames {
+@keyframes animate-enter165-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -159,14 +168,14 @@ transform: translate(0,0);
   width: 565px;
 }
 
-.conversation .nowadays-more-and-m-5FVeIU.animate-enter186 {
-  animation: animate-enter186-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+.conversation .nowadays-more-and-m-5FVeIU.animate-enter166 {
+  animation: animate-enter166-frames 2.00s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter186-frames {
+@keyframes animate-enter166-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -205,14 +214,14 @@ transform: translate(0,0);
   width: 144px;
 }
 
-.conversation .group-5FVeIU.animate-enter187 {
-  animation: animate-enter187-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+.conversation .group-5FVeIU.animate-enter167 {
+  animation: animate-enter167-frames 2.00s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter187-frames {
+@keyframes animate-enter167-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -363,14 +372,14 @@ transform: translate(0,0);
   width: 739px;
 }
 
-.conversation .behind-the-art-5FVeIU.animate-enter188 {
-  animation: animate-enter188-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .behind-the-art-5FVeIU.animate-enter168 {
+  animation: animate-enter168-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter188-frames {
+@keyframes animate-enter168-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -397,14 +406,14 @@ transform: translate(0,0);
   width: 739px;
 }
 
-.conversation .a-palette-with-perso-5FVeIU.animate-enter189 {
-  animation: animate-enter189-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .a-palette-with-perso-5FVeIU.animate-enter169 {
+  animation: animate-enter169-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter189-frames {
+@keyframes animate-enter169-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -430,14 +439,14 @@ transform: translate(0,0);
   width: 503px;
 }
 
-.conversation .l-chose-six-most-rep-5FVeIU.animate-enter190 {
-  animation: animate-enter190-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.conversation .l-chose-six-most-rep-5FVeIU.animate-enter170 {
+  animation: animate-enter170-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter190-frames {
+@keyframes animate-enter170-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -463,14 +472,14 @@ transform: translate(0,0);
   width: 513px;
 }
 
-.conversation .to-provide-a-memorab-5FVeIU.animate-enter191 {
-  animation: animate-enter191-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.conversation .to-provide-a-memorab-5FVeIU.animate-enter171 {
+  animation: animate-enter171-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter191-frames {
+@keyframes animate-enter171-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -575,14 +584,14 @@ transform: translate(0,0);
   width: 160px;
 }
 
-.conversation .group-2-5FVeIU.animate-enter192 {
-  animation: animate-enter192-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.conversation .group-2-5FVeIU.animate-enter172 {
+  animation: animate-enter172-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter192-frames {
+@keyframes animate-enter172-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -640,12 +649,12 @@ transform: translate(0,0);
   width: auto;
 }
 
-.conversation .thanks-for-scrolling-5FVeIU.animate-enter193 {
-  animation: animate-enter193-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.conversation .thanks-for-scrolling-5FVeIU.animate-enter173 {
+  animation: animate-enter173-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
 }
 
-@keyframes animate-enter193-frames {
+@keyframes animate-enter173-frames {
   from{}
 to{}
 }
@@ -690,14 +699,14 @@ to{}
   width: 248px;
 }
 
-.conversation .exhibition-design-5FVeIU.animate-enter194 {
-  animation: animate-enter194-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.conversation .exhibition-design-5FVeIU.animate-enter174 {
+  animation: animate-enter174-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter194-frames {
+@keyframes animate-enter174-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -706,201 +715,116 @@ transform: translate(0,0);
 }
 }
 
-.conversation .gns-5FVeIU {
-  background-color: transparent;
-  height: 26px;
-  left: 101px;
-  position: absolute;
-  top: 73px;
-  width: 1238px;
-}
-
-.conversation .about-copy-2-S0uBEV {
+.conversation .about-copy-2-5FVeIU {
   background-color: transparent;
   cursor: pointer;
   font-weight: 400;
   height: 17px;
-  left: 1166px;
+  left: 1267px;
   letter-spacing: 0.00px;
   line-height: 17px;
   pointer-events: auto;
   position: absolute;
   text-align: left;
-  top: 5px;
+  top: 78px;
   transition: all 1s ease-in-out;
   white-space: nowrap;
   width: auto;
 }
 
-.conversation .about-copy-2-S0uBEV:hover {
+.conversation .about-copy-2-5FVeIU:hover {
   filter: blur(10px);
 }
 
-.conversation .work-copy-2-S0uBEV {
+.conversation .work-copy-2-5FVeIU {
   background-color: transparent;
   cursor: pointer;
   font-weight: 400;
   height: 17px;
-  left: 1027px;
+  left: 1128px;
   letter-spacing: 0.00px;
   line-height: 17px;
   pointer-events: auto;
   position: absolute;
   text-align: left;
-  top: 5px;
+  top: 78px;
   transition: all 1s ease-in-out;
   white-space: nowrap;
   width: auto;
 }
 
-.conversation .work-copy-2-S0uBEV:hover {
+.conversation .work-copy-2-5FVeIU:hover {
   filter: blur(10px);
 }
 
-.conversation .ash-cui-S0uBEV {
+.conversation .ash-cui-5FVeIU {
   background-color: transparent;
+  cursor: pointer;
   font-weight: 600;
   height: 26px;
-  left: 0px;
+  left: 101px;
   letter-spacing: 0.00px;
   line-height: 26px;
   position: absolute;
   text-align: left;
-  top: 0px;
+  top: 73px;
   white-space: nowrap;
   width: auto;
 }
 
-.conversation .footer-5FVeIU {
+.conversation .group-2-lnUg6I {
   background-color: transparent;
-  height: 519px;
-  left: 482px;
+  height: 182px;
+  left: 488px;
   position: absolute;
-  top: 17405px;
-  width: 482px;
+  top: 17407px;
+  width: 466px;
 }
 
-.conversation .group-4-nP28Vn {
+.conversation .sayhi-2SmF4C {
   background-color: transparent;
-  display: block;
-  filter: blur(10px);
-  height: 178px;
+  height: 162px;
   left: 0px;
-  opacity: 0;
   position: absolute;
-  top: 0px;
-  width: 482px;
+  top: 20px;
+  width: 462px;
 }
 
-.conversation .group-4-nP28Vn.animate-enter195 {
-  animation: animate-enter195-frames 2.00s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  filter: blur(10px);
-  opacity: 0;
-}
-
-@keyframes animate-enter195-frames {
-  from{opacity: 0;
-filter: blur(10px);
-}
-to{opacity: 1;
-filter: none;
-}
-}
-
-.conversation .group-2-SI9rxH {
-  background-color: transparent;
-  height: 178px;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 482px;
-}
-
-.conversation .say-hi-y5Xtgc {
-  background-color: transparent;
-  font-weight: 700;
-  height: 166px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 160px;
-  position: absolute;
-  text-align: left;
-  top: -6px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.conversation .path-y5Xtgc {
+.conversation .path-2SmF4C {
   background-color: transparent;
   height: 6px;
-  left: 338px;
+  left: 332px;
   position: absolute;
-  top: 174px;
+  top: 172px;
   width: 136px;
 }
 
-.conversation .textlabel-y5Xtgc {
+.conversation .textlabel-2SmF4C {
   background-color: transparent;
   font-weight: 400;
   height: 53px;
-  left: 431px;
+  left: 425px;
   letter-spacing: 0.00px;
   line-height: 53px;
   position: absolute;
   text-align: left;
-  top: 2px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.conversation .group-nP28Vn {
-  background-color: transparent;
-  display: block;
-  height: 51px;
-  left: 179px;
-  opacity: 0;
-  position: absolute;
-  top: 468px;
-  transform: translate(0, 25px);
-  width: 123px;
-}
-
-.conversation .group-nP28Vn.animate-enter196 {
-  animation: animate-enter196-frames 1.50s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
-}
-
-@keyframes animate-enter196-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
-}
-
-.conversation .resume-webe0E {
-  background-color: transparent;
-  font-weight: 400;
-  height: 50px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 50px;
-  position: absolute;
-  text-align: left;
   top: 0px;
   white-space: nowrap;
   width: auto;
 }
 
-.conversation .path-3-copy-3-webe0E {
+.conversation .textlabel-5FVeIU {
   background-color: transparent;
-  height: 4px;
-  left: 0px;
+  cursor: pointer;
+  font-weight: 400;
+  height: 59px;
+  left: 1309px;
+  letter-spacing: 0.00px;
+  line-height: 59px;
   position: absolute;
-  top: 46px;
-  width: 124px;
+  text-align: left;
+  top: 17868px;
+  transform: rotate(-45deg);
+  white-space: nowrap;
+  width: auto;
 }

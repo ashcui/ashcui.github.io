@@ -97,14 +97,14 @@
   width: 248px;
 }
 
-.benchling .website-design-9v54ur.animate-enter109 {
-  animation: animate-enter109-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.benchling .website-design-9v54ur.animate-enter97 {
+  animation: animate-enter97-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter109-frames {
+@keyframes animate-enter97-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -131,14 +131,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.benchling .role-copy-9v54ur.animate-enter110 {
-  animation: animate-enter110-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .role-copy-9v54ur.animate-enter98 {
+  animation: animate-enter98-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter110-frames {
+@keyframes animate-enter98-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -164,20 +164,29 @@ transform: translate(0,0);
   width: auto;
 }
 
-.benchling .benchling-9v54ur.animate-enter111 {
-  animation: animate-enter111-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-9v54ur.animate-enter99 {
+  animation: animate-enter99-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter111-frames {
+@keyframes animate-enter99-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
 to{opacity: 1;
 transform: translate(0,0);
 }
+}
+
+.benchling .rectangle-9v54ur {
+  background-color: var(--black);
+  height: 11px;
+  left: 562px;
+  position: absolute;
+  top: 0px;
+  width: 311px;
 }
 
 .benchling .x2019-9v54ur {
@@ -197,14 +206,14 @@ transform: translate(0,0);
   width: 56px;
 }
 
-.benchling .x2019-9v54ur.animate-enter112 {
-  animation: animate-enter112-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.benchling .x2019-9v54ur.animate-enter100 {
+  animation: animate-enter100-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter112-frames {
+@keyframes animate-enter100-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -239,14 +248,14 @@ transform: translate(0,0);
   width: 494px;
 }
 
-.benchling .an-elevated-web-pres-9v54ur.animate-enter113 {
-  animation: animate-enter113-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .an-elevated-web-pres-9v54ur.animate-enter101 {
+  animation: animate-enter101-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter113-frames {
+@keyframes animate-enter101-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -272,14 +281,14 @@ transform: translate(0,0);
   width: 606px;
 }
 
-.benchling .traditional-rd-soft-9v54ur.animate-enter114 {
-  animation: animate-enter114-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.benchling .traditional-rd-soft-9v54ur.animate-enter102 {
+  animation: animate-enter102-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter114-frames {
+@keyframes animate-enter102-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -306,14 +315,14 @@ transform: translate(0,0);
   width: 557px;
 }
 
-.benchling .clear-and-concise-me-9v54ur.animate-enter115 {
-  animation: animate-enter115-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .clear-and-concise-me-9v54ur.animate-enter103 {
+  animation: animate-enter103-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter115-frames {
+@keyframes animate-enter103-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -339,14 +348,14 @@ transform: translate(0,0);
   width: 513px;
 }
 
-.benchling .main-focus-for-the-b-9v54ur.animate-enter116 {
-  animation: animate-enter116-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.benchling .main-focus-for-the-b-9v54ur.animate-enter104 {
+  animation: animate-enter104-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter116-frames {
+@keyframes animate-enter104-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -382,14 +391,14 @@ transform: translate(0,0);
   width: 739px;
 }
 
-.benchling .a-refreshed-brand-pa-9v54ur.animate-enter117 {
-  animation: animate-enter117-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .a-refreshed-brand-pa-9v54ur.animate-enter105 {
+  animation: animate-enter105-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter117-frames {
+@keyframes animate-enter105-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -415,14 +424,14 @@ transform: translate(0,0);
   width: 513px;
 }
 
-.benchling .with-the-purpose-of-9v54ur.animate-enter118 {
-  animation: animate-enter118-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.benchling .with-the-purpose-of-9v54ur.animate-enter106 {
+  animation: animate-enter106-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter118-frames {
+@keyframes animate-enter106-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -448,14 +457,14 @@ transform: translate(0,0);
   width: 513px;
 }
 
-.benchling .i-created-custom-ill-9v54ur.animate-enter119 {
-  animation: animate-enter119-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.benchling .i-created-custom-ill-9v54ur.animate-enter107 {
+  animation: animate-enter107-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter119-frames {
+@keyframes animate-enter107-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -524,14 +533,14 @@ transform: translate(0,0);
   width: 160px;
 }
 
-.benchling .group-2-9v54ur.animate-enter120 {
-  animation: animate-enter120-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.benchling .group-2-9v54ur.animate-enter108 {
+  animation: animate-enter108-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter120-frames {
+@keyframes animate-enter108-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -610,14 +619,14 @@ transform: translate(0,0);
   width: 739px;
 }
 
-.benchling .branded-illustration-9v54ur.animate-enter121 {
-  animation: animate-enter121-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .branded-illustration-9v54ur.animate-enter109 {
+  animation: animate-enter109-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter121-frames {
+@keyframes animate-enter109-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -740,12 +749,12 @@ transform: translate(0,0);
   width: auto;
 }
 
-.benchling .thanks-for-scrolling-9v54ur.animate-enter122 {
-  animation: animate-enter122-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.benchling .thanks-for-scrolling-9v54ur.animate-enter110 {
+  animation: animate-enter110-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
 }
 
-@keyframes animate-enter122-frames {
+@keyframes animate-enter110-frames {
   from{}
 to{}
 }
@@ -785,14 +794,14 @@ to{}
   width: 93px;
 }
 
-.benchling .group-9v54ur.animate-enter123 {
-  animation: animate-enter123-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+.benchling .group-9v54ur.animate-enter111 {
+  animation: animate-enter111-frames 2.00s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter123-frames {
+@keyframes animate-enter111-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -855,201 +864,116 @@ transform: translate(0,0);
   width: auto;
 }
 
-.benchling .gns-9v54ur {
-  background-color: transparent;
-  height: 26px;
-  left: 101px;
-  position: absolute;
-  top: 73px;
-  width: 1238px;
-}
-
-.benchling .about-copy-2-iSQWT9 {
+.benchling .about-copy-2-9v54ur {
   background-color: transparent;
   cursor: pointer;
   font-weight: 400;
   height: 17px;
-  left: 1166px;
+  left: 1267px;
   letter-spacing: 0.00px;
   line-height: 17px;
   pointer-events: auto;
   position: absolute;
   text-align: left;
-  top: 5px;
+  top: 78px;
   transition: all 1s ease-in-out;
   white-space: nowrap;
   width: auto;
 }
 
-.benchling .about-copy-2-iSQWT9:hover {
+.benchling .about-copy-2-9v54ur:hover {
   filter: blur(10px);
 }
 
-.benchling .work-copy-2-iSQWT9 {
+.benchling .work-copy-2-9v54ur {
   background-color: transparent;
   cursor: pointer;
   font-weight: 400;
   height: 17px;
-  left: 1027px;
+  left: 1128px;
   letter-spacing: 0.00px;
   line-height: 17px;
   pointer-events: auto;
   position: absolute;
   text-align: left;
-  top: 5px;
+  top: 78px;
   transition: all 1s ease-in-out;
   white-space: nowrap;
   width: auto;
 }
 
-.benchling .work-copy-2-iSQWT9:hover {
+.benchling .work-copy-2-9v54ur:hover {
   filter: blur(10px);
 }
 
-.benchling .ash-cui-iSQWT9 {
+.benchling .ash-cui-9v54ur {
   background-color: transparent;
+  cursor: pointer;
   font-weight: 600;
   height: 26px;
-  left: 0px;
+  left: 101px;
   letter-spacing: 0.00px;
   line-height: 26px;
   position: absolute;
   text-align: left;
-  top: 0px;
+  top: 73px;
   white-space: nowrap;
   width: auto;
 }
 
-.benchling .footer-9v54ur {
+.benchling .group-2-Lhs6Wp {
   background-color: transparent;
-  height: 519px;
-  left: 480px;
+  height: 182px;
+  left: 486px;
   position: absolute;
-  top: 15659px;
-  width: 482px;
+  top: 15661px;
+  width: 466px;
 }
 
-.benchling .group-4-2pzYOl {
+.benchling .sayhi-4flXtH {
   background-color: transparent;
-  display: block;
-  filter: blur(10px);
-  height: 178px;
+  height: 162px;
   left: 0px;
-  opacity: 0;
   position: absolute;
-  top: 0px;
-  width: 482px;
+  top: 20px;
+  width: 462px;
 }
 
-.benchling .group-4-2pzYOl.animate-enter124 {
-  animation: animate-enter124-frames 2.00s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  filter: blur(10px);
-  opacity: 0;
-}
-
-@keyframes animate-enter124-frames {
-  from{opacity: 0;
-filter: blur(10px);
-}
-to{opacity: 1;
-filter: none;
-}
-}
-
-.benchling .group-2-Jmo3Ux {
-  background-color: transparent;
-  height: 178px;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 482px;
-}
-
-.benchling .say-hi-DSwtyf {
-  background-color: transparent;
-  font-weight: 700;
-  height: 166px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 160px;
-  position: absolute;
-  text-align: left;
-  top: -6px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.benchling .path-DSwtyf {
+.benchling .path-4flXtH {
   background-color: transparent;
   height: 6px;
-  left: 338px;
+  left: 332px;
   position: absolute;
-  top: 174px;
+  top: 172px;
   width: 136px;
 }
 
-.benchling .textlabel-DSwtyf {
+.benchling .textlabel-4flXtH {
   background-color: transparent;
   font-weight: 400;
   height: 53px;
-  left: 431px;
+  left: 425px;
   letter-spacing: 0.00px;
   line-height: 53px;
   position: absolute;
   text-align: left;
-  top: 2px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.benchling .group-2pzYOl {
-  background-color: transparent;
-  display: block;
-  height: 51px;
-  left: 179px;
-  opacity: 0;
-  position: absolute;
-  top: 468px;
-  transform: translate(0, 25px);
-  width: 123px;
-}
-
-.benchling .group-2pzYOl.animate-enter125 {
-  animation: animate-enter125-frames 1.50s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
-}
-
-@keyframes animate-enter125-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
-}
-
-.benchling .resume-Ls8wQT {
-  background-color: transparent;
-  font-weight: 400;
-  height: 50px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 50px;
-  position: absolute;
-  text-align: left;
   top: 0px;
   white-space: nowrap;
   width: auto;
 }
 
-.benchling .path-3-copy-3-Ls8wQT {
+.benchling .textlabel-9v54ur {
   background-color: transparent;
-  height: 4px;
-  left: 0px;
+  cursor: pointer;
+  font-weight: 400;
+  height: 59px;
+  left: 1307px;
+  letter-spacing: 0.00px;
+  line-height: 59px;
   position: absolute;
-  top: 46px;
-  width: 124px;
+  text-align: left;
+  top: 16122px;
+  transform: rotate(-45deg);
+  white-space: nowrap;
+  width: auto;
 }
