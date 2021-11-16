@@ -1,0 +1,1224 @@
+/* screen - in */
+
+.in {
+  background-color: var(--black);
+  height: 15786px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.in .in-s06Wdb {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 197px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .in-s06Wdb.animate-enter160 {
+  animation: animate-enter160-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter160-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .luxury-branding-for-s06Wdb {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 80px;
+  left: 730px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1218px;
+  transform: translate(0, 25px);
+  width: 739px;
+}
+
+.in .luxury-branding-for-s06Wdb.animate-enter161 {
+  animation: animate-enter161-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter161-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .x2016-s06Wdb {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 416px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 56px;
+}
+
+.in .x2016-s06Wdb.animate-enter162 {
+  animation: animate-enter162-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter162-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .role-copy-s06Wdb {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 102px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1218px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .role-copy-s06Wdb.animate-enter163 {
+  animation: animate-enter163-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter163-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .in-began-the-busines-s06Wdb {
+  background-color: transparent;
+  color: var(--mercury);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 240px;
+  left: 730px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1345px;
+  transform: translate(0, 25px);
+  width: 565px;
+}
+
+.in .in-began-the-busines-s06Wdb.animate-enter164 {
+  animation: animate-enter164-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter164-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .full-bleed-lifestyle1-s06Wdb {
+  background-color: transparent;
+  height: 550px;
+  left: 98px;
+  position: absolute;
+  top: 545px;
+  width: 1240px;
+}
+
+.in .full-bleed-lifestyle1-VCNvyL {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.in .group-s06Wdb {
+  background-color: transparent;
+  display: block;
+  height: 150px;
+  left: 102px;
+  opacity: 0;
+  position: absolute;
+  top: 1306px;
+  transform: translate(0, 25px);
+  width: 138px;
+}
+
+.in .group-s06Wdb.animate-enter165 {
+  animation: animate-enter165-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter165-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .uiux-design-FyjPx9 {
+  background-color: transparent;
+  color: var(--mercury);
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .design-direction-FyjPx9 {
+  background-color: transparent;
+  color: var(--mercury);
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .brand-identity-FyjPx9 {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 80px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .animation-FyjPx9 {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .visual-identity-desi-s06Wdb {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 1090px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: right;
+  top: 414px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 248px;
+}
+
+.in .visual-identity-desi-s06Wdb.animate-enter166 {
+  animation: animate-enter166-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter166-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .path-5-s06Wdb {
+  background-color: transparent;
+  height: 2px;
+  left: 100px;
+  position: absolute;
+  top: 406px;
+  width: 1237px;
+}
+
+.in .x0-01-s06Wdb {
+  background-color: transparent;
+  height: 1052px;
+  left: 103px;
+  position: absolute;
+  top: 3531px;
+  width: 1237px;
+}
+
+.in .bang-10-s06Wdb {
+  background-color: transparent;
+  height: 712px;
+  left: 97px;
+  position: absolute;
+  top: 7590px;
+  width: 1241px;
+}
+
+.in .bang-10-A2Z0Zh {
+  background-color: transparent;
+  height: 712px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1241px;
+}
+
+.in .iphone-s06Wdb {
+  background-color: transparent;
+  height: 701px;
+  left: 97px;
+  position: absolute;
+  top: 6839px;
+  width: 1246px;
+}
+
+.in .gallery-s06Wdb {
+  background-color: transparent;
+  height: 696px;
+  left: 103px;
+  position: absolute;
+  top: 5732px;
+  width: 1237px;
+}
+
+.in .bang-s06Wdb {
+  background-color: transparent;
+  height: 1286px;
+  left: 100px;
+  position: absolute;
+  top: 9121px;
+  width: 1240px;
+}
+
+.in .bang-xqZJvz {
+  background-color: transparent;
+  height: 1286px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.in .untitled-3-01-s06Wdb {
+  background-color: transparent;
+  height: 2508px;
+  left: 103px;
+  position: absolute;
+  top: 10981px;
+  width: 1240px;
+}
+
+.in .untitled-3-01-nIpT7q {
+  background-color: transparent;
+  height: 2508px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.in .getty-images-946509292-s06Wdb {
+  background-color: transparent;
+  height: 570px;
+  left: 101px;
+  position: absolute;
+  top: 14366px;
+  width: 1238px;
+}
+
+.in .getty-images-946509292-8nDkoG {
+  background-color: transparent;
+  height: 570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1238px;
+}
+
+.in .group-2-s06Wdb {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 26px;
+  left: 1179px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 14215px;
+  transform: translate(0, 25px);
+  transition: all 1.5s ease-in-out;
+  width: 160px;
+}
+
+.in .group-2-s06Wdb.animate-enter167 {
+  animation: animate-enter167-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter167-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .group-2-s06Wdb:hover {
+  filter: blur(10px);
+}
+
+.in .next-project-AzoOD4 {
+  background-color: transparent;
+  font-weight: 500;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .path-6-AzoOD4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2px;
+  left: 2px;
+  pointer-events: auto;
+  position: absolute;
+  top: 24px;
+  transition: all 1.5s ease-in-out;
+  width: 159px;
+}
+
+.in .path-6-AzoOD4:hover {
+  filter: blur(10px);
+}
+
+.in .footer-s06Wdb {
+  background-color: transparent;
+  height: 519px;
+  left: 478px;
+  position: absolute;
+  top: 15198px;
+  width: 482px;
+}
+
+.in .group-4-pUw6cz {
+  background-color: transparent;
+  display: block;
+  filter: blur(10px);
+  height: 178px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 482px;
+}
+
+.in .group-4-pUw6cz.animate-enter168 {
+  animation: animate-enter168-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter168-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.in .group-2-ydzQxx {
+  background-color: transparent;
+  height: 178px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 482px;
+}
+
+.in .say-hi-wxqvyz {
+  background-color: transparent;
+  font-weight: 700;
+  height: 166px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .path-wxqvyz {
+  background-color: transparent;
+  height: 6px;
+  left: 338px;
+  position: absolute;
+  top: 174px;
+  width: 136px;
+}
+
+.in .textlabel-wxqvyz {
+  background-color: transparent;
+  font-weight: 400;
+  height: 53px;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .group-pUw6cz {
+  background-color: transparent;
+  display: block;
+  height: 51px;
+  left: 179px;
+  opacity: 0;
+  position: absolute;
+  top: 468px;
+  transform: translate(0, 25px);
+  width: 123px;
+}
+
+.in .group-pUw6cz.animate-enter169 {
+  animation: animate-enter169-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter169-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .resume-hZaYMx {
+  background-color: transparent;
+  font-weight: 400;
+  height: 50px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .path-3-copy-3-hZaYMx {
+  background-color: transparent;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 46px;
+  width: 124px;
+}
+
+.in .thanks-for-scrolling-s06Wdb {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  position: absolute;
+  text-align: left;
+  top: 14130px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .thanks-for-scrolling-s06Wdb.animate-enter170 {
+  animation: animate-enter170-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+}
+
+@keyframes animate-enter170-frames {
+  from{}
+to{}
+}
+
+.in .path-5-NyFeQa {
+  background-color: transparent;
+  height: 3px;
+  left: 100px;
+  position: absolute;
+  top: 14314px;
+  width: 1238px;
+}
+
+.in .x-s06Wdb {
+  background-color: transparent;
+  font-weight: 400;
+  height: 56px;
+  left: 896px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 14174px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .two-s06Wdb {
+  background-color: transparent;
+  height: 696px;
+  left: 101px;
+  position: absolute;
+  top: 1728px;
+  width: 1237px;
+}
+
+.in .clean-logo-with-neut-s06Wdb {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 80px;
+  left: 103px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 8494px;
+  transform: translate(0, 25px);
+  width: 550px;
+}
+
+.in .clean-logo-with-neut-s06Wdb.animate-enter171 {
+  animation: animate-enter171-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter171-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .an-improved-user-jou-s06Wdb {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 103px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 5444px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.in .an-improved-user-jou-s06Wdb.animate-enter172 {
+  animation: animate-enter172-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter172-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .an-attractive-brand-s06Wdb {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 80px;
+  left: 103px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 2615px;
+  transform: translate(0, 25px);
+  width: 608px;
+}
+
+.in .an-attractive-brand-s06Wdb.animate-enter173 {
+  animation: animate-enter173-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter173-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .customized-photograp-s06Wdb {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 103px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 10688px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.in .customized-photograp-s06Wdb.animate-enter174 {
+  animation: animate-enter174-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter174-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .the-goal-was-to-pres-s06Wdb {
+  background-color: transparent;
+  color: var(--mercury);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 120px;
+  left: 103px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 5520px;
+  transform: translate(0, 25px);
+  width: 513px;
+}
+
+.in .the-goal-was-to-pres-s06Wdb.animate-enter175 {
+  animation: animate-enter175-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter175-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .the-new-website-need-s06Wdb {
+  background-color: transparent;
+  color: var(--mercury);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 270px;
+  left: 103px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 2729px;
+  transform: translate(0, 25px);
+  width: 513px;
+}
+
+.in .the-new-website-need-s06Wdb.animate-enter176 {
+  animation: animate-enter176-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter176-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .path-5-copy-2-s06Wdb {
+  background-color: transparent;
+  height: 4px;
+  left: 102px;
+  position: absolute;
+  top: 8450px;
+  width: 1237px;
+}
+
+.in .path-5-copy-4-s06Wdb {
+  background-color: transparent;
+  height: 4px;
+  left: 102px;
+  position: absolute;
+  top: 5400px;
+  width: 1237px;
+}
+
+.in .path-5-copy-5-s06Wdb {
+  background-color: transparent;
+  height: 4px;
+  left: 102px;
+  position: absolute;
+  top: 2572px;
+  width: 1237px;
+}
+
+.in .path-5-copy-3-s06Wdb {
+  background-color: transparent;
+  height: 4px;
+  left: 102px;
+  position: absolute;
+  top: 10644px;
+  width: 1237px;
+}
+
+.in .ff-05-s06Wdb {
+  background-color: transparent;
+  height: 342px;
+  left: 100px;
+  position: absolute;
+  top: 8779px;
+  width: 1240px;
+}
+
+.in .ff-05-pYhWv2 {
+  background-color: transparent;
+  height: 342px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.in .sketch-01-s06Wdb {
+  background-color: transparent;
+  height: 420px;
+  left: 103px;
+  position: absolute;
+  top: 3111px;
+  width: 1236px;
+}
+
+.in .application-01-s06Wdb {
+  background-color: transparent;
+  height: 265px;
+  left: 103px;
+  position: absolute;
+  top: 13768px;
+  width: 1236px;
+}
+
+.in .application-01-pg7Zoj {
+  background-color: transparent;
+  height: 265px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.in .optimized-for-mobile-s06Wdb {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 6601px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.in .optimized-for-mobile-s06Wdb.animate-enter177 {
+  animation: animate-enter177-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter177-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .in-provides-a-seamle-s06Wdb {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 60px;
+  left: 103px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 6686px;
+  transform: translate(0, 25px);
+  width: 512px;
+}
+
+.in .in-provides-a-seamle-s06Wdb.animate-enter178 {
+  animation: animate-enter178-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter178-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .by-using-the-neutral-s06Wdb {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 150px;
+  left: 103px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 8606px;
+  transform: translate(0, 25px);
+  width: 512px;
+}
+
+.in .by-using-the-neutral-s06Wdb.animate-enter179 {
+  animation: animate-enter179-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter179-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .after-getting-permis-s06Wdb {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 180px;
+  left: 103px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 10739px;
+  transform: translate(0, 25px);
+  width: 512px;
+}
+
+.in .after-getting-permis-s06Wdb.animate-enter180 {
+  animation: animate-enter180-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter180-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .path-5-tZtrpw {
+  background-color: transparent;
+  height: 3px;
+  left: 100px;
+  position: absolute;
+  top: 6578px;
+  width: 1242px;
+}
+
+.in .applications-s06Wdb {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 103px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 13640px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.in .applications-s06Wdb.animate-enter181 {
+  animation: animate-enter181-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter181-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .path-5-copy-3-NyFeQa {
+  background-color: transparent;
+  height: 4px;
+  left: 102px;
+  position: absolute;
+  top: 13596px;
+  width: 1237px;
+}
+
+.in .rectangle-s06Wdb {
+  background-color: var(--white);
+  height: 89px;
+  left: 1235px;
+  position: absolute;
+  top: 9110px;
+  width: 105px;
+}
+
+.in .rectangle-copy-4-s06Wdb {
+  background-color: var(--white);
+  height: 89px;
+  left: 100px;
+  position: absolute;
+  top: 10407px;
+  width: 1240px;
+}
+
+.in .gns-s06Wdb {
+  background-color: transparent;
+  height: 26px;
+  left: 101px;
+  position: absolute;
+  top: 73px;
+  width: 1238px;
+}
+
+.in .about-copy-2-3MCvjx {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1166px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .about-copy-2-3MCvjx:hover {
+  filter: blur(10px);
+}
+
+.in .work-copy-2-3MCvjx {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1027px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.in .work-copy-2-3MCvjx:hover {
+  filter: blur(10px);
+}
+
+.in .ash-cui-3MCvjx {
+  background-color: transparent;
+  font-weight: 600;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}

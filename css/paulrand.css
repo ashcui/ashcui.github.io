@@ -1,0 +1,983 @@
+/* screen - paulrand */
+
+.paulrand {
+  background-color: var(--black);
+  height: 17077px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.paulrand .full-bleed-lifestyle1-ED6WlS {
+  background-color: transparent;
+  height: 550px;
+  left: 99px;
+  position: absolute;
+  top: 545px;
+  width: 1240px;
+}
+
+.paulrand .full-bleed-lifestyle1-0kTWDG {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.paulrand .group-ED6WlS {
+  background-color: transparent;
+  display: block;
+  height: 150px;
+  left: 102px;
+  opacity: 0;
+  position: absolute;
+  top: 1306px;
+  transform: translate(0, 25px);
+  width: 138px;
+}
+
+.paulrand .group-ED6WlS.animate-enter145 {
+  animation: animate-enter145-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter145-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .uiux-design-sd7dLh {
+  background-color: transparent;
+  color: var(--mercury);
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .design-direction-sd7dLh {
+  background-color: transparent;
+  color: var(--mercury);
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .brand-identity-sd7dLh {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 80px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .animation-sd7dLh {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .paul-rand-ram-ED6WlS {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 197px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .paul-rand-ram-ED6WlS.animate-enter146 {
+  animation: animate-enter146-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter146-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .exhibition-design-ED6WlS {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 1090px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: right;
+  top: 414px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 248px;
+}
+
+.paulrand .exhibition-design-ED6WlS.animate-enter147 {
+  animation: animate-enter147-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter147-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .in-memory-of-paul-ra-ED6WlS {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 730px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1218px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.paulrand .in-memory-of-paul-ra-ED6WlS.animate-enter148 {
+  animation: animate-enter148-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter148-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .x2016-ED6WlS {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 416px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 56px;
+}
+
+.paulrand .x2016-ED6WlS.animate-enter149 {
+  animation: animate-enter149-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter149-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .role-copy-ED6WlS {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 102px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1218px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .role-copy-ED6WlS.animate-enter150 {
+  animation: animate-enter150-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter150-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .this-exhiibition-is-ED6WlS {
+  background-color: transparent;
+  color: var(--mercury);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 240px;
+  left: 730px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1312px;
+  transform: translate(0, 25px);
+  width: 595px;
+}
+
+.paulrand .this-exhiibition-is-ED6WlS.animate-enter151 {
+  animation: animate-enter151-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter151-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .path-5-ED6WlS {
+  background-color: transparent;
+  height: 2px;
+  left: 100px;
+  position: absolute;
+  top: 406px;
+  width: 1237px;
+}
+
+.paulrand .wix-01-ED6WlS {
+  background-color: transparent;
+  height: 872px;
+  left: 100px;
+  position: absolute;
+  top: 1694px;
+  width: 1242px;
+}
+
+.paulrand .wix-01-wLiu9q {
+  background-color: transparent;
+  height: 872px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1242px;
+}
+
+.paulrand .wix-01-copy-ED6WlS {
+  background-color: transparent;
+  height: 2177px;
+  left: 100px;
+  position: absolute;
+  top: 2566px;
+  width: 1242px;
+}
+
+.paulrand .wix-01-copy-aGwBWj {
+  background-color: transparent;
+  height: 2177px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1242px;
+}
+
+.paulrand .big-bold-typeface-w-ED6WlS {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 120px;
+  left: 103px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 5274px;
+  transform: translate(0, 25px);
+  width: 472px;
+}
+
+.paulrand .big-bold-typeface-w-ED6WlS.animate-enter152 {
+  animation: animate-enter152-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter152-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .path-5-copy-2-ED6WlS {
+  background-color: transparent;
+  height: 4px;
+  left: 102px;
+  position: absolute;
+  top: 5230px;
+  width: 1237px;
+}
+
+.paulrand .wix-03-ED6WlS {
+  background-color: transparent;
+  height: 3238px;
+  left: 99px;
+  position: absolute;
+  top: 5613px;
+  width: 1240px;
+}
+
+.paulrand .wix-04-ED6WlS {
+  background-color: transparent;
+  height: 3825px;
+  left: 100px;
+  position: absolute;
+  top: 8757px;
+  width: 1240px;
+}
+
+.paulrand .x6-ED6WlS {
+  background-color: transparent;
+  height: 804px;
+  left: 100px;
+  position: absolute;
+  top: 11798px;
+  width: 1240px;
+}
+
+.paulrand .wix-05-ED6WlS {
+  background-color: transparent;
+  height: 1257px;
+  left: 100px;
+  position: absolute;
+  top: 12602px;
+  width: 1241px;
+}
+
+.paulrand .wix-05-eLVrwb {
+  background-color: transparent;
+  height: 1257px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1241px;
+}
+
+.paulrand .interior-design-ED6WlS {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 102px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 14051px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.paulrand .interior-design-ED6WlS.animate-enter153 {
+  animation: animate-enter153-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter153-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .path-5-copy-2-xmEcem {
+  background-color: transparent;
+  height: 4px;
+  left: 100px;
+  position: absolute;
+  top: 14008px;
+  width: 1237px;
+}
+
+.paulrand .material6-ED6WlS {
+  background-color: transparent;
+  height: 338px;
+  left: 102px;
+  position: absolute;
+  top: 4743px;
+  width: 620px;
+}
+
+.paulrand .material6-J2Iamx {
+  background-color: transparent;
+  height: 338px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 620px;
+}
+
+.paulrand .getty-images-946509292-ED6WlS {
+  background-color: transparent;
+  height: 570px;
+  left: 102px;
+  position: absolute;
+  top: 15657px;
+  width: 1238px;
+}
+
+.paulrand .getty-images-946509292-BMQuzM {
+  background-color: transparent;
+  height: 570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1238px;
+}
+
+.paulrand .thanks-for-scrolling-ED6WlS {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  position: absolute;
+  text-align: left;
+  top: 15421px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .thanks-for-scrolling-ED6WlS.animate-enter154 {
+  animation: animate-enter154-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+}
+
+@keyframes animate-enter154-frames {
+  from{}
+to{}
+}
+
+.paulrand .group-2-ED6WlS {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 26px;
+  left: 1182px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 15501px;
+  transform: translate(0, 25px);
+  transition: all 1.5s ease-in-out;
+  width: 160px;
+}
+
+.paulrand .group-2-ED6WlS.animate-enter155 {
+  animation: animate-enter155-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter155-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .group-2-ED6WlS:hover {
+  filter: blur(10px);
+}
+
+.paulrand .next-project-RluBeu {
+  background-color: transparent;
+  font-weight: 500;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .path-6-RluBeu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2px;
+  left: 2px;
+  pointer-events: auto;
+  position: absolute;
+  top: 24px;
+  transition: all 1.5s ease-in-out;
+  width: 159px;
+}
+
+.paulrand .path-6-RluBeu:hover {
+  filter: blur(10px);
+}
+
+.paulrand .path-5-xmEcem {
+  background-color: transparent;
+  height: 3px;
+  left: 102px;
+  position: absolute;
+  top: 15604px;
+  width: 1238px;
+}
+
+.paulrand .material3-ED6WlS {
+  background-color: transparent;
+  height: 337px;
+  left: 722px;
+  position: absolute;
+  top: 4744px;
+  width: 620px;
+}
+
+.paulrand .material3-xaG0tA {
+  background-color: transparent;
+  height: 337px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 620px;
+}
+
+.paulrand .wix-0sss6-01-ED6WlS {
+  background-color: transparent;
+  height: 925px;
+  left: 103px;
+  position: absolute;
+  top: 14400px;
+  width: 620px;
+}
+
+.paulrand .material2-ED6WlS {
+  background-color: transparent;
+  height: 355px;
+  left: 740px;
+  position: absolute;
+  top: 14372px;
+  width: 589px;
+}
+
+.paulrand .material2-2t6uxj {
+  background-color: transparent;
+  height: 355px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 589px;
+}
+
+.paulrand .material1-ED6WlS {
+  background-color: transparent;
+  height: 431px;
+  left: 740px;
+  position: absolute;
+  top: 14904px;
+  width: 575px;
+}
+
+.paulrand .paul-rand-always-emp-ED6WlS {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 150px;
+  left: 103px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 5371px;
+  transform: translate(0, 25px);
+  width: 512px;
+}
+
+.paulrand .paul-rand-always-emp-ED6WlS.animate-enter156 {
+  animation: animate-enter156-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter156-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .the-area-of-this-exh-ED6WlS {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 180px;
+  left: 103px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 14127px;
+  transform: translate(0, 25px);
+  width: 512px;
+}
+
+.paulrand .the-area-of-this-exh-ED6WlS.animate-enter157 {
+  animation: animate-enter157-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter157-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .clean-open-layouts-ED6WlS {
+  background-color: transparent;
+  font-weight: 700;
+  height: 80px;
+  left: -828px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  position: absolute;
+  text-align: left;
+  top: 3565px;
+  white-space: nowrap;
+  width: 910px;
+}
+
+.paulrand .path-5-copy-3-ED6WlS {
+  background-color: transparent;
+  height: 4px;
+  left: -832px;
+  position: absolute;
+  top: 3032px;
+  width: 1237px;
+}
+
+.paulrand .path-5-copy-10-ED6WlS {
+  background-color: transparent;
+  height: 4px;
+  left: -832px;
+  position: absolute;
+  top: 3266px;
+  width: 1237px;
+}
+
+.paulrand .gns-ED6WlS {
+  background-color: transparent;
+  height: 26px;
+  left: 101px;
+  position: absolute;
+  top: 73px;
+  width: 1238px;
+}
+
+.paulrand .about-copy-2-LFfrAq {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1166px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .about-copy-2-LFfrAq:hover {
+  filter: blur(10px);
+}
+
+.paulrand .work-copy-2-LFfrAq {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1027px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .work-copy-2-LFfrAq:hover {
+  filter: blur(10px);
+}
+
+.paulrand .ash-cui-LFfrAq {
+  background-color: transparent;
+  font-weight: 600;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .footer-ED6WlS {
+  background-color: transparent;
+  height: 519px;
+  left: 482px;
+  position: absolute;
+  top: 16489px;
+  width: 482px;
+}
+
+.paulrand .group-4-q6jJ2Q {
+  background-color: transparent;
+  display: block;
+  filter: blur(10px);
+  height: 178px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 482px;
+}
+
+.paulrand .group-4-q6jJ2Q.animate-enter158 {
+  animation: animate-enter158-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter158-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.paulrand .group-2-TwOgx2 {
+  background-color: transparent;
+  height: 178px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 482px;
+}
+
+.paulrand .say-hi-DVQWQ0 {
+  background-color: transparent;
+  font-weight: 700;
+  height: 166px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .path-DVQWQ0 {
+  background-color: transparent;
+  height: 6px;
+  left: 338px;
+  position: absolute;
+  top: 174px;
+  width: 136px;
+}
+
+.paulrand .textlabel-DVQWQ0 {
+  background-color: transparent;
+  font-weight: 400;
+  height: 53px;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .group-q6jJ2Q {
+  background-color: transparent;
+  display: block;
+  height: 51px;
+  left: 179px;
+  opacity: 0;
+  position: absolute;
+  top: 468px;
+  transform: translate(0, 25px);
+  width: 123px;
+}
+
+.paulrand .group-q6jJ2Q.animate-enter159 {
+  animation: animate-enter159-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter159-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .resume-Rr08sX {
+  background-color: transparent;
+  font-weight: 400;
+  height: 50px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.paulrand .path-3-copy-3-Rr08sX {
+  background-color: transparent;
+  height: 4px;
+  left: -1px;
+  position: absolute;
+  top: 46px;
+  width: 124px;
+}
+
+.paulrand .logo-ED6WlS {
+  background-color: transparent;
+  height: 826px;
+  left: 1294px;
+  position: absolute;
+  top: 4533px;
+  width: 1468px;
+}

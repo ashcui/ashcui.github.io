@@ -1,0 +1,866 @@
+/* screen - work */
+
+.work {
+  background-color: var(--black);
+  height: 8005px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.work .uiux-vLgc0E {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 202px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .uiux-vLgc0E.animate-enter12 {
+  animation: animate-enter12-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter12-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.work .full-bleed-lifestyle1-copy-vLgc0E {
+  background-color: transparent;
+  height: 550px;
+  left: 98px;
+  position: absolute;
+  top: 465px;
+  width: 1240px;
+}
+
+.work .full-bleed-lifestyle1-copy-ypQ9k3 {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.work .thumbnail-copy-4-vLgc0E {
+  background-color: transparent;
+  height: 550px;
+  left: 100px;
+  position: absolute;
+  top: 1168px;
+  width: 1236px;
+}
+
+.work .thumbnail-copy-4-flU6CU {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
+}
+
+.work .full-bleed-lifestyle1-copy-2-vLgc0E {
+  background-color: transparent;
+  height: 550px;
+  left: 98px;
+  position: absolute;
+  top: 2570px;
+  width: 1240px;
+}
+
+.work .full-bleed-lifestyle1-copy-2-0yuhxT {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.work .full-bleed-lifestyle1-copy-3-vLgc0E {
+  background-color: transparent;
+  height: 550px;
+  left: 99px;
+  position: absolute;
+  top: 3271px;
+  width: 1240px;
+}
+
+.work .full-bleed-lifestyle1-copy-3-WNueUK {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.work .full-bleed-lifestyle1-copy-4-vLgc0E {
+  background-color: transparent;
+  height: 550px;
+  left: 97px;
+  position: absolute;
+  top: 3969px;
+  width: 1240px;
+}
+
+.work .full-bleed-lifestyle1-copy-4-BfIJGd {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.work .sheep-copy-vLgc0E {
+  background-color: transparent;
+  display: block;
+  font-weight: 600;
+  height: 50px;
+  left: 1263px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  text-align: right;
+  top: 4552px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .sheep-copy-vLgc0E.animate-enter13 {
+  animation: animate-enter13-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter13-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.work .copy-9-vLgc0E {
+  background-color: transparent;
+  font-weight: 400;
+  height: 56px;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 4550px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .plex-copy-vLgc0E {
+  background-color: transparent;
+  display: block;
+  font-weight: 600;
+  height: 50px;
+  left: 1288px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  text-align: right;
+  top: 3855px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .plex-copy-vLgc0E.animate-enter14 {
+  animation: animate-enter14-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter14-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.work .copy-10-vLgc0E {
+  background-color: transparent;
+  font-weight: 400;
+  height: 56px;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 3852px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .google-copy-vLgc0E {
+  background-color: transparent;
+  display: block;
+  font-weight: 600;
+  height: 50px;
+  left: 1255px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  text-align: right;
+  top: 3154px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .google-copy-vLgc0E.animate-enter15 {
+  animation: animate-enter15-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter15-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.work .dlight-copy-vLgc0E {
+  background-color: transparent;
+  display: block;
+  font-weight: 600;
+  height: 50px;
+  left: 1263px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  text-align: right;
+  top: 2453px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .dlight-copy-vLgc0E.animate-enter16 {
+  animation: animate-enter16-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter16-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.work .copy-11-vLgc0E {
+  background-color: transparent;
+  font-weight: 400;
+  height: 56px;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 3151px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .copy-12-vLgc0E {
+  background-color: transparent;
+  font-weight: 400;
+  height: 56px;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 2450px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .ava-copy-vLgc0E {
+  background-color: transparent;
+  display: block;
+  font-weight: 600;
+  height: 50px;
+  left: 1290px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  text-align: right;
+  top: 1753px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .ava-copy-vLgc0E.animate-enter17 {
+  animation: animate-enter17-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter17-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.work .copy-13-vLgc0E {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 56px;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1749px;
+  transition: all 1s linear;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .copy-13-vLgc0E:hover {
+  transform: rotate(360deg);
+}
+
+.work .benchling-copy-vLgc0E {
+  background-color: transparent;
+  display: block;
+  font-weight: 600;
+  height: 50px;
+  left: 1224px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1046px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .benchling-copy-vLgc0E.animate-enter18 {
+  animation: animate-enter18-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter18-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.work .copy-14-vLgc0E {
+  background-color: transparent;
+  font-weight: 400;
+  height: 56px;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 1046px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .full-bleed-lifestyle1-copy-5-vLgc0E {
+  background-color: transparent;
+  height: 550px;
+  left: 97px;
+  position: absolute;
+  top: 1869px;
+  width: 1240px;
+}
+
+.work .full-bleed-lifestyle1-copy-5-SHv2XF {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.work .paul-rand-vLgc0E {
+  background-color: transparent;
+  display: block;
+  font-weight: 600;
+  height: 50px;
+  left: 1221px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  text-align: right;
+  top: 5703px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .paul-rand-vLgc0E.animate-enter19 {
+  animation: animate-enter19-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter19-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.work .in-vLgc0E {
+  background-color: transparent;
+  display: block;
+  font-weight: 600;
+  height: 50px;
+  left: 1316px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  text-align: right;
+  top: 6403px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .in-vLgc0E.animate-enter20 {
+  animation: animate-enter20-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter20-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.work .conversation-vLgc0E {
+  background-color: transparent;
+  display: block;
+  font-weight: 600;
+  height: 50px;
+  left: 1184px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  text-align: right;
+  top: 7101px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .conversation-vLgc0E.animate-enter21 {
+  animation: animate-enter21-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter21-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.work .copy-6-vLgc0E {
+  background-color: transparent;
+  font-weight: 400;
+  height: 56px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 5701px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .copy-7-vLgc0E {
+  background-color: transparent;
+  font-weight: 400;
+  height: 56px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 6401px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .copy-8-vLgc0E {
+  background-color: transparent;
+  font-weight: 400;
+  height: 56px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 7099px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .branding-vLgc0E {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 4831px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .branding-vLgc0E.animate-enter22 {
+  animation: animate-enter22-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter22-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.work .full-bleed-lifestyle1-vLgc0E {
+  background-color: transparent;
+  height: 550px;
+  left: 100px;
+  position: absolute;
+  top: 5119px;
+  width: 1240px;
+}
+
+.work .full-bleed-lifestyle1-PkzIGd {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.work .full-bleed-lifestyle1-03nOWn {
+  background-color: transparent;
+  height: 550px;
+  left: 100px;
+  position: absolute;
+  top: 5818px;
+  width: 1240px;
+}
+
+.work .full-bleed-lifestyle1-YRr0VO {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.work .full-bleed-lifestyle1-Ehflww {
+  background-color: transparent;
+  height: 550px;
+  left: 102px;
+  position: absolute;
+  top: 6517px;
+  width: 1240px;
+}
+
+.work .full-bleed-lifestyle1-x5DbGU {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.work .gns-vLgc0E {
+  background-color: transparent;
+  height: 26px;
+  left: 101px;
+  position: absolute;
+  top: 73px;
+  width: 1238px;
+}
+
+.work .about-copy-2-n2c4Cx {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1166px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .about-copy-2-n2c4Cx:hover {
+  filter: blur(10px);
+}
+
+.work .work-copy-2-n2c4Cx {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1027px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .work-copy-2-n2c4Cx:hover {
+  filter: blur(10px);
+}
+
+.work .ash-cui-n2c4Cx {
+  background-color: transparent;
+  font-weight: 600;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .footer-vLgc0E {
+  background-color: transparent;
+  height: 519px;
+  left: 474px;
+  position: absolute;
+  top: 7417px;
+  width: 482px;
+}
+
+.work .group-4-9WxQnC {
+  background-color: transparent;
+  display: block;
+  filter: blur(10px);
+  height: 178px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 482px;
+}
+
+.work .group-4-9WxQnC.animate-enter23 {
+  animation: animate-enter23-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter23-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.work .group-2-tdhvVm {
+  background-color: transparent;
+  height: 178px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 482px;
+}
+
+.work .say-hi-OWjFZj {
+  background-color: transparent;
+  font-weight: 700;
+  height: 166px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .path-OWjFZj {
+  background-color: transparent;
+  height: 7px;
+  left: 338px;
+  position: absolute;
+  top: 174px;
+  width: 136px;
+}
+
+.work .textlabel-OWjFZj {
+  background-color: transparent;
+  font-weight: 400;
+  height: 53px;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .group-9WxQnC {
+  background-color: transparent;
+  display: block;
+  height: 51px;
+  left: 179px;
+  opacity: 0;
+  position: absolute;
+  top: 468px;
+  transform: translate(0, 25px);
+  width: 123px;
+}
+
+.work .group-9WxQnC.animate-enter24 {
+  animation: animate-enter24-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter24-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.work .resume-mmbhog {
+  background-color: transparent;
+  font-weight: 400;
+  height: 50px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.work .path-3-copy-3-mmbhog {
+  background-color: transparent;
+  height: 4px;
+  left: -1px;
+  position: absolute;
+  top: 47px;
+  width: 124px;
+}

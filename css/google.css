@@ -1,0 +1,959 @@
+/* screen - google */
+
+.google {
+  background-color: var(--black);
+  height: 11144px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.google .full-bleed-lifestyle1-HPj8ol {
+  background-color: transparent;
+  height: 550px;
+  left: 99px;
+  position: absolute;
+  top: 545px;
+  width: 1240px;
+}
+
+.google .full-bleed-lifestyle1-2UdSN4 {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.google .google-HPj8ol {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 197px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .google-HPj8ol.animate-enter44 {
+  animation: animate-enter44-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter44-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .gns-HPj8ol {
+  background-color: transparent;
+  height: 26px;
+  left: 101px;
+  position: absolute;
+  top: 73px;
+  width: 1238px;
+}
+
+.google .about-copy-2-PCxc3D {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1166px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .about-copy-2-PCxc3D:hover {
+  filter: blur(10px);
+}
+
+.google .work-copy-2-PCxc3D {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1027px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .work-copy-2-PCxc3D:hover {
+  filter: blur(10px);
+}
+
+.google .ash-cui-PCxc3D {
+  background-color: transparent;
+  font-weight: 600;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .designing-san-joss-HPj8ol {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 80px;
+  left: 730px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1218px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.google .designing-san-joss-HPj8ol.animate-enter45 {
+  animation: animate-enter45-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter45-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .by-san-jos-for-san-HPj8ol {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 4491px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .by-san-jos-for-san-HPj8ol.animate-enter46 {
+  animation: animate-enter46-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter46-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .local-inspiration-HPj8ol {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 6482px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.google .local-inspiration-HPj8ol.animate-enter47 {
+  animation: animate-enter47-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter47-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .mobile-HPj8ol {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 8578px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.google .mobile-HPj8ol.animate-enter48 {
+  animation: animate-enter48-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter48-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .path-5-HPj8ol {
+  background-color: transparent;
+  height: 3px;
+  left: 96px;
+  position: absolute;
+  top: 8554px;
+  width: 1245px;
+}
+
+.google .x2020-HPj8ol {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 414px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 56px;
+}
+
+.google .x2020-HPj8ol.animate-enter49 {
+  animation: animate-enter49-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter49-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .website-design-HPj8ol {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 1137px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 414px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 248px;
+}
+
+.google .website-design-HPj8ol.animate-enter50 {
+  animation: animate-enter50-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter50-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .role-HPj8ol {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 102px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1225px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .role-HPj8ol.animate-enter51 {
+  animation: animate-enter51-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter51-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .with-googles-expans-HPj8ol {
+  background-color: transparent;
+  color: var(--mercury);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 150px;
+  left: 730px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1307px;
+  transform: translate(0, 25px);
+  width: 583px;
+}
+
+.google .with-googles-expans-HPj8ol.animate-enter52 {
+  animation: animate-enter52-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter52-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .for-google-it-was-e-HPj8ol {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 150px;
+  left: 102px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 4591px;
+  transform: translate(0, 25px);
+  width: 503px;
+}
+
+.google .for-google-it-was-e-HPj8ol.animate-enter53 {
+  animation: animate-enter53-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter53-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .with-mobile-visitors-HPj8ol {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 90px;
+  left: 102px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 6567px;
+  transform: translate(0, 25px);
+  width: 512px;
+}
+
+.google .with-mobile-visitors-HPj8ol.animate-enter54 {
+  animation: animate-enter54-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter54-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .with-mobile-visitors-OO7AyR {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 50px;
+  left: 100px;
+  line-height: 25px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 8666px;
+  transform: translate(0, 25px);
+  width: 544px;
+}
+
+.google .with-mobile-visitors-OO7AyR.animate-enter55 {
+  animation: animate-enter55-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter55-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .group-HPj8ol {
+  background-color: transparent;
+  display: block;
+  height: 110px;
+  left: 102px;
+  opacity: 0;
+  position: absolute;
+  top: 1307px;
+  transform: translate(0, 25px);
+  width: 93px;
+}
+
+.google .group-HPj8ol.animate-enter56 {
+  animation: animate-enter56-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter56-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .ui-design-xHbfqa {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .animation-xHbfqa {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 80px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .illustration-xHbfqa {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .desktop-comp1-HPj8ol {
+  background-color: transparent;
+  height: 2713px;
+  left: 99px;
+  position: absolute;
+  top: 1607px;
+  width: 1241px;
+}
+
+.google .desktop-comp1-6rLTxu {
+  background-color: transparent;
+  height: 2713px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1241px;
+}
+
+.google .desktop-comp2-HPj8ol {
+  background-color: transparent;
+  height: 1789px;
+  left: 753px;
+  position: absolute;
+  top: 4520px;
+  width: 580px;
+}
+
+.google .desktop-comp4-HPj8ol {
+  background-color: transparent;
+  height: 1295px;
+  left: 99px;
+  position: absolute;
+  top: 5014px;
+  width: 580px;
+}
+
+.google .desktop-comp4-qxjjC8 {
+  background-color: transparent;
+  height: 1295px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 580px;
+}
+
+.google .path-5-OO7AyR {
+  background-color: transparent;
+  height: 4px;
+  left: 98px;
+  position: absolute;
+  top: 4468px;
+  width: 1237px;
+}
+
+.google .color-palette-HPj8ol {
+  background-color: transparent;
+  height: 807px;
+  left: 98px;
+  position: absolute;
+  top: 6739px;
+  width: 1242px;
+}
+
+.google .path-5-Ss7OGQ {
+  background-color: transparent;
+  height: 3px;
+  left: 98px;
+  position: absolute;
+  top: 6458px;
+  width: 1243px;
+}
+
+.google .typography-HPj8ol {
+  background-color: transparent;
+  height: 807px;
+  left: 98px;
+  position: absolute;
+  top: 7596px;
+  width: 1242px;
+}
+
+.google .mobile-comp1-HPj8ol {
+  background-color: transparent;
+  height: 595px;
+  left: 100px;
+  position: absolute;
+  top: 8815px;
+  width: 350px;
+}
+
+.google .mobile-comp3-HPj8ol {
+  background-color: transparent;
+  height: 595px;
+  left: 545px;
+  position: absolute;
+  top: 8815px;
+  width: 350px;
+}
+
+.google .mobile-comp2-HPj8ol {
+  background-color: transparent;
+  height: 595px;
+  left: 990px;
+  position: absolute;
+  top: 8815px;
+  width: 350px;
+}
+
+.google .path-5-xIpSyC {
+  background-color: transparent;
+  height: 2px;
+  left: 100px;
+  position: absolute;
+  top: 406px;
+  width: 1237px;
+}
+
+.google .google-twitter-feed-HPj8ol {
+  background-color: transparent;
+  height: 550px;
+  left: 101px;
+  position: absolute;
+  top: 9744px;
+  width: 1240px;
+}
+
+.google .google-twitter-feed-EKDnrv {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.google .thanks-for-scrolling-HPj8ol {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 9507px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .thanks-for-scrolling-HPj8ol.animate-enter57 {
+  animation: animate-enter57-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter57-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .path-5-1nVHBx {
+  background-color: transparent;
+  height: 3px;
+  left: 100px;
+  position: absolute;
+  top: 9690px;
+  width: 1238px;
+}
+
+.google .x-HPj8ol {
+  background-color: transparent;
+  font-weight: 400;
+  height: 56px;
+  left: 895px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 9551px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .group-2-HPj8ol {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 26px;
+  left: 1177px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 9587px;
+  transform: translate(0, 25px);
+  transition: all 1.5s ease-in-out;
+  width: 160px;
+}
+
+.google .group-2-HPj8ol.animate-enter58 {
+  animation: animate-enter58-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter58-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .group-2-HPj8ol:hover {
+  filter: blur(10px);
+}
+
+.google .next-project-XySSdx {
+  background-color: transparent;
+  font-weight: 500;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .path-6-XySSdx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2px;
+  left: 2px;
+  pointer-events: auto;
+  position: absolute;
+  top: 24px;
+  transition: all 1.5s ease-in-out;
+  width: 159px;
+}
+
+.google .path-6-XySSdx:hover {
+  filter: blur(10px);
+}
+
+.google .footer-HPj8ol {
+  background-color: transparent;
+  height: 519px;
+  left: 480px;
+  position: absolute;
+  top: 10556px;
+  width: 482px;
+}
+
+.google .group-4-2GYmLr {
+  background-color: transparent;
+  display: block;
+  filter: blur(10px);
+  height: 178px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 482px;
+}
+
+.google .group-4-2GYmLr.animate-enter59 {
+  animation: animate-enter59-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter59-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.google .group-2-myxxW0 {
+  background-color: transparent;
+  height: 178px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 482px;
+}
+
+.google .say-hi-SI7AWG {
+  background-color: transparent;
+  font-weight: 700;
+  height: 166px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .path-SI7AWG {
+  background-color: transparent;
+  height: 6px;
+  left: 338px;
+  position: absolute;
+  top: 174px;
+  width: 136px;
+}
+
+.google .textlabel-SI7AWG {
+  background-color: transparent;
+  font-weight: 400;
+  height: 53px;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .group-2GYmLr {
+  background-color: transparent;
+  display: block;
+  height: 51px;
+  left: 179px;
+  opacity: 0;
+  position: absolute;
+  top: 468px;
+  transform: translate(0, 25px);
+  width: 123px;
+}
+
+.google .group-2GYmLr.animate-enter60 {
+  animation: animate-enter60-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter60-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.google .resume-xD3YWx {
+  background-color: transparent;
+  font-weight: 400;
+  height: 50px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.google .path-3-copy-3-xD3YWx {
+  background-color: transparent;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 46px;
+  width: 124px;
+}

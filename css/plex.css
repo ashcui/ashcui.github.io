@@ -1,0 +1,865 @@
+/* screen - plex */
+
+.plex {
+  background-color: var(--black);
+  height: 13582px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.plex .full-bleed-lifestyle1-6fzTlM {
+  background-color: transparent;
+  height: 550px;
+  left: 98px;
+  position: absolute;
+  top: 545px;
+  width: 1240px;
+}
+
+.plex .full-bleed-lifestyle1-4Xt0du {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.plex .plex-6fzTlM {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 197px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .plex-6fzTlM.animate-enter94 {
+  animation: animate-enter94-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter94-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .gns-6fzTlM {
+  background-color: transparent;
+  height: 26px;
+  left: 101px;
+  position: absolute;
+  top: 73px;
+  width: 1238px;
+}
+
+.plex .about-copy-2-0so9SA {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1166px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .about-copy-2-0so9SA:hover {
+  filter: blur(10px);
+}
+
+.plex .work-copy-2-0so9SA {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1027px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .work-copy-2-0so9SA:hover {
+  filter: blur(10px);
+}
+
+.plex .ash-cui-0so9SA {
+  background-color: transparent;
+  font-weight: 600;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .x2021-6fzTlM {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 416px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 56px;
+}
+
+.plex .x2021-6fzTlM.animate-enter95 {
+  animation: animate-enter95-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter95-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .path-5-6fzTlM {
+  background-color: transparent;
+  height: 2px;
+  left: 100px;
+  position: absolute;
+  top: 406px;
+  width: 1237px;
+}
+
+.plex .website-design-6fzTlM {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 1137px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 414px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 248px;
+}
+
+.plex .website-design-6fzTlM.animate-enter96 {
+  animation: animate-enter96-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter96-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .edgy-digital-design-6fzTlM {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 80px;
+  left: 730px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1225px;
+  transform: translate(0, 25px);
+  width: 584px;
+}
+
+.plex .edgy-digital-design-6fzTlM.animate-enter97 {
+  animation: animate-enter97-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter97-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .role-copy-6fzTlM {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 102px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1225px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .role-copy-6fzTlM.animate-enter98 {
+  animation: animate-enter98-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter98-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .plex-systems-a-powe-6fzTlM {
+  background-color: transparent;
+  color: var(--mercury);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 240px;
+  left: 730px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1345px;
+  transform: translate(0, 25px);
+  width: 608px;
+}
+
+.plex .plex-systems-a-powe-6fzTlM.animate-enter99 {
+  animation: animate-enter99-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter99-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .plex-case-stud-desktop-comp1-6fzTlM {
+  background-color: transparent;
+  height: 5390px;
+  left: 102px;
+  position: absolute;
+  top: 1727px;
+  width: 1237px;
+}
+
+.plex .differentiation-thro-6fzTlM {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 80px;
+  left: 102px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 7310px;
+  transform: translate(0, 25px);
+  width: 557px;
+}
+
+.plex .differentiation-thro-6fzTlM.animate-enter100 {
+  animation: animate-enter100-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter100-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .our-designers-explor-6fzTlM {
+  background-color: transparent;
+  color: var(--mercury);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 240px;
+  left: 102px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 7410px;
+  transform: translate(0, 25px);
+  width: 513px;
+}
+
+.plex .our-designers-explor-6fzTlM.animate-enter101 {
+  animation: animate-enter101-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter101-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .path-5-yV6dm5 {
+  background-color: transparent;
+  height: 4px;
+  left: 98px;
+  position: absolute;
+  top: 7264px;
+  width: 1238px;
+}
+
+.plex .plex-case-stud-desktop-comp2-6fzTlM {
+  background-color: transparent;
+  height: 2072px;
+  left: 785px;
+  position: absolute;
+  top: 7317px;
+  width: 550px;
+}
+
+.plex .plex-case-stud-desktop-comp2-e8BWzE {
+  background-color: transparent;
+  height: 2072px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 550px;
+}
+
+.plex .plex-case-stud-desktop-comp3-6fzTlM {
+  background-color: transparent;
+  height: 1877px;
+  left: 102px;
+  position: absolute;
+  top: 7848px;
+  width: 550px;
+}
+
+.plex .plex-case-stud-desktop-comp3-0AT2o8 {
+  background-color: transparent;
+  height: 1877px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 550px;
+}
+
+.plex .making-elements-pop-6fzTlM {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 102px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 9911px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.plex .making-elements-pop-6fzTlM.animate-enter102 {
+  animation: animate-enter102-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter102-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .we-utilized-plexs-s-6fzTlM {
+  background-color: transparent;
+  color: var(--mercury);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 120px;
+  left: 102px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 9971px;
+  transform: translate(0, 25px);
+  width: 513px;
+}
+
+.plex .we-utilized-plexs-s-6fzTlM.animate-enter103 {
+  animation: animate-enter103-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter103-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .path-5-JWRygj {
+  background-color: transparent;
+  height: 4px;
+  left: 100px;
+  position: absolute;
+  top: 9874px;
+  width: 1238px;
+}
+
+.plex .plex-case-stud--color-palette-6fzTlM {
+  background-color: transparent;
+  height: 806px;
+  left: 100px;
+  position: absolute;
+  top: 10183px;
+  width: 1240px;
+}
+
+.plex .plex-case-stud-v1-typography-6fzTlM {
+  background-color: transparent;
+  height: 807px;
+  left: 98px;
+  position: absolute;
+  top: 11039px;
+  width: 1242px;
+}
+
+.plex .plex-case-stud-eed-lifestyle1-6fzTlM {
+  background-color: transparent;
+  height: 550px;
+  left: 100px;
+  position: absolute;
+  top: 12182px;
+  width: 1240px;
+}
+
+.plex .plex-case-stud-eed-lifestyle1-aifswv {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.plex .group-6fzTlM {
+  background-color: transparent;
+  display: block;
+  height: 150px;
+  left: 102px;
+  opacity: 0;
+  position: absolute;
+  top: 1306px;
+  transform: translate(0, 25px);
+  width: 138px;
+}
+
+.plex .group-6fzTlM.animate-enter104 {
+  animation: animate-enter104-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter104-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .uiux-design-vjOYMa {
+  background-color: transparent;
+  color: var(--mercury);
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .design-direction-vjOYMa {
+  background-color: transparent;
+  color: var(--mercury);
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .icongraphy-vjOYMa {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 80px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .animation-vjOYMa {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .thanks-for-scrolling-6fzTlM {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  position: absolute;
+  text-align: left;
+  top: 11945px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .thanks-for-scrolling-6fzTlM.animate-enter105 {
+  animation: animate-enter105-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+}
+
+@keyframes animate-enter105-frames {
+  from{}
+to{}
+}
+
+.plex .path-5-72SLFl {
+  background-color: transparent;
+  height: 3px;
+  left: 102px;
+  position: absolute;
+  top: 12128px;
+  width: 1238px;
+}
+
+.plex .x-6fzTlM {
+  background-color: transparent;
+  font-weight: 400;
+  height: 56px;
+  left: 897px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 11989px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .footer-6fzTlM {
+  background-color: transparent;
+  height: 519px;
+  left: 478px;
+  position: absolute;
+  top: 12994px;
+  width: 482px;
+}
+
+.plex .group-4-1ZMuqr {
+  background-color: transparent;
+  display: block;
+  filter: blur(10px);
+  height: 178px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 482px;
+}
+
+.plex .group-4-1ZMuqr.animate-enter106 {
+  animation: animate-enter106-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter106-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.plex .group-2-kMIxrX {
+  background-color: transparent;
+  height: 178px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 482px;
+}
+
+.plex .say-hi-ny3Xuf {
+  background-color: transparent;
+  font-weight: 700;
+  height: 166px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .path-ny3Xuf {
+  background-color: transparent;
+  height: 6px;
+  left: 338px;
+  position: absolute;
+  top: 174px;
+  width: 136px;
+}
+
+.plex .textlabel-ny3Xuf {
+  background-color: transparent;
+  font-weight: 400;
+  height: 53px;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .group-1ZMuqr {
+  background-color: transparent;
+  display: block;
+  height: 51px;
+  left: 179px;
+  opacity: 0;
+  position: absolute;
+  top: 468px;
+  transform: translate(0, 25px);
+  width: 123px;
+}
+
+.plex .group-1ZMuqr.animate-enter107 {
+  animation: animate-enter107-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter107-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .resume-16KR9a {
+  background-color: transparent;
+  font-weight: 400;
+  height: 50px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .path-3-copy-3-16KR9a {
+  background-color: transparent;
+  height: 4px;
+  left: -1px;
+  position: absolute;
+  top: 46px;
+  width: 124px;
+}
+
+.plex .group-2-6fzTlM {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 26px;
+  left: 1178px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 12025px;
+  transform: translate(0, 25px);
+  transition: all 1.5s ease-in-out;
+  width: 160px;
+}
+
+.plex .group-2-6fzTlM.animate-enter108 {
+  animation: animate-enter108-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter108-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .group-2-6fzTlM:hover {
+  filter: blur(10px);
+}
+
+.plex .next-project-l0UA34 {
+  background-color: transparent;
+  font-weight: 500;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.plex .path-6-l0UA34 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2px;
+  left: 2px;
+  pointer-events: auto;
+  position: absolute;
+  top: 24px;
+  transition: all 1.5s ease-in-out;
+  width: 159px;
+}
+
+.plex .path-6-l0UA34:hover {
+  filter: blur(10px);
+}

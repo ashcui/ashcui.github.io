@@ -1,0 +1,969 @@
+/* screen - ava */
+
+.ava {
+  background-color: var(--black);
+  height: 31617px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.ava .role-copy-GiHQA9 {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 102px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 1225px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .role-copy-GiHQA9.animate-enter78 {
+  animation: animate-enter78-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+  display: block;
+}
+
+@keyframes animate-enter78-frames {
+  from{}
+to{}
+}
+
+.ava .ava-GiHQA9 {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 197px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .ava-GiHQA9.animate-enter79 {
+  animation: animate-enter79-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter79-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.ava .gns-GiHQA9 {
+  background-color: transparent;
+  height: 26px;
+  left: 101px;
+  position: absolute;
+  top: 73px;
+  width: 1238px;
+}
+
+.ava .about-copy-2-ktfTWL {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1166px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .about-copy-2-ktfTWL:hover {
+  filter: blur(10px);
+}
+
+.ava .work-copy-2-ktfTWL {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1027px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .work-copy-2-ktfTWL:hover {
+  filter: blur(10px);
+}
+
+.ava .ash-cui-ktfTWL {
+  background-color: transparent;
+  font-weight: 600;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .x2019-GiHQA9 {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 406px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 56px;
+}
+
+.ava .x2019-GiHQA9.animate-enter80 {
+  animation: animate-enter80-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter80-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.ava .path-5-GiHQA9 {
+  background-color: transparent;
+  height: 2px;
+  left: 100px;
+  position: absolute;
+  top: 406px;
+  width: 1237px;
+}
+
+.ava .a-humanized-platform-GiHQA9 {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 80px;
+  left: 732px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 1225px;
+  width: 516px;
+}
+
+.ava .a-humanized-platform-GiHQA9.animate-enter81 {
+  animation: animate-enter81-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+  display: block;
+}
+
+@keyframes animate-enter81-frames {
+  from{}
+to{}
+}
+
+.ava .this-project-is-abou-GiHQA9 {
+  background-color: transparent;
+  color: var(--mercury);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 210px;
+  left: 732px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1344px;
+  transform: translate(0, 25px);
+  width: 581px;
+}
+
+.ava .this-project-is-abou-GiHQA9.animate-enter82 {
+  animation: animate-enter82-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter82-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.ava .getty-images-946509292-GiHQA9 {
+  background-color: transparent;
+  height: 570px;
+  left: 102px;
+  position: absolute;
+  top: 30197px;
+  width: 1238px;
+}
+
+.ava .getty-images-946509292-SOcH8x {
+  background-color: transparent;
+  height: 570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1238px;
+}
+
+.ava .group-2-GiHQA9 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 26px;
+  left: 1180px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 30046px;
+  transform: translate(0, 25px);
+  transition: all 1.5s ease-in-out;
+  width: 160px;
+}
+
+.ava .group-2-GiHQA9.animate-enter83 {
+  animation: animate-enter83-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter83-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.ava .group-2-GiHQA9:hover {
+  filter: blur(10px);
+}
+
+.ava .next-project-lC7bJG {
+  background-color: transparent;
+  font-weight: 500;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .path-6-lC7bJG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2px;
+  left: 2px;
+  pointer-events: auto;
+  position: absolute;
+  top: 24px;
+  transition: all 1.5s ease-in-out;
+  width: 159px;
+}
+
+.ava .path-6-lC7bJG:hover {
+  filter: blur(10px);
+}
+
+.ava .thanks-for-scrolling-GiHQA9 {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  position: absolute;
+  text-align: left;
+  top: 29961px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .thanks-for-scrolling-GiHQA9.animate-enter84 {
+  animation: animate-enter84-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+}
+
+@keyframes animate-enter84-frames {
+  from{}
+to{}
+}
+
+.ava .path-5-7bdFr3 {
+  background-color: transparent;
+  height: 3px;
+  left: 102px;
+  position: absolute;
+  top: 30144px;
+  width: 1238px;
+}
+
+.ava .x-GiHQA9 {
+  background-color: transparent;
+  font-weight: 400;
+  height: 56px;
+  left: 897px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 30005px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .layout-GiHQA9 {
+  background-color: transparent;
+  height: 711px;
+  left: 101px;
+  position: absolute;
+  top: 1696px;
+  width: 1239px;
+}
+
+.ava .thoughtful-brand-sto-GiHQA9 {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 2598px;
+  transform: translate(0, 25px);
+  width: 857px;
+}
+
+.ava .thoughtful-brand-sto-GiHQA9.animate-enter85 {
+  animation: animate-enter85-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter85-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.ava .by-thoughtfully-surf-GiHQA9 {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 90px;
+  left: 107px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 2724px;
+  transform: translate(0, 25px);
+  width: 503px;
+}
+
+.ava .by-thoughtfully-surf-GiHQA9.animate-enter86 {
+  animation: animate-enter86-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter86-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.ava .path-5-LgRivs {
+  background-color: transparent;
+  height: 4px;
+  left: 102px;
+  position: absolute;
+  top: 2556px;
+  width: 1236px;
+}
+
+.ava .high-03-GiHQA9 {
+  background-color: transparent;
+  height: 4595px;
+  left: 102px;
+  position: absolute;
+  top: 24316px;
+  width: 1238px;
+}
+
+.ava .high-03-oI7Qfx {
+  background-color: transparent;
+  height: 4595px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1238px;
+}
+
+.ava .high-04-GiHQA9 {
+  background-color: transparent;
+  height: 3244px;
+  left: 105px;
+  position: absolute;
+  top: 17521px;
+  width: 1232px;
+}
+
+.ava .high-04-zvKMaI {
+  background-color: transparent;
+  height: 3244px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1232px;
+}
+
+.ava .user-centered-resear-GiHQA9 {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 40px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 20959px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 512px;
+}
+
+.ava .user-centered-resear-GiHQA9.animate-enter87 {
+  animation: animate-enter87-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter87-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.ava .path-5-copy-GiHQA9 {
+  background-color: transparent;
+  height: 3px;
+  left: 100px;
+  position: absolute;
+  top: 20916px;
+  width: 1242px;
+}
+
+.ava .high-06-GiHQA9 {
+  background-color: transparent;
+  height: 4526px;
+  left: 102px;
+  position: absolute;
+  top: 7674px;
+  width: 1238px;
+}
+
+.ava .bitmap-GiHQA9 {
+  background-color: transparent;
+  height: 2786px;
+  left: 102px;
+  position: absolute;
+  top: 12200px;
+  width: 1238px;
+}
+
+.ava .high-01-copy-GiHQA9 {
+  background-color: transparent;
+  height: 1838px;
+  left: 101px;
+  position: absolute;
+  top: 2906px;
+  width: 1238px;
+}
+
+.ava .high-01-copy-4VssP4 {
+  background-color: transparent;
+  height: 1838px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1238px;
+}
+
+.ava .high-05-GiHQA9 {
+  background-color: transparent;
+  height: 3489px;
+  left: 102px;
+  position: absolute;
+  top: 4185px;
+  width: 1238px;
+}
+
+.ava .screen-shot-202-25-at-114224-pm-GiHQA9 {
+  background-color: transparent;
+  height: 550px;
+  left: 102px;
+  position: absolute;
+  top: 539px;
+  width: 1240px;
+}
+
+.ava .screen-shot-202-25-at-114224-pm-AUxCDM {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.ava .website-design-GiHQA9 {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 1137px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  top: 414px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 248px;
+}
+
+.ava .website-design-GiHQA9.animate-enter88 {
+  animation: animate-enter88-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter88-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.ava .group-GiHQA9 {
+  background-color: transparent;
+  display: block;
+  height: 150px;
+  left: 102px;
+  opacity: 0;
+  position: absolute;
+  top: 1306px;
+  transform: translate(0, 25px);
+  width: 138px;
+}
+
+.ava .group-GiHQA9.animate-enter89 {
+  animation: animate-enter89-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter89-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.ava .uiux-design-FGOH63 {
+  background-color: transparent;
+  color: var(--mercury);
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .design-direction-FGOH63 {
+  background-color: transparent;
+  color: var(--mercury);
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .brand-identity-FGOH63 {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 80px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .animation-FGOH63 {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .high-02-GiHQA9 {
+  background-color: transparent;
+  height: 3228px;
+  left: 102px;
+  position: absolute;
+  top: 21088px;
+  width: 1238px;
+}
+
+.ava .high-02-Sx11Au {
+  background-color: transparent;
+  height: 3228px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1238px;
+}
+
+.ava .high-09-GiHQA9 {
+  background-color: transparent;
+  height: 2073px;
+  left: 102px;
+  position: absolute;
+  top: 14986px;
+  width: 1238px;
+}
+
+.ava .high-09-P3Xs21 {
+  background-color: transparent;
+  height: 2073px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1238px;
+}
+
+.ava .extending-the-brand-GiHQA9 {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 104px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 17251px;
+  transform: translate(0, 25px);
+  width: 512px;
+}
+
+.ava .extending-the-brand-GiHQA9.animate-enter90 {
+  animation: animate-enter90-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter90-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.ava .delightful-colors-ar-GiHQA9 {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 60px;
+  left: 104px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 17369px;
+  transform: translate(0, 25px);
+  width: 512px;
+}
+
+.ava .delightful-colors-ar-GiHQA9.animate-enter91 {
+  animation: animate-enter91-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter91-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.ava .path-5-copy-7bdFr3 {
+  background-color: transparent;
+  height: 3px;
+  left: 100px;
+  position: absolute;
+  top: 17208px;
+  width: 1243px;
+}
+
+.ava .high-04-copy-GiHQA9 {
+  background-color: transparent;
+  height: 952px;
+  left: 102px;
+  position: absolute;
+  top: 28911px;
+  width: 1238px;
+}
+
+.ava .high-04-copy-Ky1JoU {
+  background-color: transparent;
+  height: 952px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1238px;
+}
+
+.ava .footer-GiHQA9 {
+  background-color: transparent;
+  height: 519px;
+  left: 480px;
+  position: absolute;
+  top: 31029px;
+  width: 482px;
+}
+
+.ava .group-4-xiUlVU {
+  background-color: transparent;
+  display: block;
+  filter: blur(10px);
+  height: 178px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 482px;
+}
+
+.ava .group-4-xiUlVU.animate-enter92 {
+  animation: animate-enter92-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter92-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.ava .group-2-h8Cenx {
+  background-color: transparent;
+  height: 178px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 482px;
+}
+
+.ava .say-hi-W4BGID {
+  background-color: transparent;
+  font-weight: 700;
+  height: 166px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .path-W4BGID {
+  background-color: transparent;
+  height: 6px;
+  left: 338px;
+  position: absolute;
+  top: 174px;
+  width: 136px;
+}
+
+.ava .textlabel-W4BGID {
+  background-color: transparent;
+  font-weight: 400;
+  height: 53px;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .group-xiUlVU {
+  background-color: transparent;
+  display: block;
+  height: 51px;
+  left: 179px;
+  opacity: 0;
+  position: absolute;
+  top: 468px;
+  transform: translate(0, 25px);
+  width: 123px;
+}
+
+.ava .group-xiUlVU.animate-enter93 {
+  animation: animate-enter93-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter93-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.ava .resume-St0RfU {
+  background-color: transparent;
+  font-weight: 400;
+  height: 50px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ava .path-3-copy-3-St0RfU {
+  background-color: transparent;
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 46px;
+  width: 124px;
+}

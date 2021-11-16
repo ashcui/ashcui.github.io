@@ -1,0 +1,1282 @@
+/* screen - sheep */
+
+.sheep {
+  background-color: var(--black);
+  height: 32381px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.sheep .full-bleed-lifestyle1-f7gdTe {
+  background-color: transparent;
+  height: 550px;
+  left: 98px;
+  position: absolute;
+  top: 545px;
+  width: 1240px;
+}
+
+.sheep .full-bleed-lifestyle1-ltBcyv {
+  background-color: transparent;
+  height: 550px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.sheep .group-f7gdTe {
+  background-color: transparent;
+  display: block;
+  height: 190px;
+  left: 102px;
+  opacity: 0;
+  position: absolute;
+  top: 1306px;
+  transform: translate(0, 25px);
+  width: 143px;
+}
+
+.sheep .group-f7gdTe.animate-enter126 {
+  animation: animate-enter126-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter126-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .uiux-design-eSka7i {
+  background-color: transparent;
+  color: var(--mercury);
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .design-direction-eSka7i {
+  background-color: transparent;
+  color: var(--mercury);
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .brand-identity-eSka7i {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 80px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .animation-eSka7i {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .content-strategy-eSka7i {
+  background-color: transparent;
+  font-weight: 400;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .vertical-farming-is-f7gdTe {
+  background-color: transparent;
+  color: var(--mercury);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 390px;
+  left: 730px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1329px;
+  transform: translate(0, 25px);
+  width: 568px;
+}
+
+.sheep .vertical-farming-is-f7gdTe.animate-enter127 {
+  animation: animate-enter127-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter127-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .role-copy-f7gdTe {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 102px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1218px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .role-copy-f7gdTe.animate-enter128 {
+  animation: animate-enter128-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter128-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .sheep-f7gdTe {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 197px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .sheep-f7gdTe.animate-enter129 {
+  animation: animate-enter129-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter129-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .x2019-f7gdTe {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 416px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 56px;
+}
+
+.sheep .x2019-f7gdTe.animate-enter130 {
+  animation: animate-enter130-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter130-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .path-5-f7gdTe {
+  background-color: transparent;
+  height: 2px;
+  left: 100px;
+  position: absolute;
+  top: 406px;
+  width: 1237px;
+}
+
+.sheep .an-elevated-web-pres-f7gdTe {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 80px;
+  left: 730px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1218px;
+  transform: translate(0, 25px);
+  width: 494px;
+}
+
+.sheep .an-elevated-web-pres-f7gdTe.animate-enter131 {
+  animation: animate-enter131-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter131-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .getty-images-946509292-f7gdTe {
+  background-color: transparent;
+  height: 570px;
+  left: 102px;
+  position: absolute;
+  top: 30961px;
+  width: 1238px;
+}
+
+.sheep .getty-images-946509292-DqNexR {
+  background-color: transparent;
+  height: 570px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1238px;
+}
+
+.sheep .group-2-f7gdTe {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 26px;
+  left: 1178px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 30805px;
+  transform: translate(0, 25px);
+  transition: all 1.5s ease-in-out;
+  width: 160px;
+}
+
+.sheep .group-2-f7gdTe.animate-enter132 {
+  animation: animate-enter132-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter132-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .group-2-f7gdTe:hover {
+  filter: blur(10px);
+}
+
+.sheep .next-project-idopnx {
+  background-color: transparent;
+  font-weight: 500;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .path-6-idopnx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2px;
+  left: 2px;
+  pointer-events: auto;
+  position: absolute;
+  top: 24px;
+  transition: all 1.5s ease-in-out;
+  width: 159px;
+}
+
+.sheep .path-6-idopnx:hover {
+  filter: blur(10px);
+}
+
+.sheep .thanks-for-scrolling-f7gdTe {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 160px;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  position: absolute;
+  text-align: left;
+  top: 30725px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .thanks-for-scrolling-f7gdTe.animate-enter133 {
+  animation: animate-enter133-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+}
+
+@keyframes animate-enter133-frames {
+  from{}
+to{}
+}
+
+.sheep .path-5-zxx4fw {
+  background-color: transparent;
+  height: 3px;
+  left: 102px;
+  position: absolute;
+  top: 30908px;
+  width: 1238px;
+}
+
+.sheep .x-f7gdTe {
+  background-color: transparent;
+  font-weight: 400;
+  height: 56px;
+  left: 897px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 30769px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .wix-recovered-03-f7gdTe {
+  background-color: transparent;
+  height: 4853px;
+  left: 96px;
+  position: absolute;
+  top: 22644px;
+  width: 1244px;
+}
+
+.sheep .wix-recovered-03-2xa2oQ {
+  background-color: transparent;
+  height: 4853px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1244px;
+}
+
+.sheep .wix-recovered-04-f7gdTe {
+  background-color: transparent;
+  height: 2070px;
+  left: 100px;
+  position: absolute;
+  top: 12949px;
+  width: 1240px;
+}
+
+.sheep .wix-recovered-04-8I3Tcn {
+  background-color: transparent;
+  height: 2070px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.sheep .wix-recovered-04-copy-f7gdTe {
+  background-color: transparent;
+  height: 3478px;
+  left: 111px;
+  position: absolute;
+  top: 15361px;
+  width: 1229px;
+}
+
+.sheep .wix-recovered-04-copy-65x1fX {
+  background-color: transparent;
+  height: 3478px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1229px;
+}
+
+.sheep .wix-recovered-05-f7gdTe {
+  background-color: transparent;
+  height: 3211px;
+  left: 104px;
+  position: absolute;
+  top: 9377px;
+  width: 1235px;
+}
+
+.sheep .information-architec-f7gdTe {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 80px;
+  left: 103px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 12780px;
+  transform: translate(0, 25px);
+  width: 739px;
+}
+
+.sheep .information-architec-f7gdTe.animate-enter134 {
+  animation: animate-enter134-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter134-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .design-assets-grid-f7gdTe {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 80px;
+  left: 103px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 15211px;
+  transform: translate(0, 25px);
+  width: 739px;
+}
+
+.sheep .design-assets-grid-f7gdTe.animate-enter135 {
+  animation: animate-enter135-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter135-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .path-5-copy-2-f7gdTe {
+  background-color: transparent;
+  height: 4px;
+  left: 102px;
+  position: absolute;
+  top: 12736px;
+  width: 1237px;
+}
+
+.sheep .path-5-copy-3-f7gdTe {
+  background-color: transparent;
+  height: 4px;
+  left: 102px;
+  position: absolute;
+  top: 15168px;
+  width: 1237px;
+}
+
+.sheep .wix-recovered-06-f7gdTe {
+  background-color: transparent;
+  height: 822px;
+  left: 103px;
+  position: absolute;
+  top: 1865px;
+  width: 1241px;
+}
+
+.sheep .wix-recovered-06-SMM1v5 {
+  background-color: transparent;
+  height: 822px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1241px;
+}
+
+.sheep .a-streamlined-user-e-copy-f7gdTe {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 4143px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.sheep .a-streamlined-user-e-copy-f7gdTe.animate-enter136 {
+  animation: animate-enter136-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter136-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .humanizing-green-tec-f7gdTe {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 2858px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.sheep .humanizing-green-tec-f7gdTe.animate-enter137 {
+  animation: animate-enter137-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter137-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .one-of-the-key-objec-copy-f7gdTe {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 180px;
+  left: 101px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 4233px;
+  transform: translate(0, 25px);
+  width: 519px;
+}
+
+.sheep .one-of-the-key-objec-copy-f7gdTe.animate-enter138 {
+  animation: animate-enter138-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter138-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .when-developing-the-f7gdTe {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 400;
+  height: 210px;
+  left: 103px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 2954px;
+  transform: translate(0, 25px);
+  width: 519px;
+}
+
+.sheep .when-developing-the-f7gdTe.animate-enter139 {
+  animation: animate-enter139-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter139-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .path-5-UnfWS7 {
+  background-color: transparent;
+  height: 4px;
+  left: 102px;
+  position: absolute;
+  top: 2836px;
+  width: 1236px;
+}
+
+.sheep .path-5-copy-f7gdTe {
+  background-color: transparent;
+  height: 4px;
+  left: 102px;
+  position: absolute;
+  top: 4120px;
+  width: 1236px;
+}
+
+.sheep .wix-recovered-06-copy-f7gdTe {
+  background-color: transparent;
+  height: 1729px;
+  left: 97px;
+  position: absolute;
+  top: 4423px;
+  width: 1238px;
+}
+
+.sheep .wix-recovered-06-copy-h2ULnL {
+  background-color: transparent;
+  height: 1729px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1238px;
+}
+
+.sheep .wix-recovered-07-copy-2-f7gdTe {
+  background-color: transparent;
+  height: 953px;
+  left: 101px;
+  position: absolute;
+  top: 8098px;
+  width: 1235px;
+}
+
+.sheep .wix-recovered-07-copy-2-LgPd4t {
+  background-color: transparent;
+  height: 953px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1235px;
+}
+
+.sheep .wix-recovered-07-copy-4-f7gdTe {
+  background-color: transparent;
+  height: 853px;
+  left: 101px;
+  position: absolute;
+  top: 5992px;
+  width: 1235px;
+}
+
+.sheep .wix-recovered-07-copy-4-lR9mBd {
+  background-color: transparent;
+  height: 853px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1235px;
+}
+
+.sheep .design-iterations-f7gdTe {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 103px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 9243px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.sheep .design-iterations-f7gdTe.animate-enter140 {
+  animation: animate-enter140-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter140-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .path-5-copy-2-zxx4fw {
+  background-color: transparent;
+  height: 4px;
+  left: 102px;
+  position: absolute;
+  top: 9200px;
+  width: 1237px;
+}
+
+.sheep .wix-recovered-02-f7gdTe {
+  background-color: transparent;
+  height: 3490px;
+  left: 96px;
+  position: absolute;
+  top: 19160px;
+  width: 1248px;
+}
+
+.sheep .wix-recovered-02-fDEhjd {
+  background-color: transparent;
+  height: 3490px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1248px;
+}
+
+.sheep .user-centered-design-f7gdTe {
+  background-color: transparent;
+  color: var(--white);
+  display: block;
+  font-style: normal;
+  font-weight: 800;
+  height: 40px;
+  left: 103px;
+  line-height: 40px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 19031px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 739px;
+}
+
+.sheep .user-centered-design-f7gdTe.animate-enter141 {
+  animation: animate-enter141-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter141-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .path-5-copy-2-UnfWS7 {
+  background-color: transparent;
+  height: 4px;
+  left: 102px;
+  position: absolute;
+  top: 18988px;
+  width: 1237px;
+}
+
+.sheep .wix-recovered-08-f7gdTe {
+  background-color: transparent;
+  height: 2443px;
+  left: 97px;
+  position: absolute;
+  top: 27493px;
+  width: 1241px;
+}
+
+.sheep .wix-recovered-08-xGQRnz {
+  background-color: transparent;
+  height: 2443px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1241px;
+}
+
+.sheep .screen-shot-202-05-at-33441-am-f7gdTe {
+  background-color: transparent;
+  height: 746px;
+  left: 100px;
+  position: absolute;
+  top: 3226px;
+  width: 1239px;
+}
+
+.sheep .screen-shot-202-05-at-33441-am-txl5ML {
+  background-color: transparent;
+  height: 746px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1239px;
+}
+
+.sheep .wix-recovered-01-f7gdTe {
+  background-color: transparent;
+  height: 691px;
+  left: 96px;
+  position: absolute;
+  top: 29936px;
+  width: 1242px;
+}
+
+.sheep .wix-recovered-01-XPOaXi {
+  background-color: transparent;
+  height: 691px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1242px;
+}
+
+.sheep .path-5-7mCZRr {
+  background-color: transparent;
+  height: 3px;
+  left: -1242px;
+  position: absolute;
+  top: 16892px;
+  width: 1243px;
+}
+
+.sheep .path-5-copy-6-f7gdTe {
+  background-color: transparent;
+  height: 3px;
+  left: -1242px;
+  position: absolute;
+  top: 16130px;
+  width: 1243px;
+}
+
+.sheep .path-5-copy-7-f7gdTe {
+  background-color: transparent;
+  height: 3px;
+  left: -1242px;
+  position: absolute;
+  top: 15682px;
+  width: 1243px;
+}
+
+.sheep .path-5-copy-8-f7gdTe {
+  background-color: transparent;
+  height: 3px;
+  left: -1242px;
+  position: absolute;
+  top: 15288px;
+  width: 1243px;
+}
+
+.sheep .path-5-copy-9-f7gdTe {
+  background-color: transparent;
+  height: 3px;
+  left: -1242px;
+  position: absolute;
+  top: 14688px;
+  width: 1243px;
+}
+
+.sheep .app-design-f7gdTe {
+  background-color: transparent;
+  display: block;
+  font-weight: 700;
+  height: 80px;
+  left: 1090px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: right;
+  top: 414px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 248px;
+}
+
+.sheep .app-design-f7gdTe.animate-enter142 {
+  animation: animate-enter142-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter142-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .wix-recovered-07-copy-3-f7gdTe {
+  background-color: transparent;
+  height: 1572px;
+  left: 101px;
+  position: absolute;
+  top: 6719px;
+  width: 1235px;
+}
+
+.sheep .wix-recovered-07-copy-3-JPBgYt {
+  background-color: transparent;
+  height: 1572px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1235px;
+}
+
+.sheep .rectangle-f7gdTe {
+  background-color: var(--iron);
+  height: 100px;
+  left: 166px;
+  position: absolute;
+  top: 13876px;
+  width: 341px;
+}
+
+.sheep .rectangle-copy-4-f7gdTe {
+  background-color: var(--iron);
+  height: 150px;
+  left: 414px;
+  position: absolute;
+  top: 18839px;
+  width: 801px;
+}
+
+.sheep .rectangle-copy-3-f7gdTe {
+  background-color: var(--iron);
+  height: 100px;
+  left: 224px;
+  position: absolute;
+  top: 19060px;
+  width: 801px;
+}
+
+.sheep .gns-f7gdTe {
+  background-color: transparent;
+  height: 26px;
+  left: 101px;
+  position: absolute;
+  top: 73px;
+  width: 1238px;
+}
+
+.sheep .about-copy-2-75PF57 {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1166px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .about-copy-2-75PF57:hover {
+  filter: blur(10px);
+}
+
+.sheep .work-copy-2-75PF57 {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: 17px;
+  left: 1027px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  transition: all 1s ease-in-out;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .work-copy-2-75PF57:hover {
+  filter: blur(10px);
+}
+
+.sheep .ash-cui-75PF57 {
+  background-color: transparent;
+  font-weight: 600;
+  height: 26px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .footer-f7gdTe {
+  background-color: transparent;
+  height: 519px;
+  left: 481px;
+  position: absolute;
+  top: 31793px;
+  width: 482px;
+}
+
+.sheep .group-4-xsRBvx {
+  background-color: transparent;
+  display: block;
+  filter: blur(10px);
+  height: 178px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 482px;
+}
+
+.sheep .group-4-xsRBvx.animate-enter143 {
+  animation: animate-enter143-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter143-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.sheep .group-2-ITxp7J {
+  background-color: transparent;
+  height: 178px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 482px;
+}
+
+.sheep .say-hi-IvmaiP {
+  background-color: transparent;
+  font-weight: 700;
+  height: 166px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 160px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .path-IvmaiP {
+  background-color: transparent;
+  height: 6px;
+  left: 338px;
+  position: absolute;
+  top: 174px;
+  width: 136px;
+}
+
+.sheep .textlabel-IvmaiP {
+  background-color: transparent;
+  font-weight: 400;
+  height: 53px;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: 53px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .group-xsRBvx {
+  background-color: transparent;
+  display: block;
+  height: 51px;
+  left: 179px;
+  opacity: 0;
+  position: absolute;
+  top: 468px;
+  transform: translate(0, 25px);
+  width: 123px;
+}
+
+.sheep .group-xsRBvx.animate-enter144 {
+  animation: animate-enter144-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter144-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.sheep .resume-PWJ7Bf {
+  background-color: transparent;
+  font-weight: 400;
+  height: 50px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .path-3-copy-3-PWJ7Bf {
+  background-color: transparent;
+  height: 4px;
+  left: -1px;
+  position: absolute;
+  top: 46px;
+  width: 124px;
+}
