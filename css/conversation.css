@@ -778,6 +778,7 @@ transform: translate(0,0);
 
 .conversation .ashcui-5FVeIU {
   background-color: transparent;
+  cursor: pointer;
   height: 17px;
   left: 102px;
   position: absolute;
