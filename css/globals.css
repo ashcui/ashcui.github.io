@@ -1,6 +1,21 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 
-@import url("https://fonts.googleapis.com/css?family=Roboto:400|Manrope:400,700,600,800");
+@import url("https://fonts.googleapis.com/css?family=Manrope:400,700,600,800|Roboto:400");
+@font-face {
+  font-family: "ArchivoExpanded-SemiBold";
+  font-weight: 600;
+  src: url("fonts/Archivo_Expanded-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ArchivoExpanded-Medium";
+  font-weight: 1 1000;
+  src: url("fonts/Archivo_Expanded-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ArchivoExpanded-ExtraBold";
+  font-weight: 800;
+  src: url("fonts/Archivo_Expanded-ExtraBold.ttf") format("truetype");
+}
 @font-face {
   font-family: "ArchivoExpanded-Bold";
   font-weight: 1 1000;
