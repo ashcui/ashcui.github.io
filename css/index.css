@@ -635,11 +635,18 @@ filter: none;
 
 .index .work-IO3Fu5 {
   background-color: transparent;
+  cursor: pointer;
   height: 11px;
   left: 1128px;
+  pointer-events: auto;
   position: absolute;
   top: 81px;
+  transition: all 0.5s ease-in-out;
   width: 62px;
+}
+
+.index .work-IO3Fu5:hover {
+  transform: translate(0, -5px);
 }
 
 .index .ashcui-IO3Fu5 {
