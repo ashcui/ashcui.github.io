@@ -8,30 +8,32 @@
   width: 1440px;
 }
 
-.ava .role-copy-GiHQA9 {
+.ava .role-GiHQA9 {
   background-color: transparent;
-  color: var(--white);
   display: block;
-  font-style: normal;
-  font-weight: 800;
-  height: 40px;
-  left: 102px;
-  line-height: 40px;
+  height: 18px;
+  left: 104px;
+  opacity: 0;
   position: absolute;
-  text-align: left;
-  top: 1225px;
-  white-space: nowrap;
-  width: auto;
+  top: 1236px;
+  transform: translate(0, 25px);
+  width: 86px;
 }
 
-.ava .role-copy-GiHQA9.animate-enter78 {
-  animation: animate-enter78-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+.ava .role-GiHQA9.animate-enter120 {
+  animation: animate-enter120-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
 }
 
-@keyframes animate-enter78-frames {
-  from{}
-to{}
+@keyframes animate-enter120-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .ava .ava-GiHQA9 {
@@ -51,14 +53,14 @@ to{}
   width: auto;
 }
 
-.ava .ava-GiHQA9.animate-enter79 {
-  animation: animate-enter79-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .ava-GiHQA9.animate-enter121 {
+  animation: animate-enter121-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter79-frames {
+@keyframes animate-enter121-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -67,69 +69,54 @@ transform: translate(0,0);
 }
 }
 
-.ava .gns-GiHQA9 {
-  background-color: transparent;
-  height: 26px;
-  left: 101px;
+.ava .rectangle-GiHQA9 {
+  background-color: var(--black);
+  height: 11px;
+  left: 562px;
   position: absolute;
-  top: 73px;
-  width: 1238px;
-}
-
-.ava .about-copy-2-ktfTWL {
-  background-color: transparent;
-  cursor: pointer;
-  font-weight: 400;
-  height: 17px;
-  left: 1166px;
-  letter-spacing: 0.00px;
-  line-height: 17px;
-  pointer-events: auto;
-  position: absolute;
-  text-align: left;
-  top: 5px;
-  transition: all 1s ease-in-out;
-  white-space: nowrap;
-  width: auto;
-}
-
-.ava .about-copy-2-ktfTWL:hover {
-  filter: blur(10px);
-}
-
-.ava .work-copy-2-ktfTWL {
-  background-color: transparent;
-  cursor: pointer;
-  font-weight: 400;
-  height: 17px;
-  left: 1027px;
-  letter-spacing: 0.00px;
-  line-height: 17px;
-  pointer-events: auto;
-  position: absolute;
-  text-align: left;
-  top: 5px;
-  transition: all 1s ease-in-out;
-  white-space: nowrap;
-  width: auto;
-}
-
-.ava .work-copy-2-ktfTWL:hover {
-  filter: blur(10px);
-}
-
-.ava .ash-cui-ktfTWL {
-  background-color: transparent;
-  font-weight: 600;
-  height: 26px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 26px;
-  position: absolute;
-  text-align: left;
   top: 0px;
-  white-space: nowrap;
-  width: auto;
+  width: 311px;
+}
+
+.ava .about-GiHQA9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11px;
+  left: 1267px;
+  pointer-events: auto;
+  position: absolute;
+  top: 81px;
+  transition: all 0.5s ease-in-out;
+  width: 71px;
+}
+
+.ava .about-GiHQA9:hover {
+  transform: translate(0, -5px);
+}
+
+.ava .work-GiHQA9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 11px;
+  left: 1128px;
+  pointer-events: auto;
+  position: absolute;
+  top: 81px;
+  transition: all 0.5s ease-in-out;
+  width: 62px;
+}
+
+.ava .work-GiHQA9:hover {
+  transform: translate(0, -5px);
+}
+
+.ava .ashcui-GiHQA9 {
+  background-color: transparent;
+  height: 17px;
+  left: 102px;
+  position: absolute;
+  top: 77px;
+  width: 124px;
 }
 
 .ava .x2019-GiHQA9 {
@@ -149,14 +136,14 @@ transform: translate(0,0);
   width: 56px;
 }
 
-.ava .x2019-GiHQA9.animate-enter80 {
-  animation: animate-enter80-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.ava .x2019-GiHQA9.animate-enter122 {
+  animation: animate-enter122-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter80-frames {
+@keyframes animate-enter122-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -174,29 +161,32 @@ transform: translate(0,0);
   width: 1237px;
 }
 
-.ava .a-humanized-platform-GiHQA9 {
+.ava .ahumanizedplatf-rganizeyourtrip-GiHQA9 {
   background-color: transparent;
-  color: var(--white);
   display: block;
-  font-style: normal;
-  font-weight: 800;
-  height: 80px;
+  height: 64px;
   left: 732px;
-  line-height: 40px;
+  opacity: 0;
   position: absolute;
-  text-align: left;
-  top: 1225px;
-  width: 516px;
+  top: 1235px;
+  transform: translate(0, 25px);
+  width: 506px;
 }
 
-.ava .a-humanized-platform-GiHQA9.animate-enter81 {
-  animation: animate-enter81-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+.ava .ahumanizedplatf-rganizeyourtrip-GiHQA9.animate-enter123 {
+  animation: animate-enter123-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
 }
 
-@keyframes animate-enter81-frames {
-  from{}
-to{}
+@keyframes animate-enter123-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .ava .this-project-is-abou-GiHQA9 {
@@ -216,14 +206,14 @@ to{}
   width: 581px;
 }
 
-.ava .this-project-is-abou-GiHQA9.animate-enter82 {
-  animation: animate-enter82-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.ava .this-project-is-abou-GiHQA9.animate-enter124 {
+  animation: animate-enter124-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter82-frames {
+@keyframes animate-enter124-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -234,20 +224,58 @@ transform: translate(0,0);
 
 .ava .getty-images-946509292-GiHQA9 {
   background-color: transparent;
+  display: block;
   height: 570px;
   left: 102px;
+  opacity: 0;
   position: absolute;
   top: 30197px;
+  transform: translate(0, 25px);
   width: 1238px;
+}
+
+.ava .getty-images-946509292-GiHQA9.animate-enter126 {
+  animation: animate-enter126-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter126-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .ava .getty-images-946509292-SOcH8x {
   background-color: transparent;
+  display: block;
   height: 570px;
   left: 0px;
+  opacity: 0;
   position: absolute;
   top: 0px;
+  transform: translate(0, 25px);
   width: 1238px;
+}
+
+.ava .getty-images-946509292-SOcH8x.animate-enter125 {
+  animation: animate-enter125-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter125-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .ava .group-2-GiHQA9 {
@@ -255,24 +283,24 @@ transform: translate(0,0);
   cursor: pointer;
   display: block;
   height: 26px;
-  left: 1180px;
+  left: 1181px;
   opacity: 0;
   pointer-events: auto;
   position: absolute;
   top: 30046px;
   transform: translate(0, 25px);
   transition: all 1.5s ease-in-out;
-  width: 160px;
+  width: 159px;
 }
 
-.ava .group-2-GiHQA9.animate-enter83 {
-  animation: animate-enter83-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.ava .group-2-GiHQA9.animate-enter127 {
+  animation: animate-enter127-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter83-frames {
+@keyframes animate-enter127-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -285,25 +313,20 @@ transform: translate(0,0);
   filter: blur(10px);
 }
 
-.ava .next-project-lC7bJG {
+.ava .nextproject-lC7bJG {
   background-color: transparent;
-  font-weight: 500;
-  height: 17px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 17px;
+  height: 11px;
+  left: 2px;
   position: absolute;
-  text-align: left;
-  top: 0px;
-  white-space: nowrap;
-  width: auto;
+  top: 3px;
+  width: 157px;
 }
 
 .ava .path-6-lC7bJG {
   background-color: transparent;
   cursor: pointer;
   height: 2px;
-  left: 2px;
+  left: 0px;
   pointer-events: auto;
   position: absolute;
   top: 24px;
@@ -330,12 +353,12 @@ transform: translate(0,0);
   width: auto;
 }
 
-.ava .thanks-for-scrolling-GiHQA9.animate-enter84 {
-  animation: animate-enter84-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.ava .thanks-for-scrolling-GiHQA9.animate-enter128 {
+  animation: animate-enter128-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
 }
 
-@keyframes animate-enter84-frames {
+@keyframes animate-enter128-frames {
   from{}
 to{}
 }
@@ -372,30 +395,26 @@ to{}
   width: 1239px;
 }
 
-.ava .thoughtful-brand-sto-GiHQA9 {
+.ava .thoughtfulbrand-aginganimations-GiHQA9 {
   background-color: transparent;
   display: block;
-  font-weight: 700;
-  height: 80px;
+  height: 63px;
   left: 107px;
-  letter-spacing: 0.00px;
-  line-height: 40px;
   opacity: 0;
   position: absolute;
-  text-align: left;
-  top: 2598px;
+  top: 2607px;
   transform: translate(0, 25px);
-  width: 857px;
+  width: 428px;
 }
 
-.ava .thoughtful-brand-sto-GiHQA9.animate-enter85 {
-  animation: animate-enter85-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .thoughtfulbrand-aginganimations-GiHQA9.animate-enter129 {
+  animation: animate-enter129-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter85-frames {
+@keyframes animate-enter129-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -416,19 +435,19 @@ transform: translate(0,0);
   opacity: 0;
   position: absolute;
   text-align: left;
-  top: 2724px;
+  top: 2714px;
   transform: translate(0, 25px);
   width: 503px;
 }
 
-.ava .by-thoughtfully-surf-GiHQA9.animate-enter86 {
-  animation: animate-enter86-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.ava .by-thoughtfully-surf-GiHQA9.animate-enter130 {
+  animation: animate-enter130-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter86-frames {
+@keyframes animate-enter130-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -482,31 +501,26 @@ transform: translate(0,0);
   width: 1232px;
 }
 
-.ava .user-centered-resear-GiHQA9 {
+.ava .user-centered-research-GiHQA9 {
   background-color: transparent;
   display: block;
-  font-weight: 700;
-  height: 40px;
-  left: 103px;
-  letter-spacing: 0.00px;
-  line-height: 40px;
+  height: 18px;
+  left: 105px;
   opacity: 0;
   position: absolute;
-  text-align: left;
-  top: 20959px;
+  top: 20969px;
   transform: translate(0, 25px);
-  white-space: nowrap;
-  width: 512px;
+  width: 366px;
 }
 
-.ava .user-centered-resear-GiHQA9.animate-enter87 {
-  animation: animate-enter87-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .user-centered-research-GiHQA9.animate-enter131 {
+  animation: animate-enter131-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter87-frames {
+@keyframes animate-enter131-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -542,6 +556,16 @@ transform: translate(0,0);
   width: 1238px;
 }
 
+.ava .rectangle-7bdFr3 {
+  background-color: transparent;
+  height: 512px;
+  left: 340px;
+  overflow: hidden;
+  position: absolute;
+  top: 14334px;
+  width: 763px;
+}
+
 .ava .high-01-copy-GiHQA9 {
   background-color: transparent;
   height: 1838px;
@@ -571,20 +595,58 @@ transform: translate(0,0);
 
 .ava .screen-shot-202-25-at-114224-pm-GiHQA9 {
   background-color: transparent;
+  display: block;
   height: 550px;
   left: 102px;
+  opacity: 0;
   position: absolute;
   top: 539px;
+  transform: translate(0, 25px);
   width: 1240px;
+}
+
+.ava .screen-shot-202-25-at-114224-pm-GiHQA9.animate-enter133 {
+  animation: animate-enter133-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter133-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .ava .screen-shot-202-25-at-114224-pm-AUxCDM {
   background-color: transparent;
+  display: block;
   height: 550px;
   left: 0px;
+  opacity: 0;
   position: absolute;
   top: 0px;
+  transform: translate(0, 25px);
   width: 1240px;
+}
+
+.ava .screen-shot-202-25-at-114224-pm-AUxCDM.animate-enter132 {
+  animation: animate-enter132-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter132-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .ava .website-design-GiHQA9 {
@@ -604,14 +666,14 @@ transform: translate(0,0);
   width: 248px;
 }
 
-.ava .website-design-GiHQA9.animate-enter88 {
-  animation: animate-enter88-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.ava .website-design-GiHQA9.animate-enter134 {
+  animation: animate-enter134-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter88-frames {
+@keyframes animate-enter134-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -632,14 +694,14 @@ transform: translate(0,0);
   width: 138px;
 }
 
-.ava .group-GiHQA9.animate-enter89 {
-  animation: animate-enter89-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+.ava .group-GiHQA9.animate-enter135 {
+  animation: animate-enter135-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter89-frames {
+@keyframes animate-enter135-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -742,30 +804,26 @@ transform: translate(0,0);
   width: 1238px;
 }
 
-.ava .extending-the-brand-GiHQA9 {
+.ava .extendingthebra-fulcolorpalette-GiHQA9 {
   background-color: transparent;
   display: block;
-  font-weight: 700;
-  height: 80px;
-  left: 104px;
-  letter-spacing: 0.00px;
-  line-height: 40px;
+  height: 63px;
+  left: 105px;
   opacity: 0;
   position: absolute;
-  text-align: left;
-  top: 17251px;
+  top: 17261px;
   transform: translate(0, 25px);
-  width: 512px;
+  width: 369px;
 }
 
-.ava .extending-the-brand-GiHQA9.animate-enter90 {
-  animation: animate-enter90-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .extendingthebra-fulcolorpalette-GiHQA9.animate-enter136 {
+  animation: animate-enter136-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter90-frames {
+@keyframes animate-enter136-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -791,14 +849,14 @@ transform: translate(0,0);
   width: 512px;
 }
 
-.ava .delightful-colors-ar-GiHQA9.animate-enter91 {
-  animation: animate-enter91-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.ava .delightful-colors-ar-GiHQA9.animate-enter137 {
+  animation: animate-enter137-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter91-frames {
+@keyframes animate-enter137-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -834,109 +892,72 @@ transform: translate(0,0);
   width: 1238px;
 }
 
-.ava .footer-GiHQA9 {
+.ava .group-2-7bdFr3 {
   background-color: transparent;
-  height: 519px;
-  left: 480px;
+  height: 182px;
+  left: 486px;
   position: absolute;
-  top: 31029px;
-  width: 482px;
+  top: 31031px;
+  width: 466px;
 }
 
-.ava .group-4-xiUlVU {
+.ava .sayhi-qetDus {
   background-color: transparent;
-  display: block;
-  filter: blur(10px);
-  height: 178px;
+  height: 162px;
   left: 0px;
-  opacity: 0;
   position: absolute;
-  top: 0px;
-  width: 482px;
+  top: 20px;
+  width: 462px;
 }
 
-.ava .group-4-xiUlVU.animate-enter92 {
-  animation: animate-enter92-frames 2.00s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  filter: blur(10px);
-  opacity: 0;
-}
-
-@keyframes animate-enter92-frames {
-  from{opacity: 0;
-filter: blur(10px);
-}
-to{opacity: 1;
-filter: none;
-}
-}
-
-.ava .group-2-h8Cenx {
-  background-color: transparent;
-  height: 178px;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 482px;
-}
-
-.ava .say-hi-W4BGID {
-  background-color: transparent;
-  font-weight: 700;
-  height: 166px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 160px;
-  position: absolute;
-  text-align: left;
-  top: -6px;
-  white-space: nowrap;
-  width: auto;
-}
-
-.ava .path-W4BGID {
+.ava .path-qetDus {
   background-color: transparent;
   height: 6px;
-  left: 338px;
+  left: 332px;
   position: absolute;
-  top: 174px;
+  top: 172px;
   width: 136px;
 }
 
-.ava .textlabel-W4BGID {
+.ava .textlabel-qetDus {
   background-color: transparent;
   font-weight: 400;
   height: 53px;
-  left: 431px;
+  left: 425px;
   letter-spacing: 0.00px;
   line-height: 53px;
   position: absolute;
   text-align: left;
-  top: 2px;
+  top: 0px;
   white-space: nowrap;
   width: auto;
 }
 
-.ava .group-xiUlVU {
+.ava .copyright-2021-ash-GiHQA9 {
   background-color: transparent;
   display: block;
-  height: 51px;
-  left: 179px;
+  font-weight: 600;
+  height: 50px;
+  left: 647px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
   opacity: 0;
   position: absolute;
-  top: 468px;
+  text-align: right;
+  top: 31516px;
   transform: translate(0, 25px);
-  width: 123px;
+  white-space: nowrap;
+  width: auto;
 }
 
-.ava .group-xiUlVU.animate-enter93 {
-  animation: animate-enter93-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.ava .copyright-2021-ash-GiHQA9.animate-enter138 {
+  animation: animate-enter138-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter93-frames {
+@keyframes animate-enter138-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -945,25 +966,28 @@ transform: translate(0,0);
 }
 }
 
-.ava .resume-St0RfU {
+.ava .textlabel-GiHQA9 {
   background-color: transparent;
+  cursor: pointer;
   font-weight: 400;
-  height: 50px;
-  left: 0px;
+  height: 66px;
+  left: 1300px;
   letter-spacing: 0.00px;
-  line-height: 50px;
+  line-height: 66px;
   position: absolute;
   text-align: left;
-  top: 0px;
+  top: 31482px;
+  transform: rotate(-45deg);
   white-space: nowrap;
   width: auto;
 }
 
-.ava .path-3-copy-3-St0RfU {
+.ava .rectangle-LgRivs {
   background-color: transparent;
-  height: 4px;
-  left: 0px;
+  height: 412px;
+  left: 395px;
+  overflow: hidden;
   position: absolute;
-  top: 46px;
-  width: 124px;
+  top: 4833px;
+  width: 652px;
 }
