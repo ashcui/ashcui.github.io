@@ -10,26 +10,64 @@
 
 .sheep .full-bleed-lifestyle1-f7gdTe {
   background-color: transparent;
+  display: block;
   height: 550px;
   left: 98px;
+  opacity: 0;
   position: absolute;
   top: 545px;
+  transform: translate(0, 25px);
   width: 1240px;
+}
+
+.sheep .full-bleed-lifestyle1-f7gdTe.animate-enter202 {
+  animation: animate-enter202-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter202-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .sheep .full-bleed-lifestyle1-ltBcyv {
   background-color: transparent;
+  display: block;
   height: 550px;
   left: 0px;
+  opacity: 0;
   position: absolute;
   top: 0px;
+  transform: translate(0, 25px);
   width: 1240px;
+}
+
+.sheep .full-bleed-lifestyle1-ltBcyv.animate-enter201 {
+  animation: animate-enter201-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter201-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .sheep .group-f7gdTe {
   background-color: transparent;
   display: block;
-  height: 190px;
+  height: 150px;
   left: 102px;
   opacity: 0;
   position: absolute;
@@ -38,14 +76,14 @@
   width: 143px;
 }
 
-.sheep .group-f7gdTe.animate-enter112 {
-  animation: animate-enter112-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+.sheep .group-f7gdTe.animate-enter203 {
+  animation: animate-enter203-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter112-frames {
+@keyframes animate-enter203-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -98,20 +136,6 @@ transform: translate(0,0);
   width: auto;
 }
 
-.sheep .animation-eSka7i {
-  background-color: transparent;
-  font-weight: 400;
-  height: 30px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 30px;
-  position: absolute;
-  text-align: left;
-  top: 120px;
-  white-space: nowrap;
-  width: auto;
-}
-
 .sheep .content-strategy-eSka7i {
   background-color: transparent;
   font-weight: 400;
@@ -121,7 +145,7 @@ transform: translate(0,0);
   line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 160px;
+  top: 120px;
   white-space: nowrap;
   width: auto;
 }
@@ -143,14 +167,14 @@ transform: translate(0,0);
   width: 568px;
 }
 
-.sheep .vertical-farming-is-f7gdTe.animate-enter113 {
-  animation: animate-enter113-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.sheep .vertical-farming-is-f7gdTe.animate-enter204 {
+  animation: animate-enter204-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter113-frames {
+@keyframes animate-enter204-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -159,32 +183,26 @@ transform: translate(0,0);
 }
 }
 
-.sheep .role-copy-f7gdTe {
+.sheep .role-f7gdTe {
   background-color: transparent;
-  color: var(--white);
   display: block;
-  font-style: normal;
-  font-weight: 800;
-  height: 40px;
-  left: 102px;
-  line-height: 40px;
+  height: 18px;
+  left: 104px;
   opacity: 0;
   position: absolute;
-  text-align: left;
-  top: 1218px;
+  top: 1229px;
   transform: translate(0, 25px);
-  white-space: nowrap;
-  width: auto;
+  width: 86px;
 }
 
-.sheep .role-copy-f7gdTe.animate-enter114 {
-  animation: animate-enter114-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.sheep .role-f7gdTe.animate-enter205 {
+  animation: animate-enter205-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter114-frames {
+@keyframes animate-enter205-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -210,14 +228,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.sheep .sheep-f7gdTe.animate-enter115 {
-  animation: animate-enter115-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.sheep .sheep-f7gdTe.animate-enter206 {
+  animation: animate-enter206-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter115-frames {
+@keyframes animate-enter206-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -252,14 +270,14 @@ transform: translate(0,0);
   width: 56px;
 }
 
-.sheep .x2019-f7gdTe.animate-enter116 {
-  animation: animate-enter116-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.sheep .x2019-f7gdTe.animate-enter207 {
+  animation: animate-enter207-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter116-frames {
+@keyframes animate-enter207-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -277,31 +295,26 @@ transform: translate(0,0);
   width: 1237px;
 }
 
-.sheep .an-elevated-web-pres-f7gdTe {
+.sheep .anelevatedwebpr-nlifescience-rd-f7gdTe {
   background-color: transparent;
-  color: var(--white);
   display: block;
-  font-style: normal;
-  font-weight: 800;
-  height: 80px;
+  height: 59px;
   left: 730px;
-  line-height: 40px;
   opacity: 0;
   position: absolute;
-  text-align: left;
-  top: 1218px;
+  top: 1228px;
   transform: translate(0, 25px);
-  width: 494px;
+  width: 462px;
 }
 
-.sheep .an-elevated-web-pres-f7gdTe.animate-enter117 {
-  animation: animate-enter117-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.sheep .anelevatedwebpr-nlifescience-rd-f7gdTe.animate-enter208 {
+  animation: animate-enter208-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter117-frames {
+@keyframes animate-enter208-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -312,20 +325,58 @@ transform: translate(0,0);
 
 .sheep .getty-images-946509292-f7gdTe {
   background-color: transparent;
+  display: block;
   height: 570px;
   left: 102px;
+  opacity: 0;
   position: absolute;
   top: 30961px;
+  transform: translate(0, 25px);
   width: 1238px;
+}
+
+.sheep .getty-images-946509292-f7gdTe.animate-enter210 {
+  animation: animate-enter210-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter210-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .sheep .getty-images-946509292-DqNexR {
   background-color: transparent;
+  display: block;
   height: 570px;
   left: 0px;
+  opacity: 0;
   position: absolute;
   top: 0px;
+  transform: translate(0, 25px);
   width: 1238px;
+}
+
+.sheep .getty-images-946509292-DqNexR.animate-enter209 {
+  animation: animate-enter209-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter209-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .sheep .group-2-f7gdTe {
@@ -333,24 +384,24 @@ transform: translate(0,0);
   cursor: pointer;
   display: block;
   height: 26px;
-  left: 1178px;
+  left: 1179px;
   opacity: 0;
   pointer-events: auto;
   position: absolute;
   top: 30805px;
   transform: translate(0, 25px);
   transition: all 1.5s ease-in-out;
-  width: 160px;
+  width: 159px;
 }
 
-.sheep .group-2-f7gdTe.animate-enter118 {
-  animation: animate-enter118-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.sheep .group-2-f7gdTe.animate-enter211 {
+  animation: animate-enter211-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter118-frames {
+@keyframes animate-enter211-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -363,25 +414,20 @@ transform: translate(0,0);
   filter: blur(10px);
 }
 
-.sheep .next-project-idopnx {
+.sheep .nextproject-idopnx {
   background-color: transparent;
-  font-weight: 500;
-  height: 17px;
-  left: 0px;
-  letter-spacing: 0.00px;
-  line-height: 17px;
+  height: 11px;
+  left: 2px;
   position: absolute;
-  text-align: left;
-  top: 0px;
-  white-space: nowrap;
-  width: auto;
+  top: 3px;
+  width: 157px;
 }
 
 .sheep .path-6-idopnx {
   background-color: transparent;
   cursor: pointer;
   height: 2px;
-  left: 2px;
+  left: 0px;
   pointer-events: auto;
   position: absolute;
   top: 24px;
@@ -408,12 +454,12 @@ transform: translate(0,0);
   width: auto;
 }
 
-.sheep .thanks-for-scrolling-f7gdTe.animate-enter119 {
-  animation: animate-enter119-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.sheep .thanks-for-scrolling-f7gdTe.animate-enter212 {
+  animation: animate-enter212-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
 }
 
-@keyframes animate-enter119-frames {
+@keyframes animate-enter212-frames {
   from{}
 to{}
 }
@@ -504,31 +550,26 @@ to{}
   width: 1235px;
 }
 
-.sheep .information-architec-f7gdTe {
+.sheep .informationarch-low-fiwireframe-f7gdTe {
   background-color: transparent;
-  color: var(--white);
   display: block;
-  font-style: normal;
-  font-weight: 800;
-  height: 80px;
-  left: 103px;
-  line-height: 40px;
+  height: 59px;
+  left: 104px;
   opacity: 0;
   position: absolute;
-  text-align: left;
-  top: 12780px;
+  top: 12789px;
   transform: translate(0, 25px);
-  width: 739px;
+  width: 376px;
 }
 
-.sheep .information-architec-f7gdTe.animate-enter120 {
-  animation: animate-enter120-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.sheep .informationarch-low-fiwireframe-f7gdTe.animate-enter213 {
+  animation: animate-enter213-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter120-frames {
+@keyframes animate-enter213-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -537,31 +578,26 @@ transform: translate(0,0);
 }
 }
 
-.sheep .design-assets-grid-f7gdTe {
+.sheep .designassets-gridsystem-f7gdTe {
   background-color: transparent;
-  color: var(--white);
   display: block;
-  font-style: normal;
-  font-weight: 800;
-  height: 80px;
-  left: 103px;
-  line-height: 40px;
+  height: 63px;
+  left: 104px;
   opacity: 0;
   position: absolute;
-  text-align: left;
-  top: 15211px;
+  top: 15221px;
   transform: translate(0, 25px);
-  width: 739px;
+  width: 216px;
 }
 
-.sheep .design-assets-grid-f7gdTe.animate-enter121 {
-  animation: animate-enter121-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.sheep .designassets-gridsystem-f7gdTe.animate-enter214 {
+  animation: animate-enter214-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter121-frames {
+@keyframes animate-enter214-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -606,31 +642,26 @@ transform: translate(0,0);
   width: 1241px;
 }
 
-.sheep .a-streamlined-user-e-copy-f7gdTe {
+.sheep .astreamlineduserexperience-f7gdTe {
   background-color: transparent;
   display: block;
-  font-weight: 700;
-  height: 80px;
+  height: 23px;
   left: 101px;
-  letter-spacing: 0.00px;
-  line-height: 80px;
   opacity: 0;
   position: absolute;
-  text-align: left;
-  top: 4143px;
+  top: 4173px;
   transform: translate(0, 25px);
-  white-space: nowrap;
-  width: 739px;
+  width: 456px;
 }
 
-.sheep .a-streamlined-user-e-copy-f7gdTe.animate-enter122 {
-  animation: animate-enter122-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.sheep .astreamlineduserexperience-f7gdTe.animate-enter215 {
+  animation: animate-enter215-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter122-frames {
+@keyframes animate-enter215-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -639,31 +670,26 @@ transform: translate(0,0);
 }
 }
 
-.sheep .humanizing-green-tec-f7gdTe {
+.sheep .humanizinggreentechnology-f7gdTe {
   background-color: transparent;
   display: block;
-  font-weight: 700;
-  height: 80px;
-  left: 103px;
-  letter-spacing: 0.00px;
-  line-height: 80px;
+  height: 23px;
+  left: 105px;
   opacity: 0;
   position: absolute;
-  text-align: left;
-  top: 2858px;
+  top: 2888px;
   transform: translate(0, 25px);
-  white-space: nowrap;
-  width: 739px;
+  width: 442px;
 }
 
-.sheep .humanizing-green-tec-f7gdTe.animate-enter123 {
-  animation: animate-enter123-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.sheep .humanizinggreentechnology-f7gdTe.animate-enter216 {
+  animation: animate-enter216-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter123-frames {
+@keyframes animate-enter216-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -689,14 +715,14 @@ transform: translate(0,0);
   width: 519px;
 }
 
-.sheep .one-of-the-key-objec-copy-f7gdTe.animate-enter124 {
-  animation: animate-enter124-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.sheep .one-of-the-key-objec-copy-f7gdTe.animate-enter217 {
+  animation: animate-enter217-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter124-frames {
+@keyframes animate-enter217-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -722,14 +748,14 @@ transform: translate(0,0);
   width: 519px;
 }
 
-.sheep .when-developing-the-f7gdTe.animate-enter125 {
-  animation: animate-enter125-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.sheep .when-developing-the-f7gdTe.animate-enter218 {
+  animation: animate-enter218-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter125-frames {
+@keyframes animate-enter218-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -810,32 +836,26 @@ transform: translate(0,0);
   width: 1235px;
 }
 
-.sheep .design-iterations-f7gdTe {
+.sheep .designiterations-f7gdTe {
   background-color: transparent;
-  color: var(--white);
   display: block;
-  font-style: normal;
-  font-weight: 800;
-  height: 40px;
-  left: 103px;
-  line-height: 40px;
+  height: 23px;
+  left: 105px;
   opacity: 0;
   position: absolute;
-  text-align: left;
-  top: 9243px;
+  top: 9253px;
   transform: translate(0, 25px);
-  white-space: nowrap;
-  width: 739px;
+  width: 259px;
 }
 
-.sheep .design-iterations-f7gdTe.animate-enter126 {
-  animation: animate-enter126-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.sheep .designiterations-f7gdTe.animate-enter219 {
+  animation: animate-enter219-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter126-frames {
+@keyframes animate-enter219-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -871,32 +891,26 @@ transform: translate(0,0);
   width: 1248px;
 }
 
-.sheep .user-centered-design-f7gdTe {
+.sheep .user-centereddesignresearch-f7gdTe {
   background-color: transparent;
-  color: var(--white);
   display: block;
-  font-style: normal;
-  font-weight: 800;
-  height: 40px;
-  left: 103px;
-  line-height: 40px;
+  height: 23px;
+  left: 105px;
   opacity: 0;
   position: absolute;
-  text-align: left;
-  top: 19031px;
+  top: 19041px;
   transform: translate(0, 25px);
-  white-space: nowrap;
-  width: 739px;
+  width: 476px;
 }
 
-.sheep .user-centered-design-f7gdTe.animate-enter127 {
-  animation: animate-enter127-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.sheep .user-centereddesignresearch-f7gdTe.animate-enter220 {
+  animation: animate-enter220-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter127-frames {
+@keyframes animate-enter220-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -1030,14 +1044,14 @@ transform: translate(0,0);
   width: 248px;
 }
 
-.sheep .app-design-f7gdTe.animate-enter128 {
-  animation: animate-enter128-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.sheep .app-design-f7gdTe.animate-enter221 {
+  animation: animate-enter221-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter128-frames {
+@keyframes animate-enter221-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -1074,61 +1088,45 @@ transform: translate(0,0);
   width: 341px;
 }
 
-.sheep .about-copy-2-f7gdTe {
+.sheep .about-f7gdTe {
   background-color: transparent;
   cursor: pointer;
-  font-weight: 400;
-  height: 17px;
+  height: 11px;
   left: 1267px;
-  letter-spacing: 0.00px;
-  line-height: 17px;
   pointer-events: auto;
   position: absolute;
-  text-align: left;
-  top: 78px;
-  transition: all 1s ease-in-out;
-  white-space: nowrap;
-  width: auto;
+  top: 81px;
+  transition: all 0.5s ease-in-out;
+  width: 71px;
 }
 
-.sheep .about-copy-2-f7gdTe:hover {
-  filter: blur(10px);
+.sheep .about-f7gdTe:hover {
+  transform: translate(0, -5px);
 }
 
-.sheep .work-copy-2-f7gdTe {
+.sheep .work-f7gdTe {
   background-color: transparent;
   cursor: pointer;
-  font-weight: 400;
-  height: 17px;
+  height: 11px;
   left: 1128px;
-  letter-spacing: 0.00px;
-  line-height: 17px;
   pointer-events: auto;
   position: absolute;
-  text-align: left;
-  top: 78px;
-  transition: all 1s ease-in-out;
-  white-space: nowrap;
-  width: auto;
+  top: 81px;
+  transition: all 0.5s ease-in-out;
+  width: 62px;
 }
 
-.sheep .work-copy-2-f7gdTe:hover {
-  filter: blur(10px);
+.sheep .work-f7gdTe:hover {
+  transform: translate(0, -5px);
 }
 
-.sheep .ash-cui-f7gdTe {
+.sheep .ashcui-f7gdTe {
   background-color: transparent;
-  cursor: pointer;
-  font-weight: 600;
-  height: 26px;
-  left: 101px;
-  letter-spacing: 0.00px;
-  line-height: 26px;
+  height: 17px;
+  left: 102px;
   position: absolute;
-  text-align: left;
-  top: 73px;
-  white-space: nowrap;
-  width: auto;
+  top: 77px;
+  width: 124px;
 }
 
 .sheep .group-2-zxx4fw {
@@ -1172,17 +1170,50 @@ transform: translate(0,0);
   width: auto;
 }
 
+.sheep .copyright-2021-ash-f7gdTe {
+  background-color: transparent;
+  display: block;
+  font-weight: 600;
+  height: 50px;
+  left: 652px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  text-align: right;
+  top: 32280px;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.sheep .copyright-2021-ash-f7gdTe.animate-enter222 {
+  animation: animate-enter222-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter222-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
 .sheep .textlabel-f7gdTe {
   background-color: transparent;
   cursor: pointer;
   font-weight: 400;
-  height: 59px;
-  left: 1308px;
+  height: 66px;
+  left: 1301px;
   letter-spacing: 0.00px;
-  line-height: 59px;
+  line-height: 66px;
   position: absolute;
   text-align: left;
-  top: 32256px;
+  top: 32246px;
   transform: rotate(-45deg);
   white-space: nowrap;
   width: auto;
