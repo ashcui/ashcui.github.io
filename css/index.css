@@ -1,7 +1,7 @@
 /* screen - index */
 
 .index {
-  background-color: var(--black);
+  background-color: var(--cod-gray);
   height: 6591px;
   overflow-x: hidden;
   position: relative;
@@ -11,36 +11,17 @@
 .index .group-3-IO3Fu5 {
   background-color: transparent;
   cursor: pointer;
-  display: block;
   height: 26px;
   left: 1244px;
-  opacity: 0;
   pointer-events: auto;
   position: absolute;
   top: 1493px;
-  transform: translate(0, 25px);
-  transition: all 1.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
   width: 95px;
 }
 
-.index .group-3-IO3Fu5.animate-enter {
-  animation: animate-enter-frames 2.00s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
-}
-
-@keyframes animate-enter-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
-}
-
 .index .group-3-IO3Fu5:hover {
-  filter: blur(10px);
+  transform: translate(0, -5px);
 }
 
 .index .viewall-iyzWYA {
@@ -63,11 +44,30 @@ transform: translate(0,0);
 
 .index .selectwork2016-2021-IO3Fu5 {
   background-color: transparent;
+  display: block;
   height: 58px;
   left: 104px;
+  opacity: 0;
   position: absolute;
   top: 1466px;
+  transform: translate(0, 25px);
   width: 162px;
+}
+
+.index .selectwork2016-2021-IO3Fu5.animate-enter {
+  animation: animate-enter-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .index .group-2-IO3Fu5 {
@@ -120,131 +120,46 @@ transform: translate(0,0);
 .index .full-bleed-lifestyle1-copy-IO3Fu5 {
   background-color: transparent;
   cursor: pointer;
+  display: block;
   height: 550px;
   left: 98px;
-  pointer-events: auto;
+  opacity: 0;
   position: absolute;
   top: 1600px;
-  transition: all 0.2s ease-in-out;
+  transform: translate(0, 25px);
   width: 1240px;
 }
 
-.index .full-bleed-lifestyle1-copy-IO3Fu5:hover {
+.index .full-bleed-lifestyle1-copy-IO3Fu5.animate-enter3 {
+  animation: animate-enter3-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter3-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .index .full-bleed-lifestyle1-copy-OJF0dx {
   background-color: transparent;
   cursor: pointer;
-  height: 550px;
-  left: 0px;
-  pointer-events: auto;
-  position: absolute;
-  top: 0px;
-  transition: all 0.2s ease-in-out;
-  width: 1240px;
-}
-
-.index .full-bleed-lifestyle1-copy-OJF0dx:hover {
-}
-
-.index .thumbnail-copy-4-IO3Fu5 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 550px;
-  left: 100px;
-  position: absolute;
-  top: 2303px;
-  width: 1236px;
-}
-
-.index .thumbnail-copy-4-YJFhSQ {
-  background-color: transparent;
-  cursor: pointer;
-  height: 550px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1236px;
-}
-
-.index .full-bleed-lifestyle1-copy-2-IO3Fu5 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 550px;
-  left: 98px;
-  position: absolute;
-  top: 3705px;
-  width: 1240px;
-}
-
-.index .full-bleed-lifestyle1-copy-2-HMIxzb {
-  background-color: transparent;
-  cursor: pointer;
-  height: 550px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1240px;
-}
-
-.index .full-bleed-lifestyle1-copy-3-IO3Fu5 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 550px;
-  left: 99px;
-  position: absolute;
-  top: 4406px;
-  width: 1240px;
-}
-
-.index .full-bleed-lifestyle1-copy-3-tOGbVE {
-  background-color: transparent;
-  cursor: pointer;
-  height: 550px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1240px;
-}
-
-.index .full-bleed-lifestyle1-copy-4-IO3Fu5 {
-  background-color: transparent;
-  cursor: pointer;
-  height: 550px;
-  left: 97px;
-  position: absolute;
-  top: 5104px;
-  width: 1240px;
-}
-
-.index .full-bleed-lifestyle1-copy-4-t8QccF {
-  background-color: transparent;
-  cursor: pointer;
-  height: 550px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1240px;
-}
-
-.index .copyright-2021-ash-IO3Fu5 {
-  background-color: transparent;
   display: block;
-  font-weight: 600;
-  height: 50px;
-  left: 648px;
-  letter-spacing: 0.00px;
-  line-height: 50px;
+  height: 550px;
+  left: 0px;
   opacity: 0;
   position: absolute;
-  text-align: right;
-  top: 6490px;
+  top: 0px;
   transform: translate(0, 25px);
-  white-space: nowrap;
-  width: auto;
+  width: 1240px;
 }
 
-.index .copyright-2021-ash-IO3Fu5.animate-enter2 {
+.index .full-bleed-lifestyle1-copy-OJF0dx.animate-enter2 {
   animation: animate-enter2-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
@@ -258,6 +173,252 @@ transform: translate(0, 25px);
 to{opacity: 1;
 transform: translate(0,0);
 }
+}
+
+.index .thumbnail-copy-4-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 550px;
+  left: 100px;
+  opacity: 0;
+  position: absolute;
+  top: 2303px;
+  transform: translate(0, 25px);
+  width: 1236px;
+}
+
+.index .thumbnail-copy-4-IO3Fu5.animate-enter5 {
+  animation: animate-enter5-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter5-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.index .thumbnail-copy-4-YJFhSQ {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 550px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  transform: translate(0, 25px);
+  width: 1236px;
+}
+
+.index .thumbnail-copy-4-YJFhSQ.animate-enter4 {
+  animation: animate-enter4-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter4-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.index .full-bleed-lifestyle1-copy-2-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 550px;
+  left: 98px;
+  opacity: 0;
+  position: absolute;
+  top: 3705px;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.index .full-bleed-lifestyle1-copy-2-IO3Fu5.animate-enter7 {
+  animation: animate-enter7-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter7-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.index .full-bleed-lifestyle1-copy-2-HMIxzb {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 550px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.index .full-bleed-lifestyle1-copy-2-HMIxzb.animate-enter6 {
+  animation: animate-enter6-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter6-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.index .full-bleed-lifestyle1-copy-3-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 550px;
+  left: 99px;
+  opacity: 0;
+  position: absolute;
+  top: 4406px;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.index .full-bleed-lifestyle1-copy-3-IO3Fu5.animate-enter9 {
+  animation: animate-enter9-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter9-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.index .full-bleed-lifestyle1-copy-3-tOGbVE {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 550px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.index .full-bleed-lifestyle1-copy-3-tOGbVE.animate-enter8 {
+  animation: animate-enter8-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter8-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.index .full-bleed-lifestyle1-copy-4-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 550px;
+  left: 97px;
+  opacity: 0;
+  position: absolute;
+  top: 5104px;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.index .full-bleed-lifestyle1-copy-4-IO3Fu5.animate-enter11 {
+  animation: animate-enter11-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter11-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.index .full-bleed-lifestyle1-copy-4-t8QccF {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 550px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.index .full-bleed-lifestyle1-copy-4-t8QccF.animate-enter10 {
+  animation: animate-enter10-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter10-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.index .copyright-2021-ash-IO3Fu5 {
+  background-color: transparent;
+  font-weight: 600;
+  height: 50px;
+  left: 648px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: right;
+  top: 6490px;
+  white-space: nowrap;
+  width: auto;
 }
 
 .index .x-IO3Fu5 {
@@ -286,14 +447,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.index .plex-copy-IO3Fu5.animate-enter3 {
-  animation: animate-enter3-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.index .plex-copy-IO3Fu5.animate-enter12 {
+  animation: animate-enter12-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter3-frames {
+@keyframes animate-enter12-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -319,14 +480,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.index .sheep-IO3Fu5.animate-enter4 {
-  animation: animate-enter4-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.index .sheep-IO3Fu5.animate-enter13 {
+  animation: animate-enter13-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter4-frames {
+@keyframes animate-enter13-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -361,14 +522,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.index .google-copy-IO3Fu5.animate-enter5 {
-  animation: animate-enter5-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.index .google-copy-IO3Fu5.animate-enter14 {
+  animation: animate-enter14-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter5-frames {
+@keyframes animate-enter14-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -394,14 +555,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.index .dlight-copy-IO3Fu5.animate-enter6 {
-  animation: animate-enter6-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.index .dlight-copy-IO3Fu5.animate-enter15 {
+  animation: animate-enter15-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter6-frames {
+@keyframes animate-enter15-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -445,14 +606,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.index .ava-copy-IO3Fu5.animate-enter7 {
-  animation: animate-enter7-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.index .ava-copy-IO3Fu5.animate-enter16 {
+  animation: animate-enter16-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter7-frames {
+@keyframes animate-enter16-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -487,14 +648,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.index .benchling-copy-IO3Fu5.animate-enter8 {
-  animation: animate-enter8-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.index .benchling-copy-IO3Fu5.animate-enter17 {
+  animation: animate-enter17-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter8-frames {
+@keyframes animate-enter17-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -515,43 +676,82 @@ transform: translate(0,0);
 .index .full-bleed-lifestyle1-copy-5-IO3Fu5 {
   background-color: transparent;
   cursor: pointer;
+  display: block;
   height: 550px;
   left: 97px;
+  opacity: 0;
   position: absolute;
   top: 3004px;
+  transform: translate(0, 25px);
   width: 1240px;
+}
+
+.index .full-bleed-lifestyle1-copy-5-IO3Fu5.animate-enter19 {
+  animation: animate-enter19-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter19-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .index .full-bleed-lifestyle1-copy-5-B51MHc {
   background-color: transparent;
   cursor: pointer;
+  display: block;
   height: 550px;
   left: 0px;
+  opacity: 0;
   position: absolute;
   top: 0px;
+  transform: translate(0, 25px);
   width: 1240px;
+}
+
+.index .full-bleed-lifestyle1-copy-5-B51MHc.animate-enter18 {
+  animation: animate-enter18-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter18-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .index .group-4-IO3Fu5 {
   background-color: transparent;
+  cursor: pointer;
   display: block;
   filter: blur(10px);
-  height: 182px;
+  height: 162px;
   left: 485px;
   opacity: 0;
   position: absolute;
-  top: 6005px;
-  width: 466px;
+  top: 6025px;
+  width: 290px;
 }
 
-.index .group-4-IO3Fu5.animate-enter9 {
-  animation: animate-enter9-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.index .group-4-IO3Fu5.animate-enter20 {
+  animation: animate-enter20-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter9-frames {
+@keyframes animate-enter20-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -562,11 +762,11 @@ filter: none;
 
 .index .group-2-xlggqe {
   background-color: transparent;
-  height: 182px;
+  height: 162px;
   left: 0px;
   position: relative;
   top: 0px;
-  width: 466px;
+  width: 290px;
 }
 
 .index .sayhi-gGSxNk {
@@ -574,47 +774,43 @@ filter: none;
   height: 162px;
   left: 0px;
   position: absolute;
-  top: 20px;
-  width: 462px;
-}
-
-.index .path-gGSxNk {
-  background-color: transparent;
-  height: 7px;
-  left: 332px;
-  position: absolute;
-  top: 172px;
-  width: 136px;
-}
-
-.index .textlabel-gGSxNk {
-  background-color: transparent;
-  font-weight: 400;
-  height: 53px;
-  left: 425px;
-  letter-spacing: 0.00px;
-  line-height: 53px;
-  position: absolute;
-  text-align: left;
   top: 0px;
-  white-space: nowrap;
-  width: auto;
+  width: 290px;
 }
 
-.index .textlabel-IO3Fu5 {
+.index .hi-IO3Fu5 {
   background-color: transparent;
   cursor: pointer;
-  font-weight: 400;
-  height: 66px;
-  left: 1301px;
-  letter-spacing: 0.00px;
-  line-height: 66px;
+  display: block;
+  filter: blur(10px);
+  height: 177px;
+  left: 813px;
+  opacity: 0;
+  pointer-events: auto;
   position: absolute;
-  text-align: left;
-  top: 6456px;
-  transform: rotate(-45deg);
-  white-space: nowrap;
-  width: auto;
+  top: 6010px;
+  transition: all 0.5s ease-in-out;
+  width: 134px;
+}
+
+.index .hi-IO3Fu5.animate-enter21 {
+  animation: animate-enter21-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter21-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.index .hi-IO3Fu5:hover {
+  transform: translate(0, -20px);
 }
 
 .index .about-IO3Fu5 {
@@ -671,21 +867,21 @@ filter: none;
   pointer-events: auto;
   position: absolute;
   text-align: left;
-  top: 219px;
+  top: 229px;
   transform: translate(0, 25px);
   transition: all 1s ease-in-out;
   white-space: nowrap;
   width: 969px;
 }
 
-.index .title-IO3Fu5.animate-enter10 {
-  animation: animate-enter10-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.index .title-IO3Fu5.animate-enter22 {
+  animation: animate-enter22-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter10-frames {
+@keyframes animate-enter22-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -711,21 +907,21 @@ transform: translate(0,0);
   pointer-events: auto;
   position: absolute;
   text-align: left;
-  top: 592px;
+  top: 582px;
   transform: translate(0, 25px);
   transition: all 1s ease-in-out;
   white-space: nowrap;
   width: auto;
 }
 
-.index .associate-design-IO3Fu5.animate-enter11 {
-  animation: animate-enter11-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.index .associate-design-IO3Fu5.animate-enter23 {
+  animation: animate-enter23-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter11-frames {
+@keyframes animate-enter23-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -751,7 +947,7 @@ transform: translate(0,0);
   pointer-events: auto;
   position: absolute;
   text-align: left;
-  top: 965px;
+  top: 935px;
   transform: translate(0, 25px);
   transition: all 1s ease-in-out;
   white-space: nowrap;
@@ -762,7 +958,7 @@ transform: translate(0,0);
 }
 
 .index .span2-fCivxZ {
-  color: var(--storm-dust);
+  color: var(--onyx-2);
   font-family: var(--font-family-pingfangsc-semibold);
   font-size: var(--font-size-xxxxl);
 }
@@ -770,14 +966,14 @@ transform: translate(0,0);
 .index .span3-fCivxZ {
 }
 
-.index .with-a-passion-for-IO3Fu5.animate-enter12 {
-  animation: animate-enter12-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.index .with-a-passion-for-IO3Fu5.animate-enter24 {
+  animation: animate-enter24-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter12-frames {
+@keyframes animate-enter24-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -803,21 +999,21 @@ transform: translate(0,0);
   pointer-events: auto;
   position: absolute;
   text-align: left;
-  top: 1151px;
+  top: 1111px;
   transform: translate(0, 25px);
   transition: all 1s ease-in-out;
   white-space: nowrap;
   width: 1078px;
 }
 
-.index .animation-IO3Fu5.animate-enter13 {
-  animation: animate-enter13-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.index .animation-IO3Fu5.animate-enter25 {
+  animation: animate-enter25-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter13-frames {
+@keyframes animate-enter25-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -843,21 +1039,21 @@ transform: translate(0,0);
   pointer-events: auto;
   position: absolute;
   text-align: left;
-  top: 778px;
+  top: 758px;
   transform: translate(0, 25px);
   transition: all 1s ease-in-out;
   white-space: nowrap;
   width: auto;
 }
 
-.index .director-IO3Fu5.animate-enter14 {
-  animation: animate-enter14-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.index .director-IO3Fu5.animate-enter26 {
+  animation: animate-enter26-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter14-frames {
+@keyframes animate-enter26-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -890,14 +1086,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.index .designer-IO3Fu5.animate-enter15 {
-  animation: animate-enter15-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.index .designer-IO3Fu5.animate-enter27 {
+  animation: animate-enter27-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter15-frames {
+@keyframes animate-enter27-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -917,4 +1113,33 @@ transform: translate(0,0);
   position: absolute;
   top: 0px;
   width: 311px;
+}
+
+.index .image-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 69px;
+  left: 1308px;
+  opacity: 0;
+  position: absolute;
+  top: 6464px;
+  transform: translate(0, 25px);
+  width: 33px;
+}
+
+.index .image-IO3Fu5.animate-enter28 {
+  animation: animate-enter28-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter28-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }

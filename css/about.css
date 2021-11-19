@@ -1,7 +1,7 @@
 /* screen - about */
 
 .about {
-  background-color: var(--black);
+  background-color: var(--cod-gray);
   height: 6141px;
   overflow-x: hidden;
   position: relative;
@@ -10,20 +10,58 @@
 
 .about .expertise-vRTBB9 {
   background-color: transparent;
+  display: block;
   height: 22px;
   left: 104px;
+  opacity: 0;
   position: absolute;
   top: 2669px;
+  transform: translate(0, 25px);
   width: 124px;
+}
+
+.about .expertise-vRTBB9.animate-enter61 {
+  animation: animate-enter61-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter61-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .about .overshare-vRTBB9 {
   background-color: transparent;
+  display: block;
   height: 18px;
   left: 103px;
+  opacity: 0;
   position: absolute;
   top: 4284px;
+  transform: translate(0, 25px);
   width: 138px;
+}
+
+.about .overshare-vRTBB9.animate-enter62 {
+  animation: animate-enter62-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter62-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .about .x2-e01-ef68-69-a-e851-c71105c-vRTBB9 {
@@ -38,14 +76,14 @@
   width: 416px;
 }
 
-.about .x2-e01-ef68-69-a-e851-c71105c-vRTBB9.animate-enter47 {
-  animation: animate-enter47-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .x2-e01-ef68-69-a-e851-c71105c-vRTBB9.animate-enter64 {
+  animation: animate-enter64-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter47-frames {
+@keyframes animate-enter64-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -66,14 +104,14 @@ filter: none;
   width: 416px;
 }
 
-.about .x2-e01-ef68-69-a-e851-c71105c-STwpBg.animate-enter46 {
-  animation: animate-enter46-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .x2-e01-ef68-69-a-e851-c71105c-STwpBg.animate-enter63 {
+  animation: animate-enter63-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter46-frames {
+@keyframes animate-enter63-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -94,14 +132,14 @@ filter: none;
   width: 50px;
 }
 
-.about .group-2-vRTBB9.animate-enter48 {
-  animation: animate-enter48-frames 2.00s ease-in-out 3.00s 1 normal forwards;
+.about .group-2-vRTBB9.animate-enter65 {
+  animation: animate-enter65-frames 2.00s ease-in-out 3.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter48-frames {
+@keyframes animate-enter65-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -167,33 +205,37 @@ transform: translate(0,0);
 }
 
 .about .span4-bJIxjY {
-  color: var(--storm-dust);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
 }
 
 .about .span5-bJIxjY {
 }
 
 .about .span6-bJIxjY {
-  color: var(--storm-dust);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
 }
 
 .about .span7-bJIxjY {
 }
 
-.about .hi-lm-ash-a-des-vRTBB9.animate-enter49 {
-  animation: animate-enter49-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .span8-bJIxjY {
+}
+
+.about .span9-bJIxjY {
+}
+
+.about .span10-bJIxjY {
+}
+
+.about .span11-bJIxjY {
+}
+
+.about .hi-lm-ash-a-des-vRTBB9.animate-enter66 {
+  animation: animate-enter66-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter49-frames {
+@keyframes animate-enter66-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -258,14 +300,14 @@ transform: translate(0,0);
   line-height: 90px;
 }
 
-.about .experiences-at-baunf-vRTBB9.animate-enter50 {
-  animation: animate-enter50-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.about .experiences-at-baunf-vRTBB9.animate-enter67 {
+  animation: animate-enter67-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter50-frames {
+@keyframes animate-enter67-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -296,14 +338,14 @@ transform: translate(0,0);
 .about .span2-q82tMf {
 }
 
-.about .collaboration-with-n-vRTBB9.animate-enter51 {
-  animation: animate-enter51-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+.about .collaboration-with-n-vRTBB9.animate-enter68 {
+  animation: animate-enter68-frames 2.00s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter51-frames {
+@keyframes animate-enter68-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -332,19 +374,27 @@ transform: translate(0,0);
 }
 
 .about .span2-Km1hxJ {
+  color: var(--storm-dust);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-style: normal;
 }
 
 .about .span3-Km1hxJ {
 }
 
 .about .span4-Km1hxJ {
+  color: var(--storm-dust);
+  font-family: var(--font-family-manrope);
+  font-size: var(--font-size-xl);
+  font-style: normal;
 }
 
 .about .span5-Km1hxJ {
 }
 
 .about .span6-Km1hxJ {
-  color: var(--storm-dust);
+  color: var(--white);
   font-family: var(--font-family-applecoloremoji);
   font-size: var(--font-size-xl);
 }
@@ -355,14 +405,17 @@ transform: translate(0,0);
 .about .span8-Km1hxJ {
 }
 
-.about .i-have-specialized-i-vRTBB9.animate-enter52 {
-  animation: animate-enter52-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .span9-Km1hxJ {
+}
+
+.about .i-have-specialized-i-vRTBB9.animate-enter69 {
+  animation: animate-enter69-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter52-frames {
+@keyframes animate-enter69-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -391,14 +444,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.about .art-direction-vRTBB9.animate-enter53 {
-  animation: animate-enter53-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .art-direction-vRTBB9.animate-enter70 {
+  animation: animate-enter70-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter53-frames {
+@keyframes animate-enter70-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -431,14 +484,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.about .digital-design-vRTBB9.animate-enter54 {
-  animation: animate-enter54-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .digital-design-vRTBB9.animate-enter71 {
+  animation: animate-enter71-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter54-frames {
+@keyframes animate-enter71-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -471,14 +524,14 @@ transform: translate(0,0);
   width: 885px;
 }
 
-.about .product-design-vRTBB9.animate-enter55 {
-  animation: animate-enter55-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .product-design-vRTBB9.animate-enter72 {
+  animation: animate-enter72-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter55-frames {
+@keyframes animate-enter72-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -511,14 +564,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.about .visual-identity-vRTBB9.animate-enter56 {
-  animation: animate-enter56-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .visual-identity-vRTBB9.animate-enter73 {
+  animation: animate-enter73-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter56-frames {
+@keyframes animate-enter73-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -551,14 +604,14 @@ transform: translate(0,0);
   width: 885px;
 }
 
-.about .motion-graphic-vRTBB9.animate-enter57 {
-  animation: animate-enter57-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .motion-graphic-vRTBB9.animate-enter74 {
+  animation: animate-enter74-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter57-frames {
+@keyframes animate-enter74-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -591,14 +644,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.about .prototyping-vRTBB9.animate-enter58 {
-  animation: animate-enter58-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .prototyping-vRTBB9.animate-enter75 {
+  animation: animate-enter75-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter58-frames {
+@keyframes animate-enter75-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -613,20 +666,58 @@ transform: translate(0,0);
 
 .about .path-4-copy-vRTBB9 {
   background-color: transparent;
+  display: block;
   height: 3px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 2722px;
+  transform: scaleX(0);
   width: 1241px;
+}
+
+.about .path-4-copy-vRTBB9.animate-enter76 {
+  animation: animate-enter76-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter76-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .about .path-4-copy-2-vRTBB9 {
   background-color: transparent;
+  display: block;
   height: 3px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 4338px;
+  transform: scaleX(0);
   width: 1241px;
+}
+
+.about .path-4-copy-2-vRTBB9.animate-enter77 {
+  animation: animate-enter77-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter77-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .about .e04-d31-b9-e95-20-bebf066-a36-vRTBB9 {
@@ -641,14 +732,14 @@ transform: translate(0,0);
   width: 680px;
 }
 
-.about .e04-d31-b9-e95-20-bebf066-a36-vRTBB9.animate-enter59 {
-  animation: animate-enter59-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .e04-d31-b9-e95-20-bebf066-a36-vRTBB9.animate-enter78 {
+  animation: animate-enter78-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter59-frames {
+@keyframes animate-enter78-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -659,24 +750,25 @@ filter: none;
 
 .about .group-4-vRTBB9 {
   background-color: transparent;
+  cursor: pointer;
   display: block;
   filter: blur(10px);
-  height: 182px;
+  height: 162px;
   left: 486px;
   opacity: 0;
   position: absolute;
-  top: 5555px;
-  width: 466px;
+  top: 5575px;
+  width: 290px;
 }
 
-.about .group-4-vRTBB9.animate-enter60 {
-  animation: animate-enter60-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .group-4-vRTBB9.animate-enter79 {
+  animation: animate-enter79-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter60-frames {
+@keyframes animate-enter79-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -687,11 +779,11 @@ filter: none;
 
 .about .group-2-hOhzSu {
   background-color: transparent;
-  height: 182px;
+  height: 162px;
   left: 0px;
   position: relative;
   top: 0px;
-  width: 466px;
+  width: 290px;
 }
 
 .about .sayhi-MxvgXe {
@@ -699,78 +791,55 @@ filter: none;
   height: 162px;
   left: 0px;
   position: absolute;
-  top: 20px;
-  width: 462px;
-}
-
-.about .path-MxvgXe {
-  background-color: transparent;
-  height: 7px;
-  left: 332px;
-  position: absolute;
-  top: 172px;
-  width: 136px;
-}
-
-.about .textlabel-MxvgXe {
-  background-color: transparent;
-  font-weight: 400;
-  height: 53px;
-  left: 425px;
-  letter-spacing: 0.00px;
-  line-height: 53px;
-  position: absolute;
-  text-align: left;
   top: 0px;
-  white-space: nowrap;
-  width: auto;
+  width: 290px;
+}
+
+.about .hi-vRTBB9 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 177px;
+  left: 813px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 5555px;
+  transition: all 0.5s ease-in-out;
+  width: 134px;
+}
+
+.about .hi-vRTBB9.animate-enter80 {
+  animation: animate-enter80-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter80-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.about .hi-vRTBB9:hover {
+  transform: translate(0, -20px);
 }
 
 .about .copyright-2021-ash-vRTBB9 {
   background-color: transparent;
-  display: block;
   font-weight: 600;
   height: 50px;
   left: 648px;
   letter-spacing: 0.00px;
   line-height: 50px;
-  opacity: 0;
   position: absolute;
   text-align: right;
   top: 6041px;
-  transform: translate(0, 25px);
-  white-space: nowrap;
-  width: auto;
-}
-
-.about .copyright-2021-ash-vRTBB9.animate-enter61 {
-  animation: animate-enter61-frames 1.00s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
-}
-
-@keyframes animate-enter61-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
-}
-
-.about .textlabel-vRTBB9 {
-  background-color: transparent;
-  cursor: pointer;
-  font-weight: 400;
-  height: 66px;
-  left: 1301px;
-  letter-spacing: 0.00px;
-  line-height: 66px;
-  position: absolute;
-  text-align: left;
-  top: 6007px;
-  transform: rotate(-45deg);
   white-space: nowrap;
   width: auto;
 }
@@ -778,7 +847,7 @@ transform: translate(0,0);
 .about .lve-been-to-16-coun-vRTBB9 {
   background-color: transparent;
   display: block;
-  font-weight: 700;
+  font-weight: 800;
   height: 360px;
   left: 209px;
   letter-spacing: 0.00px;
@@ -821,14 +890,14 @@ transform: translate(0,0);
 .about .span10-7CSKGK {
 }
 
-.about .lve-been-to-16-coun-vRTBB9.animate-enter62 {
-  animation: animate-enter62-frames 3.00s ease-in-out 0.00s 1 normal forwards;
+.about .lve-been-to-16-coun-vRTBB9.animate-enter81 {
+  animation: animate-enter81-frames 3.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter62-frames {
+@keyframes animate-enter81-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -886,4 +955,33 @@ transform: translate(0,0);
   position: absolute;
   top: 0px;
   width: 311px;
+}
+
+.about .image-vRTBB9 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 69px;
+  left: 1307px;
+  opacity: 0;
+  position: absolute;
+  top: 6014px;
+  transform: translate(0, 25px);
+  width: 33px;
+}
+
+.about .image-vRTBB9.animate-enter82 {
+  animation: animate-enter82-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter82-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }

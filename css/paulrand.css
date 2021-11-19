@@ -1,7 +1,7 @@
 /* screen - paulrand */
 
 .paulrand {
-  background-color: var(--black);
+  background-color: var(--cod-gray);
   height: 17077px;
   overflow-x: hidden;
   position: relative;
@@ -20,14 +20,14 @@
   width: 1240px;
 }
 
-.paulrand .full-bleed-lifestyle1-ED6WlS.animate-enter224 {
-  animation: animate-enter224-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.paulrand .full-bleed-lifestyle1-ED6WlS.animate-enter297 {
+  animation: animate-enter297-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter224-frames {
+@keyframes animate-enter297-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -48,14 +48,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.paulrand .full-bleed-lifestyle1-0kTWDG.animate-enter223 {
-  animation: animate-enter223-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.paulrand .full-bleed-lifestyle1-0kTWDG.animate-enter296 {
+  animation: animate-enter296-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter223-frames {
+@keyframes animate-enter296-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -76,14 +76,14 @@ transform: translate(0,0);
   width: 138px;
 }
 
-.paulrand .group-ED6WlS.animate-enter225 {
-  animation: animate-enter225-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.paulrand .group-ED6WlS.animate-enter298 {
+  animation: animate-enter298-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter225-frames {
+@keyframes animate-enter298-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -153,14 +153,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.paulrand .paul-rand-ram-ED6WlS.animate-enter226 {
-  animation: animate-enter226-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.paulrand .paul-rand-ram-ED6WlS.animate-enter299 {
+  animation: animate-enter299-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter226-frames {
+@keyframes animate-enter299-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -195,14 +195,14 @@ transform: translate(0,0);
   width: 248px;
 }
 
-.paulrand .exhibition-design-ED6WlS.animate-enter227 {
-  animation: animate-enter227-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.paulrand .exhibition-design-ED6WlS.animate-enter300 {
+  animation: animate-enter300-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter227-frames {
+@keyframes animate-enter300-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -223,14 +223,14 @@ transform: translate(0,0);
   width: 362px;
 }
 
-.paulrand .inmemoryof-paul-rand-ED6WlS.animate-enter228 {
-  animation: animate-enter228-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.paulrand .inmemoryof-paul-rand-ED6WlS.animate-enter301 {
+  animation: animate-enter301-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter228-frames {
+@keyframes animate-enter301-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -256,14 +256,14 @@ transform: translate(0,0);
   width: 56px;
 }
 
-.paulrand .x2016-ED6WlS.animate-enter229 {
-  animation: animate-enter229-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.paulrand .x2016-ED6WlS.animate-enter302 {
+  animation: animate-enter302-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter229-frames {
+@keyframes animate-enter302-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -284,14 +284,14 @@ transform: translate(0,0);
   width: 86px;
 }
 
-.paulrand .role-ED6WlS.animate-enter230 {
-  animation: animate-enter230-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.paulrand .role-ED6WlS.animate-enter303 {
+  animation: animate-enter303-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter230-frames {
+@keyframes animate-enter303-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -317,14 +317,14 @@ transform: translate(0,0);
   width: 595px;
 }
 
-.paulrand .this-exhiibition-is-ED6WlS.animate-enter231 {
-  animation: animate-enter231-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.paulrand .this-exhiibition-is-ED6WlS.animate-enter304 {
+  animation: animate-enter304-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter231-frames {
+@keyframes animate-enter304-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -335,11 +335,30 @@ transform: translate(0,0);
 
 .paulrand .path-5-ED6WlS {
   background-color: transparent;
+  display: block;
   height: 2px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 406px;
+  transform: scaleX(0);
   width: 1237px;
+}
+
+.paulrand .path-5-ED6WlS.animate-enter305 {
+  animation: animate-enter305-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter305-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .paulrand .wix-01-ED6WlS {
@@ -390,14 +409,14 @@ transform: translate(0,0);
   width: 350px;
 }
 
-.paulrand .bigboldtypeface-fulcolorpalette-ED6WlS.animate-enter232 {
-  animation: animate-enter232-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.paulrand .bigboldtypeface-fulcolorpalette-ED6WlS.animate-enter306 {
+  animation: animate-enter306-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter232-frames {
+@keyframes animate-enter306-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -408,20 +427,39 @@ transform: translate(0,0);
 
 .paulrand .path-5-copy-2-ED6WlS {
   background-color: transparent;
+  display: block;
   height: 4px;
   left: 102px;
+  opacity: 1;
   position: absolute;
   top: 5230px;
+  transform: scaleX(0);
   width: 1237px;
+}
+
+.paulrand .path-5-copy-2-ED6WlS.animate-enter307 {
+  animation: animate-enter307-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter307-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .paulrand .wix-03-ED6WlS {
   background-color: transparent;
-  height: 3238px;
-  left: 99px;
+  height: 3241px;
+  left: 98px;
   position: absolute;
-  top: 5613px;
-  width: 1240px;
+  top: 5612px;
+  width: 1243px;
 }
 
 .paulrand .wix-04-ED6WlS {
@@ -473,14 +511,14 @@ transform: translate(0,0);
   width: 217px;
 }
 
-.paulrand .interiordesign-ED6WlS.animate-enter233 {
-  animation: animate-enter233-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.paulrand .interiordesign-ED6WlS.animate-enter308 {
+  animation: animate-enter308-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter233-frames {
+@keyframes animate-enter308-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -491,11 +529,30 @@ transform: translate(0,0);
 
 .paulrand .path-5-copy-2-xmEcem {
   background-color: transparent;
+  display: block;
   height: 4px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 14008px;
+  transform: scaleX(0);
   width: 1237px;
+}
+
+.paulrand .path-5-copy-2-xmEcem.animate-enter309 {
+  animation: animate-enter309-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter309-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .paulrand .material6-ED6WlS {
@@ -528,14 +585,14 @@ transform: translate(0,0);
   width: 1238px;
 }
 
-.paulrand .getty-images-946509292-ED6WlS.animate-enter235 {
-  animation: animate-enter235-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.paulrand .getty-images-946509292-ED6WlS.animate-enter311 {
+  animation: animate-enter311-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter235-frames {
+@keyframes animate-enter311-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -556,14 +613,14 @@ transform: translate(0,0);
   width: 1238px;
 }
 
-.paulrand .getty-images-946509292-BMQuzM.animate-enter234 {
-  animation: animate-enter234-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.paulrand .getty-images-946509292-BMQuzM.animate-enter310 {
+  animation: animate-enter310-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter234-frames {
+@keyframes animate-enter310-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -587,12 +644,12 @@ transform: translate(0,0);
   width: auto;
 }
 
-.paulrand .thanks-for-scrolling-ED6WlS.animate-enter236 {
-  animation: animate-enter236-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.paulrand .thanks-for-scrolling-ED6WlS.animate-enter312 {
+  animation: animate-enter312-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
 }
 
-@keyframes animate-enter236-frames {
+@keyframes animate-enter312-frames {
   from{}
 to{}
 }
@@ -600,36 +657,17 @@ to{}
 .paulrand .group-2-ED6WlS {
   background-color: transparent;
   cursor: pointer;
-  display: block;
   height: 26px;
   left: 1183px;
-  opacity: 0;
   pointer-events: auto;
   position: absolute;
   top: 15501px;
-  transform: translate(0, 25px);
-  transition: all 1.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
   width: 159px;
 }
 
-.paulrand .group-2-ED6WlS.animate-enter237 {
-  animation: animate-enter237-frames 1.50s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
-}
-
-@keyframes animate-enter237-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
-}
-
 .paulrand .group-2-ED6WlS:hover {
-  filter: blur(10px);
+  transform: translate(0, -5px);
 }
 
 .paulrand .nextproject-RluBeu {
@@ -659,11 +697,30 @@ transform: translate(0,0);
 
 .paulrand .path-5-xmEcem {
   background-color: transparent;
+  display: block;
   height: 3px;
   left: 102px;
+  opacity: 1;
   position: absolute;
   top: 15604px;
+  transform: scaleX(0);
   width: 1238px;
+}
+
+.paulrand .path-5-xmEcem.animate-enter313 {
+  animation: animate-enter313-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter313-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .paulrand .material3-ED6WlS {
@@ -737,14 +794,14 @@ transform: translate(0,0);
   width: 512px;
 }
 
-.paulrand .paul-rand-always-emp-ED6WlS.animate-enter238 {
-  animation: animate-enter238-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.paulrand .paul-rand-always-emp-ED6WlS.animate-enter314 {
+  animation: animate-enter314-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter238-frames {
+@keyframes animate-enter314-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -770,14 +827,14 @@ transform: translate(0,0);
   width: 512px;
 }
 
-.paulrand .the-area-of-this-exh-ED6WlS.animate-enter239 {
-  animation: animate-enter239-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.paulrand .the-area-of-this-exh-ED6WlS.animate-enter315 {
+  animation: animate-enter315-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter239-frames {
+@keyframes animate-enter315-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -866,11 +923,31 @@ transform: translate(0,0);
 
 .paulrand .group-2-xmEcem {
   background-color: transparent;
-  height: 182px;
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 162px;
   left: 488px;
+  opacity: 0;
   position: absolute;
-  top: 16491px;
-  width: 466px;
+  top: 16511px;
+  width: 290px;
+}
+
+.paulrand .group-2-xmEcem.animate-enter316 {
+  animation: animate-enter316-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter316-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
 }
 
 .paulrand .sayhi-aY4P4Y {
@@ -878,78 +955,20 @@ transform: translate(0,0);
   height: 162px;
   left: 0px;
   position: absolute;
-  top: 20px;
-  width: 462px;
-}
-
-.paulrand .path-aY4P4Y {
-  background-color: transparent;
-  height: 6px;
-  left: 332px;
-  position: absolute;
-  top: 172px;
-  width: 136px;
-}
-
-.paulrand .textlabel-aY4P4Y {
-  background-color: transparent;
-  font-weight: 400;
-  height: 53px;
-  left: 425px;
-  letter-spacing: 0.00px;
-  line-height: 53px;
-  position: absolute;
-  text-align: left;
   top: 0px;
-  white-space: nowrap;
-  width: auto;
+  width: 290px;
 }
 
 .paulrand .copyright-2021-ash-ED6WlS {
   background-color: transparent;
-  display: block;
   font-weight: 600;
   height: 50px;
   left: 648px;
   letter-spacing: 0.00px;
   line-height: 50px;
-  opacity: 0;
   position: absolute;
   text-align: right;
   top: 16976px;
-  transform: translate(0, 25px);
-  white-space: nowrap;
-  width: auto;
-}
-
-.paulrand .copyright-2021-ash-ED6WlS.animate-enter240 {
-  animation: animate-enter240-frames 1.00s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
-}
-
-@keyframes animate-enter240-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
-}
-
-.paulrand .textlabel-ED6WlS {
-  background-color: transparent;
-  cursor: pointer;
-  font-weight: 400;
-  height: 66px;
-  left: 1301px;
-  letter-spacing: 0.00px;
-  line-height: 66px;
-  position: absolute;
-  text-align: left;
-  top: 16942px;
-  transform: rotate(-45deg);
   white-space: nowrap;
   width: auto;
 }
@@ -972,4 +991,92 @@ transform: translate(0,0);
   position: absolute;
   top: 2567px;
   width: 621px;
+}
+
+.paulrand .x-ED6WlS {
+  background-color: transparent;
+  display: block;
+  height: 25px;
+  left: 877px;
+  position: absolute;
+  top: 15468px;
+  transform: rotate(0deg);
+  width: 25px;
+}
+
+.paulrand .x-ED6WlS.animate-enter317 {
+  animation: animate-enter317-frames 5.23s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  transform: rotate(0deg);
+}
+
+@keyframes animate-enter317-frames {
+  from{transform: rotate(0deg);
+}
+to{transform: rotate(359deg);
+}
+}
+
+.paulrand .image-ED6WlS {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 69px;
+  left: 1310px;
+  opacity: 0;
+  position: absolute;
+  top: 16949px;
+  transform: translate(0, 25px);
+  width: 33px;
+}
+
+.paulrand .image-ED6WlS.animate-enter318 {
+  animation: animate-enter318-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter318-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.paulrand .hi-ED6WlS {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 177px;
+  left: 814px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 16490px;
+  transition: all 0.5s ease-in-out;
+  width: 134px;
+}
+
+.paulrand .hi-ED6WlS.animate-enter319 {
+  animation: animate-enter319-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter319-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.paulrand .hi-ED6WlS:hover {
+  transform: translate(0, -20px);
 }

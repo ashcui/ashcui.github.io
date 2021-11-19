@@ -1,7 +1,7 @@
 /* screen - plex */
 
 .plex {
-  background-color: var(--black);
+  background-color: var(--cod-gray);
   height: 13582px;
   overflow-x: hidden;
   position: relative;
@@ -20,14 +20,14 @@
   width: 1240px;
 }
 
-.plex .full-bleed-lifestyle1-6fzTlM.animate-enter140 {
-  animation: animate-enter140-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .full-bleed-lifestyle1-6fzTlM.animate-enter181 {
+  animation: animate-enter181-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter140-frames {
+@keyframes animate-enter181-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -48,14 +48,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.plex .full-bleed-lifestyle1-4Xt0du.animate-enter139 {
-  animation: animate-enter139-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .full-bleed-lifestyle1-4Xt0du.animate-enter180 {
+  animation: animate-enter180-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter139-frames {
+@keyframes animate-enter180-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -81,14 +81,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.plex .plex-6fzTlM.animate-enter141 {
-  animation: animate-enter141-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex-6fzTlM.animate-enter182 {
+  animation: animate-enter182-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter141-frames {
+@keyframes animate-enter182-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -165,14 +165,14 @@ transform: translate(0,0);
   width: 56px;
 }
 
-.plex .x2021-6fzTlM.animate-enter142 {
-  animation: animate-enter142-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.plex .x2021-6fzTlM.animate-enter183 {
+  animation: animate-enter183-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter142-frames {
+@keyframes animate-enter183-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -183,11 +183,30 @@ transform: translate(0,0);
 
 .plex .path-5-6fzTlM {
   background-color: transparent;
+  display: block;
   height: 2px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 406px;
+  transform: scaleX(0);
   width: 1237px;
+}
+
+.plex .path-5-6fzTlM.animate-enter184 {
+  animation: animate-enter184-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter184-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .plex .website-design-6fzTlM {
@@ -207,14 +226,14 @@ transform: translate(0,0);
   width: 248px;
 }
 
-.plex .website-design-6fzTlM.animate-enter143 {
-  animation: animate-enter143-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.plex .website-design-6fzTlM.animate-enter185 {
+  animation: animate-enter185-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter143-frames {
+@keyframes animate-enter185-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -235,14 +254,14 @@ transform: translate(0,0);
   width: 463px;
 }
 
-.plex .edgydigitaldesi-cturingplatform-6fzTlM.animate-enter144 {
-  animation: animate-enter144-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.plex .edgydigitaldesi-cturingplatform-6fzTlM.animate-enter186 {
+  animation: animate-enter186-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter144-frames {
+@keyframes animate-enter186-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -263,14 +282,14 @@ transform: translate(0,0);
   width: 86px;
 }
 
-.plex .role-6fzTlM.animate-enter145 {
-  animation: animate-enter145-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.plex .role-6fzTlM.animate-enter187 {
+  animation: animate-enter187-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter145-frames {
+@keyframes animate-enter187-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -296,14 +315,14 @@ transform: translate(0,0);
   width: 608px;
 }
 
-.plex .plex-systems-a-powe-6fzTlM.animate-enter146 {
-  animation: animate-enter146-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.plex .plex-systems-a-powe-6fzTlM.animate-enter188 {
+  animation: animate-enter188-frames 1.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter146-frames {
+@keyframes animate-enter188-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -324,14 +343,14 @@ transform: translate(0,0);
   width: 1237px;
 }
 
-.plex .plex-case-stud-desktop-comp1-6fzTlM.animate-enter147 {
-  animation: animate-enter147-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex-case-stud-desktop-comp1-6fzTlM.animate-enter189 {
+  animation: animate-enter189-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter147-frames {
+@keyframes animate-enter189-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -352,14 +371,14 @@ transform: translate(0,0);
   width: 488px;
 }
 
-.plex .differentiation-ualstorytelling-6fzTlM.animate-enter148 {
-  animation: animate-enter148-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .differentiation-ualstorytelling-6fzTlM.animate-enter190 {
+  animation: animate-enter190-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter148-frames {
+@keyframes animate-enter190-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -385,14 +404,14 @@ transform: translate(0,0);
   width: 513px;
 }
 
-.plex .our-designers-explor-6fzTlM.animate-enter149 {
-  animation: animate-enter149-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.plex .our-designers-explor-6fzTlM.animate-enter191 {
+  animation: animate-enter191-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter149-frames {
+@keyframes animate-enter191-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -403,11 +422,30 @@ transform: translate(0,0);
 
 .plex .path-5-yV6dm5 {
   background-color: transparent;
+  display: block;
   height: 4px;
   left: 98px;
+  opacity: 1;
   position: absolute;
   top: 7264px;
+  transform: scaleX(0);
   width: 1238px;
+}
+
+.plex .path-5-yV6dm5.animate-enter192 {
+  animation: animate-enter192-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter192-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .plex .plex-case-stud-desktop-comp2-6fzTlM {
@@ -422,14 +460,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.plex .plex-case-stud-desktop-comp2-6fzTlM.animate-enter151 {
-  animation: animate-enter151-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex-case-stud-desktop-comp2-6fzTlM.animate-enter194 {
+  animation: animate-enter194-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter151-frames {
+@keyframes animate-enter194-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -450,14 +488,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.plex .plex-case-stud-desktop-comp2-e8BWzE.animate-enter150 {
-  animation: animate-enter150-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex-case-stud-desktop-comp2-e8BWzE.animate-enter193 {
+  animation: animate-enter193-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter150-frames {
+@keyframes animate-enter193-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -478,14 +516,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.plex .plex-case-stud-desktop-comp3-6fzTlM.animate-enter153 {
-  animation: animate-enter153-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex-case-stud-desktop-comp3-6fzTlM.animate-enter196 {
+  animation: animate-enter196-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter153-frames {
+@keyframes animate-enter196-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -506,14 +544,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.plex .plex-case-stud-desktop-comp3-0AT2o8.animate-enter152 {
-  animation: animate-enter152-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex-case-stud-desktop-comp3-0AT2o8.animate-enter195 {
+  animation: animate-enter195-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter152-frames {
+@keyframes animate-enter195-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -534,14 +572,14 @@ transform: translate(0,0);
   width: 327px;
 }
 
-.plex .makingelementspop-6fzTlM.animate-enter154 {
-  animation: animate-enter154-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .makingelementspop-6fzTlM.animate-enter197 {
+  animation: animate-enter197-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter154-frames {
+@keyframes animate-enter197-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -567,14 +605,14 @@ transform: translate(0,0);
   width: 513px;
 }
 
-.plex .we-utilized-plexs-s-6fzTlM.animate-enter155 {
-  animation: animate-enter155-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.plex .we-utilized-plexs-s-6fzTlM.animate-enter198 {
+  animation: animate-enter198-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter155-frames {
+@keyframes animate-enter198-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -585,11 +623,30 @@ transform: translate(0,0);
 
 .plex .path-5-JWRygj {
   background-color: transparent;
+  display: block;
   height: 4px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 9874px;
+  transform: scaleX(0);
   width: 1238px;
+}
+
+.plex .path-5-JWRygj.animate-enter199 {
+  animation: animate-enter199-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter199-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .plex .plex-case-stud--color-palette-6fzTlM {
@@ -604,14 +661,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.plex .plex-case-stud--color-palette-6fzTlM.animate-enter156 {
-  animation: animate-enter156-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex-case-stud--color-palette-6fzTlM.animate-enter200 {
+  animation: animate-enter200-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter156-frames {
+@keyframes animate-enter200-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -632,14 +689,14 @@ transform: translate(0,0);
   width: 1242px;
 }
 
-.plex .plex-case-stud-v1-typography-6fzTlM.animate-enter157 {
-  animation: animate-enter157-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex-case-stud-v1-typography-6fzTlM.animate-enter201 {
+  animation: animate-enter201-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter157-frames {
+@keyframes animate-enter201-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -660,14 +717,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.plex .plex-case-stud-eed-lifestyle1-6fzTlM.animate-enter159 {
-  animation: animate-enter159-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex-case-stud-eed-lifestyle1-6fzTlM.animate-enter203 {
+  animation: animate-enter203-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter159-frames {
+@keyframes animate-enter203-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -688,14 +745,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.plex .plex-case-stud-eed-lifestyle1-aifswv.animate-enter158 {
-  animation: animate-enter158-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex-case-stud-eed-lifestyle1-aifswv.animate-enter202 {
+  animation: animate-enter202-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter158-frames {
+@keyframes animate-enter202-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -716,14 +773,14 @@ transform: translate(0,0);
   width: 138px;
 }
 
-.plex .group-6fzTlM.animate-enter160 {
-  animation: animate-enter160-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.plex .group-6fzTlM.animate-enter204 {
+  animation: animate-enter204-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter160-frames {
+@keyframes animate-enter204-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -805,46 +862,71 @@ transform: translate(0,0);
   width: auto;
 }
 
-.plex .thanks-for-scrolling-6fzTlM.animate-enter161 {
-  animation: animate-enter161-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.plex .thanks-for-scrolling-6fzTlM.animate-enter205 {
+  animation: animate-enter205-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
 }
 
-@keyframes animate-enter161-frames {
+@keyframes animate-enter205-frames {
   from{}
 to{}
 }
 
 .plex .path-5-72SLFl {
   background-color: transparent;
+  display: block;
   height: 3px;
   left: 102px;
+  opacity: 1;
   position: absolute;
   top: 12128px;
+  transform: scaleX(0);
   width: 1238px;
 }
 
-.plex .x-6fzTlM {
-  background-color: transparent;
-  font-weight: 400;
-  height: 56px;
-  left: 897px;
-  letter-spacing: 0.00px;
-  line-height: 50px;
-  position: absolute;
-  text-align: left;
-  top: 11989px;
-  white-space: nowrap;
-  width: auto;
+.plex .path-5-72SLFl.animate-enter206 {
+  animation: animate-enter206-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter206-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .plex .group-2-6fzTlM {
   background-color: transparent;
-  height: 182px;
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 162px;
   left: 484px;
+  opacity: 0;
   position: absolute;
-  top: 12996px;
-  width: 466px;
+  top: 13016px;
+  width: 290px;
+}
+
+.plex .group-2-6fzTlM.animate-enter207 {
+  animation: animate-enter207-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter207-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
 }
 
 .plex .sayhi-l0UA34 {
@@ -852,78 +934,20 @@ to{}
   height: 162px;
   left: 0px;
   position: absolute;
-  top: 20px;
-  width: 462px;
-}
-
-.plex .path-l0UA34 {
-  background-color: transparent;
-  height: 6px;
-  left: 332px;
-  position: absolute;
-  top: 172px;
-  width: 136px;
-}
-
-.plex .textlabel-l0UA34 {
-  background-color: transparent;
-  font-weight: 400;
-  height: 53px;
-  left: 425px;
-  letter-spacing: 0.00px;
-  line-height: 53px;
-  position: absolute;
-  text-align: left;
   top: 0px;
-  white-space: nowrap;
-  width: auto;
+  width: 290px;
 }
 
 .plex .copyright-2021-ash-6fzTlM {
   background-color: transparent;
-  display: block;
   font-weight: 600;
   height: 50px;
   left: 648px;
   letter-spacing: 0.00px;
   line-height: 50px;
-  opacity: 0;
   position: absolute;
   text-align: right;
   top: 13482px;
-  transform: translate(0, 25px);
-  white-space: nowrap;
-  width: auto;
-}
-
-.plex .copyright-2021-ash-6fzTlM.animate-enter162 {
-  animation: animate-enter162-frames 1.00s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
-}
-
-@keyframes animate-enter162-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
-}
-
-.plex .textlabel-6fzTlM {
-  background-color: transparent;
-  cursor: pointer;
-  font-weight: 400;
-  height: 66px;
-  left: 1301px;
-  letter-spacing: 0.00px;
-  line-height: 66px;
-  position: absolute;
-  text-align: left;
-  top: 13446px;
-  transform: rotate(-45deg);
   white-space: nowrap;
   width: auto;
 }
@@ -931,36 +955,17 @@ transform: translate(0,0);
 .plex .group-2-yV6dm5 {
   background-color: transparent;
   cursor: pointer;
-  display: block;
   height: 26px;
   left: 1179px;
-  opacity: 0;
   pointer-events: auto;
   position: absolute;
   top: 12025px;
-  transform: translate(0, 25px);
-  transition: all 1.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
   width: 159px;
 }
 
-.plex .group-2-yV6dm5.animate-enter163 {
-  animation: animate-enter163-frames 1.50s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
-}
-
-@keyframes animate-enter163-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
-}
-
 .plex .group-2-yV6dm5:hover {
-  filter: blur(10px);
+  transform: translate(0, -5px);
 }
 
 .plex .nextproject-ErsYtf {
@@ -986,4 +991,92 @@ transform: translate(0,0);
 
 .plex .path-6-ErsYtf:hover {
   filter: blur(10px);
+}
+
+.plex .x-6fzTlM {
+  background-color: transparent;
+  display: block;
+  height: 26px;
+  left: 876px;
+  position: absolute;
+  top: 11991px;
+  transform: rotate(0deg);
+  width: 26px;
+}
+
+.plex .x-6fzTlM.animate-enter208 {
+  animation: animate-enter208-frames 5.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  transform: rotate(0deg);
+}
+
+@keyframes animate-enter208-frames {
+  from{transform: rotate(0deg);
+}
+to{transform: rotate(359deg);
+}
+}
+
+.plex .image-6fzTlM {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 69px;
+  left: 1309px;
+  opacity: 0;
+  position: absolute;
+  top: 13453px;
+  transform: translate(0, 25px);
+  width: 33px;
+}
+
+.plex .image-6fzTlM.animate-enter209 {
+  animation: animate-enter209-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter209-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.plex .hi-6fzTlM {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 177px;
+  left: 812px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 12997px;
+  transition: all 0.5s ease-in-out;
+  width: 134px;
+}
+
+.plex .hi-6fzTlM.animate-enter210 {
+  animation: animate-enter210-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter210-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.plex .hi-6fzTlM:hover {
+  transform: translate(0, -20px);
 }

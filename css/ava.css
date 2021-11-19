@@ -1,7 +1,7 @@
 /* screen - ava */
 
 .ava {
-  background-color: var(--black);
+  background-color: var(--cod-gray);
   height: 31617px;
   overflow-x: hidden;
   position: relative;
@@ -20,14 +20,14 @@
   width: 86px;
 }
 
-.ava .role-GiHQA9.animate-enter120 {
-  animation: animate-enter120-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.ava .role-GiHQA9.animate-enter154 {
+  animation: animate-enter154-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter120-frames {
+@keyframes animate-enter154-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -53,14 +53,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.ava .ava-GiHQA9.animate-enter121 {
-  animation: animate-enter121-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .ava-GiHQA9.animate-enter155 {
+  animation: animate-enter155-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter121-frames {
+@keyframes animate-enter155-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -137,14 +137,14 @@ transform: translate(0,0);
   width: 56px;
 }
 
-.ava .x2019-GiHQA9.animate-enter122 {
-  animation: animate-enter122-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.ava .x2019-GiHQA9.animate-enter156 {
+  animation: animate-enter156-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter122-frames {
+@keyframes animate-enter156-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -155,11 +155,30 @@ transform: translate(0,0);
 
 .ava .path-5-GiHQA9 {
   background-color: transparent;
+  display: block;
   height: 2px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 406px;
+  transform: scaleX(0);
   width: 1237px;
+}
+
+.ava .path-5-GiHQA9.animate-enter157 {
+  animation: animate-enter157-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter157-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .ava .ahumanizedplatf-rganizeyourtrip-GiHQA9 {
@@ -174,14 +193,14 @@ transform: translate(0,0);
   width: 506px;
 }
 
-.ava .ahumanizedplatf-rganizeyourtrip-GiHQA9.animate-enter123 {
-  animation: animate-enter123-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.ava .ahumanizedplatf-rganizeyourtrip-GiHQA9.animate-enter158 {
+  animation: animate-enter158-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter123-frames {
+@keyframes animate-enter158-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -207,14 +226,14 @@ transform: translate(0,0);
   width: 581px;
 }
 
-.ava .this-project-is-abou-GiHQA9.animate-enter124 {
-  animation: animate-enter124-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.ava .this-project-is-abou-GiHQA9.animate-enter159 {
+  animation: animate-enter159-frames 1.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter124-frames {
+@keyframes animate-enter159-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -235,14 +254,14 @@ transform: translate(0,0);
   width: 1238px;
 }
 
-.ava .getty-images-946509292-GiHQA9.animate-enter126 {
-  animation: animate-enter126-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .getty-images-946509292-GiHQA9.animate-enter161 {
+  animation: animate-enter161-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter126-frames {
+@keyframes animate-enter161-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -263,14 +282,14 @@ transform: translate(0,0);
   width: 1238px;
 }
 
-.ava .getty-images-946509292-SOcH8x.animate-enter125 {
-  animation: animate-enter125-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .getty-images-946509292-SOcH8x.animate-enter160 {
+  animation: animate-enter160-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter125-frames {
+@keyframes animate-enter160-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -282,36 +301,17 @@ transform: translate(0,0);
 .ava .group-2-GiHQA9 {
   background-color: transparent;
   cursor: pointer;
-  display: block;
   height: 26px;
   left: 1181px;
-  opacity: 0;
   pointer-events: auto;
   position: absolute;
   top: 30046px;
-  transform: translate(0, 25px);
-  transition: all 1.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
   width: 159px;
 }
 
-.ava .group-2-GiHQA9.animate-enter127 {
-  animation: animate-enter127-frames 1.50s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
-}
-
-@keyframes animate-enter127-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
-}
-
 .ava .group-2-GiHQA9:hover {
-  filter: blur(10px);
+  transform: translate(0, -5px);
 }
 
 .ava .nextproject-lC7bJG {
@@ -354,37 +354,42 @@ transform: translate(0,0);
   width: auto;
 }
 
-.ava .thanks-for-scrolling-GiHQA9.animate-enter128 {
-  animation: animate-enter128-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.ava .thanks-for-scrolling-GiHQA9.animate-enter162 {
+  animation: animate-enter162-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
 }
 
-@keyframes animate-enter128-frames {
+@keyframes animate-enter162-frames {
   from{}
 to{}
 }
 
 .ava .path-5-7bdFr3 {
   background-color: transparent;
+  display: block;
   height: 3px;
   left: 102px;
+  opacity: 1;
   position: absolute;
   top: 30144px;
+  transform: scaleX(0);
   width: 1238px;
 }
 
-.ava .x-GiHQA9 {
-  background-color: transparent;
-  font-weight: 400;
-  height: 56px;
-  left: 897px;
-  letter-spacing: 0.00px;
-  line-height: 50px;
-  position: absolute;
-  text-align: left;
-  top: 30005px;
-  white-space: nowrap;
-  width: auto;
+.ava .path-5-7bdFr3.animate-enter163 {
+  animation: animate-enter163-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter163-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .ava .layout-GiHQA9 {
@@ -408,14 +413,14 @@ to{}
   width: 428px;
 }
 
-.ava .thoughtfulbrand-aginganimations-GiHQA9.animate-enter129 {
-  animation: animate-enter129-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.ava .thoughtfulbrand-aginganimations-GiHQA9.animate-enter164 {
+  animation: animate-enter164-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter129-frames {
+@keyframes animate-enter164-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -441,14 +446,14 @@ transform: translate(0,0);
   width: 503px;
 }
 
-.ava .by-thoughtfully-surf-GiHQA9.animate-enter130 {
-  animation: animate-enter130-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.ava .by-thoughtfully-surf-GiHQA9.animate-enter165 {
+  animation: animate-enter165-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter130-frames {
+@keyframes animate-enter165-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -459,11 +464,30 @@ transform: translate(0,0);
 
 .ava .path-5-LgRivs {
   background-color: transparent;
+  display: block;
   height: 4px;
   left: 102px;
+  opacity: 1;
   position: absolute;
   top: 2556px;
+  transform: scaleX(0);
   width: 1236px;
+}
+
+.ava .path-5-LgRivs.animate-enter166 {
+  animation: animate-enter166-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter166-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .ava .high-03-GiHQA9 {
@@ -514,14 +538,14 @@ transform: translate(0,0);
   width: 366px;
 }
 
-.ava .user-centered-research-GiHQA9.animate-enter131 {
-  animation: animate-enter131-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.ava .user-centered-research-GiHQA9.animate-enter167 {
+  animation: animate-enter167-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter131-frames {
+@keyframes animate-enter167-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -532,11 +556,30 @@ transform: translate(0,0);
 
 .ava .path-5-copy-GiHQA9 {
   background-color: transparent;
+  display: block;
   height: 3px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 20916px;
+  transform: scaleX(0);
   width: 1242px;
+}
+
+.ava .path-5-copy-GiHQA9.animate-enter168 {
+  animation: animate-enter168-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter168-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .ava .high-06-GiHQA9 {
@@ -606,14 +649,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.ava .screen-shot-202-25-at-114224-pm-GiHQA9.animate-enter133 {
-  animation: animate-enter133-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .screen-shot-202-25-at-114224-pm-GiHQA9.animate-enter170 {
+  animation: animate-enter170-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter133-frames {
+@keyframes animate-enter170-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -634,14 +677,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.ava .screen-shot-202-25-at-114224-pm-AUxCDM.animate-enter132 {
-  animation: animate-enter132-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .screen-shot-202-25-at-114224-pm-AUxCDM.animate-enter169 {
+  animation: animate-enter169-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter132-frames {
+@keyframes animate-enter169-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -667,14 +710,14 @@ transform: translate(0,0);
   width: 248px;
 }
 
-.ava .website-design-GiHQA9.animate-enter134 {
-  animation: animate-enter134-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.ava .website-design-GiHQA9.animate-enter171 {
+  animation: animate-enter171-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter134-frames {
+@keyframes animate-enter171-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -695,14 +738,14 @@ transform: translate(0,0);
   width: 138px;
 }
 
-.ava .group-GiHQA9.animate-enter135 {
-  animation: animate-enter135-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.ava .group-GiHQA9.animate-enter172 {
+  animation: animate-enter172-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter135-frames {
+@keyframes animate-enter172-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -817,14 +860,14 @@ transform: translate(0,0);
   width: 369px;
 }
 
-.ava .extendingthebra-fulcolorpalette-GiHQA9.animate-enter136 {
-  animation: animate-enter136-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.ava .extendingthebra-fulcolorpalette-GiHQA9.animate-enter173 {
+  animation: animate-enter173-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter136-frames {
+@keyframes animate-enter173-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -850,14 +893,14 @@ transform: translate(0,0);
   width: 512px;
 }
 
-.ava .delightful-colors-ar-GiHQA9.animate-enter137 {
-  animation: animate-enter137-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.ava .delightful-colors-ar-GiHQA9.animate-enter174 {
+  animation: animate-enter174-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter137-frames {
+@keyframes animate-enter174-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -868,11 +911,30 @@ transform: translate(0,0);
 
 .ava .path-5-copy-7bdFr3 {
   background-color: transparent;
+  display: block;
   height: 3px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 17208px;
+  transform: scaleX(0);
   width: 1243px;
+}
+
+.ava .path-5-copy-7bdFr3.animate-enter175 {
+  animation: animate-enter175-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter175-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .ava .high-04-copy-GiHQA9 {
@@ -895,11 +957,31 @@ transform: translate(0,0);
 
 .ava .group-2-7bdFr3 {
   background-color: transparent;
-  height: 182px;
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 162px;
   left: 486px;
+  opacity: 0;
   position: absolute;
-  top: 31031px;
-  width: 466px;
+  top: 31051px;
+  width: 290px;
+}
+
+.ava .group-2-7bdFr3.animate-enter176 {
+  animation: animate-enter176-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter176-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
 }
 
 .ava .sayhi-qetDus {
@@ -907,78 +989,20 @@ transform: translate(0,0);
   height: 162px;
   left: 0px;
   position: absolute;
-  top: 20px;
-  width: 462px;
-}
-
-.ava .path-qetDus {
-  background-color: transparent;
-  height: 6px;
-  left: 332px;
-  position: absolute;
-  top: 172px;
-  width: 136px;
-}
-
-.ava .textlabel-qetDus {
-  background-color: transparent;
-  font-weight: 400;
-  height: 53px;
-  left: 425px;
-  letter-spacing: 0.00px;
-  line-height: 53px;
-  position: absolute;
-  text-align: left;
   top: 0px;
-  white-space: nowrap;
-  width: auto;
+  width: 290px;
 }
 
 .ava .copyright-2021-ash-GiHQA9 {
   background-color: transparent;
-  display: block;
   font-weight: 600;
   height: 50px;
   left: 647px;
   letter-spacing: 0.00px;
   line-height: 50px;
-  opacity: 0;
   position: absolute;
   text-align: right;
   top: 31516px;
-  transform: translate(0, 25px);
-  white-space: nowrap;
-  width: auto;
-}
-
-.ava .copyright-2021-ash-GiHQA9.animate-enter138 {
-  animation: animate-enter138-frames 1.00s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
-}
-
-@keyframes animate-enter138-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
-}
-
-.ava .textlabel-GiHQA9 {
-  background-color: transparent;
-  cursor: pointer;
-  font-weight: 400;
-  height: 66px;
-  left: 1300px;
-  letter-spacing: 0.00px;
-  line-height: 66px;
-  position: absolute;
-  text-align: left;
-  top: 31482px;
-  transform: rotate(-45deg);
   white-space: nowrap;
   width: auto;
 }
@@ -991,4 +1015,92 @@ transform: translate(0,0);
   position: absolute;
   top: 4833px;
   width: 652px;
+}
+
+.ava .x-GiHQA9 {
+  background-color: transparent;
+  display: block;
+  height: 26px;
+  left: 877px;
+  position: absolute;
+  top: 30008px;
+  transform: rotate(0deg);
+  width: 26px;
+}
+
+.ava .x-GiHQA9.animate-enter177 {
+  animation: animate-enter177-frames 5.23s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  transform: rotate(0deg);
+}
+
+@keyframes animate-enter177-frames {
+  from{transform: rotate(0deg);
+}
+to{transform: rotate(359deg);
+}
+}
+
+.ava .image-GiHQA9 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 69px;
+  left: 1308px;
+  opacity: 0;
+  position: absolute;
+  top: 31488px;
+  transform: translate(0, 25px);
+  width: 33px;
+}
+
+.ava .image-GiHQA9.animate-enter178 {
+  animation: animate-enter178-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter178-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.ava .hi-GiHQA9 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 177px;
+  left: 815px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 31032px;
+  transition: all 0.5s ease-in-out;
+  width: 134px;
+}
+
+.ava .hi-GiHQA9.animate-enter179 {
+  animation: animate-enter179-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter179-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.ava .hi-GiHQA9:hover {
+  transform: translate(0, -20px);
 }

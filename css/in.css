@@ -1,7 +1,7 @@
 /* screen - in */
 
 .in {
-  background-color: var(--black);
+  background-color: var(--cod-gray);
   height: 15130px;
   overflow-x: hidden;
   position: relative;
@@ -25,14 +25,14 @@
   width: auto;
 }
 
-.in .in-s06Wdb.animate-enter241 {
-  animation: animate-enter241-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.in .in-s06Wdb.animate-enter320 {
+  animation: animate-enter320-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter241-frames {
+@keyframes animate-enter320-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -62,14 +62,14 @@ transform: translate(0,0);
   width: 449px;
 }
 
-.in .luxurybrandingf-tattoostudio-in-s06Wdb.animate-enter242 {
-  animation: animate-enter242-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.in .luxurybrandingf-tattoostudio-in-s06Wdb.animate-enter321 {
+  animation: animate-enter321-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter242-frames {
+@keyframes animate-enter321-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -95,14 +95,14 @@ transform: translate(0,0);
   width: 56px;
 }
 
-.in .x2016-s06Wdb.animate-enter243 {
-  animation: animate-enter243-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.in .x2016-s06Wdb.animate-enter322 {
+  animation: animate-enter322-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter243-frames {
+@keyframes animate-enter322-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -123,14 +123,14 @@ transform: translate(0,0);
   width: 86px;
 }
 
-.in .role-s06Wdb.animate-enter244 {
-  animation: animate-enter244-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.in .role-s06Wdb.animate-enter323 {
+  animation: animate-enter323-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter244-frames {
+@keyframes animate-enter323-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -156,14 +156,14 @@ transform: translate(0,0);
   width: 565px;
 }
 
-.in .in-began-the-busines-s06Wdb.animate-enter245 {
-  animation: animate-enter245-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.in .in-began-the-busines-s06Wdb.animate-enter324 {
+  animation: animate-enter324-frames 1.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter245-frames {
+@keyframes animate-enter324-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -184,14 +184,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.in .full-bleed-lifestyle1-s06Wdb.animate-enter247 {
-  animation: animate-enter247-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.in .full-bleed-lifestyle1-s06Wdb.animate-enter326 {
+  animation: animate-enter326-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter247-frames {
+@keyframes animate-enter326-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -212,14 +212,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.in .full-bleed-lifestyle1-VCNvyL.animate-enter246 {
-  animation: animate-enter246-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.in .full-bleed-lifestyle1-VCNvyL.animate-enter325 {
+  animation: animate-enter325-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter246-frames {
+@keyframes animate-enter325-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -240,14 +240,14 @@ transform: translate(0,0);
   width: 138px;
 }
 
-.in .group-s06Wdb.animate-enter248 {
-  animation: animate-enter248-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.in .group-s06Wdb.animate-enter327 {
+  animation: animate-enter327-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter248-frames {
+@keyframes animate-enter327-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -331,14 +331,14 @@ transform: translate(0,0);
   width: 248px;
 }
 
-.in .visual-identity-desi-s06Wdb.animate-enter249 {
-  animation: animate-enter249-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.in .visual-identity-desi-s06Wdb.animate-enter328 {
+  animation: animate-enter328-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter249-frames {
+@keyframes animate-enter328-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -349,20 +349,85 @@ transform: translate(0,0);
 
 .in .path-5-s06Wdb {
   background-color: transparent;
+  display: block;
   height: 2px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 406px;
+  transform: scaleX(0);
   width: 1237px;
 }
 
-.in .x0-01-s06Wdb {
+.in .path-5-s06Wdb.animate-enter329 {
+  animation: animate-enter329-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter329-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
+}
+
+.in .group-3-s06Wdb {
+  background-color: transparent;
+  display: block;
+  height: 1472px;
+  left: 103px;
+  opacity: 0;
+  position: absolute;
+  top: 3111px;
+  transform: translate(0, 25px);
+  width: 1237px;
+}
+
+.in .group-3-s06Wdb.animate-enter330 {
+  animation: animate-enter330-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter330-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .x0-01-wWKmUZ {
   background-color: transparent;
   height: 1052px;
-  left: 103px;
+  left: 0px;
   position: absolute;
-  top: 3531px;
+  top: 420px;
   width: 1237px;
+}
+
+.in .x0-01-Sru6Ai {
+  background-color: transparent;
+  height: 1052px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1237px;
+}
+
+.in .sketch-01-wWKmUZ {
+  background-color: transparent;
+  height: 420px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1236px;
 }
 
 .in .bang-10-s06Wdb {
@@ -383,65 +448,26 @@ transform: translate(0,0);
   width: 1241px;
 }
 
-.in .bang-s06Wdb {
+.in .group-4-s06Wdb {
   background-color: transparent;
-  height: 1286px;
+  display: block;
+  height: 1716px;
   left: 100px;
-  position: absolute;
-  top: 8455px;
-  width: 1240px;
-}
-
-.in .bang-xqZJvz {
-  background-color: transparent;
-  height: 1286px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1240px;
-}
-
-.in .untitled-3-01-s06Wdb {
-  background-color: transparent;
-  height: 2508px;
-  left: 103px;
-  position: absolute;
-  top: 10315px;
-  width: 1240px;
-}
-
-.in .untitled-3-01-nIpT7q {
-  background-color: transparent;
-  height: 2508px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1240px;
-}
-
-.in .group-2-s06Wdb {
-  background-color: transparent;
-  cursor: pointer;
-  display: block;
-  height: 23px;
-  left: 1181px;
   opacity: 0;
-  pointer-events: auto;
   position: absolute;
-  top: 13552px;
+  top: 8113px;
   transform: translate(0, 25px);
-  transition: all 1.5s ease-in-out;
-  width: 158px;
+  width: 1240px;
 }
 
-.in .group-2-s06Wdb.animate-enter250 {
-  animation: animate-enter250-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.in .group-4-s06Wdb.animate-enter331 {
+  animation: animate-enter331-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter250-frames {
+@keyframes animate-enter331-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -450,8 +476,130 @@ transform: translate(0,0);
 }
 }
 
+.in .bang-69qq8Z {
+  background-color: transparent;
+  height: 1286px;
+  left: 0px;
+  position: absolute;
+  top: 342px;
+  width: 1240px;
+}
+
+.in .bang-5qCyNq {
+  background-color: transparent;
+  height: 1286px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.in .ff-05-69qq8Z {
+  background-color: transparent;
+  height: 342px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.in .ff-05-H2mWef {
+  background-color: transparent;
+  height: 342px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1240px;
+}
+
+.in .rectangle-69qq8Z {
+  background-color: var(--white);
+  height: 89px;
+  left: 1135px;
+  position: absolute;
+  top: 331px;
+  width: 105px;
+}
+
+.in .rectangle-copy-4-69qq8Z {
+  background-color: var(--white);
+  height: 89px;
+  left: 0px;
+  position: absolute;
+  top: 1627px;
+  width: 1240px;
+}
+
+.in .untitled-3-01-s06Wdb {
+  background-color: transparent;
+  display: block;
+  height: 2508px;
+  left: 103px;
+  opacity: 0;
+  position: absolute;
+  top: 10315px;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.in .untitled-3-01-s06Wdb.animate-enter333 {
+  animation: animate-enter333-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter333-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .untitled-3-01-nIpT7q {
+  background-color: transparent;
+  display: block;
+  height: 2508px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.in .untitled-3-01-nIpT7q.animate-enter332 {
+  animation: animate-enter332-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter332-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .group-2-s06Wdb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: 1181px;
+  pointer-events: auto;
+  position: absolute;
+  top: 13552px;
+  transition: all 0.5s ease-in-out;
+  width: 158px;
+}
+
 .in .group-2-s06Wdb:hover {
-  filter: blur(10px);
+  transform: translate(0, -5px);
 }
 
 .in .nextproject-AzoOD4 {
@@ -481,11 +629,31 @@ transform: translate(0,0);
 
 .in .group-2-NyFeQa {
   background-color: transparent;
-  height: 182px;
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 162px;
   left: 485px;
+  opacity: 0;
   position: absolute;
-  top: 14534px;
-  width: 466px;
+  top: 14554px;
+  width: 290px;
+}
+
+.in .group-2-NyFeQa.animate-enter334 {
+  animation: animate-enter334-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter334-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
 }
 
 .in .sayhi-p76iyN {
@@ -493,31 +661,8 @@ transform: translate(0,0);
   height: 162px;
   left: 0px;
   position: absolute;
-  top: 20px;
-  width: 462px;
-}
-
-.in .path-p76iyN {
-  background-color: transparent;
-  height: 6px;
-  left: 332px;
-  position: absolute;
-  top: 172px;
-  width: 136px;
-}
-
-.in .textlabel-p76iyN {
-  background-color: transparent;
-  font-weight: 400;
-  height: 53px;
-  left: 424px;
-  letter-spacing: 0.00px;
-  line-height: 53px;
-  position: absolute;
-  text-align: left;
   top: 0px;
-  white-space: nowrap;
-  width: auto;
+  width: 290px;
 }
 
 .in .copyright-2021-ash-s06Wdb {
@@ -537,36 +682,20 @@ transform: translate(0,0);
   width: auto;
 }
 
-.in .copyright-2021-ash-s06Wdb.animate-enter251 {
-  animation: animate-enter251-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.in .copyright-2021-ash-s06Wdb.animate-enter335 {
+  animation: animate-enter335-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter251-frames {
+@keyframes animate-enter335-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
 to{opacity: 1;
 transform: translate(0,0);
 }
-}
-
-.in .textlabel-s06Wdb {
-  background-color: transparent;
-  cursor: pointer;
-  font-weight: 400;
-  height: 66px;
-  left: 1301px;
-  letter-spacing: 0.00px;
-  line-height: 66px;
-  position: absolute;
-  text-align: left;
-  top: 14985px;
-  transform: rotate(-45deg);
-  white-space: nowrap;
-  width: auto;
 }
 
 .in .thanks-for-scrolling-s06Wdb {
@@ -584,37 +713,42 @@ transform: translate(0,0);
   width: auto;
 }
 
-.in .thanks-for-scrolling-s06Wdb.animate-enter252 {
-  animation: animate-enter252-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.in .thanks-for-scrolling-s06Wdb.animate-enter336 {
+  animation: animate-enter336-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
 }
 
-@keyframes animate-enter252-frames {
+@keyframes animate-enter336-frames {
   from{}
 to{}
 }
 
 .in .path-5-NyFeQa {
   background-color: transparent;
+  display: block;
   height: 3px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 13648px;
+  transform: scaleX(0);
   width: 1238px;
 }
 
-.in .x-s06Wdb {
-  background-color: transparent;
-  font-weight: 400;
-  height: 56px;
-  left: 896px;
-  letter-spacing: 0.00px;
-  line-height: 50px;
-  position: absolute;
-  text-align: left;
-  top: 13508px;
-  white-space: nowrap;
-  width: auto;
+.in .path-5-NyFeQa.animate-enter337 {
+  animation: animate-enter337-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter337-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .in .cleanlogowithne-lettheworkshine-s06Wdb {
@@ -622,19 +756,27 @@ to{}
   display: block;
   height: 58px;
   left: 104px;
+  opacity: 0;
   position: absolute;
   top: 7838px;
+  transform: translate(0, 25px);
   width: 509px;
 }
 
-.in .cleanlogowithne-lettheworkshine-s06Wdb.animate-enter253 {
-  animation: animate-enter253-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.in .cleanlogowithne-lettheworkshine-s06Wdb.animate-enter338 {
+  animation: animate-enter338-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
 }
 
-@keyframes animate-enter253-frames {
-  from{}
-to{}
+@keyframes animate-enter338-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .in .animproveduserjourney-s06Wdb {
@@ -642,19 +784,27 @@ to{}
   display: block;
   height: 23px;
   left: 103px;
+  opacity: 0;
   position: absolute;
   top: 4788px;
+  transform: translate(0, 25px);
   width: 391px;
 }
 
-.in .animproveduserjourney-s06Wdb.animate-enter254 {
-  animation: animate-enter254-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.in .animproveduserjourney-s06Wdb.animate-enter339 {
+  animation: animate-enter339-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
 }
 
-@keyframes animate-enter254-frames {
-  from{}
-to{}
+@keyframes animate-enter339-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .in .anattractivebra-tyandmodernlogo-s06Wdb {
@@ -662,19 +812,27 @@ to{}
   display: block;
   height: 63px;
   left: 103px;
+  opacity: 0;
   position: absolute;
   top: 2625px;
+  transform: translate(0, 25px);
   width: 485px;
 }
 
-.in .anattractivebra-tyandmodernlogo-s06Wdb.animate-enter255 {
-  animation: animate-enter255-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.in .anattractivebra-tyandmodernlogo-s06Wdb.animate-enter340 {
+  animation: animate-enter340-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
 }
 
-@keyframes animate-enter255-frames {
-  from{}
-to{}
+@keyframes animate-enter340-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .in .customized-photography-s06Wdb {
@@ -682,19 +840,27 @@ to{}
   display: block;
   height: 23px;
   left: 104px;
+  opacity: 0;
   position: absolute;
   top: 10032px;
+  transform: translate(0, 25px);
   width: 389px;
 }
 
-.in .customized-photography-s06Wdb.animate-enter256 {
-  animation: animate-enter256-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.in .customized-photography-s06Wdb.animate-enter341 {
+  animation: animate-enter341-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
 }
 
-@keyframes animate-enter256-frames {
-  from{}
-to{}
+@keyframes animate-enter341-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .in .the-goal-was-to-pres-s06Wdb {
@@ -714,14 +880,14 @@ to{}
   width: 513px;
 }
 
-.in .the-goal-was-to-pres-s06Wdb.animate-enter257 {
-  animation: animate-enter257-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.in .the-goal-was-to-pres-s06Wdb.animate-enter342 {
+  animation: animate-enter342-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter257-frames {
+@keyframes animate-enter342-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -747,14 +913,14 @@ transform: translate(0,0);
   width: 513px;
 }
 
-.in .the-new-website-need-s06Wdb.animate-enter258 {
-  animation: animate-enter258-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.in .the-new-website-need-s06Wdb.animate-enter343 {
+  animation: animate-enter343-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter258-frames {
+@keyframes animate-enter343-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -765,83 +931,170 @@ transform: translate(0,0);
 
 .in .path-5-copy-2-s06Wdb {
   background-color: transparent;
+  display: block;
   height: 4px;
   left: 102px;
+  opacity: 1;
   position: absolute;
   top: 7784px;
+  transform: scaleX(0);
   width: 1237px;
+}
+
+.in .path-5-copy-2-s06Wdb.animate-enter344 {
+  animation: animate-enter344-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter344-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .in .path-5-copy-4-s06Wdb {
   background-color: transparent;
+  display: block;
   height: 4px;
   left: 102px;
+  opacity: 1;
   position: absolute;
   top: 4734px;
+  transform: scaleX(0);
   width: 1237px;
+}
+
+.in .path-5-copy-4-s06Wdb.animate-enter345 {
+  animation: animate-enter345-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter345-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .in .path-5-copy-5-s06Wdb {
   background-color: transparent;
+  display: block;
   height: 4px;
   left: 102px;
+  opacity: 1;
   position: absolute;
   top: 2572px;
+  transform: scaleX(0);
   width: 1237px;
+}
+
+.in .path-5-copy-5-s06Wdb.animate-enter346 {
+  animation: animate-enter346-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter346-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .in .path-5-copy-3-s06Wdb {
   background-color: transparent;
+  display: block;
   height: 4px;
   left: 102px;
+  opacity: 1;
   position: absolute;
   top: 9978px;
+  transform: scaleX(0);
   width: 1237px;
 }
 
-.in .ff-05-s06Wdb {
-  background-color: transparent;
-  height: 342px;
-  left: 100px;
-  position: absolute;
-  top: 8113px;
-  width: 1240px;
+.in .path-5-copy-3-s06Wdb.animate-enter347 {
+  animation: animate-enter347-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
 }
 
-.in .ff-05-pYhWv2 {
-  background-color: transparent;
-  height: 342px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1240px;
+@keyframes animate-enter347-frames {
+  from{opacity: 1;
+transform: scaleX(0);
 }
-
-.in .sketch-01-s06Wdb {
-  background-color: transparent;
-  height: 420px;
-  left: 103px;
-  position: absolute;
-  top: 3111px;
-  width: 1236px;
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .in .application-01-s06Wdb {
   background-color: transparent;
+  display: block;
   height: 265px;
   left: 103px;
+  opacity: 0;
   position: absolute;
   top: 13102px;
+  transform: translate(0, 25px);
   width: 1236px;
+}
+
+.in .application-01-s06Wdb.animate-enter349 {
+  animation: animate-enter349-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter349-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .in .application-01-pg7Zoj {
   background-color: transparent;
+  display: block;
   height: 265px;
   left: 0px;
+  opacity: 0;
   position: absolute;
   top: 0px;
+  transform: translate(0, 25px);
   width: 1236px;
+}
+
+.in .application-01-pg7Zoj.animate-enter348 {
+  animation: animate-enter348-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter348-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .in .optimizedformobile-s06Wdb {
@@ -849,19 +1102,27 @@ transform: translate(0,0);
   display: block;
   height: 23px;
   left: 104px;
+  opacity: 0;
   position: absolute;
   top: 5964px;
+  transform: translate(0, 25px);
   width: 307px;
 }
 
-.in .optimizedformobile-s06Wdb.animate-enter259 {
-  animation: animate-enter259-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.in .optimizedformobile-s06Wdb.animate-enter350 {
+  animation: animate-enter350-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
 }
 
-@keyframes animate-enter259-frames {
-  from{}
-to{}
+@keyframes animate-enter350-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .in .in-provides-a-seamle-s06Wdb {
@@ -881,14 +1142,14 @@ to{}
   width: 512px;
 }
 
-.in .in-provides-a-seamle-s06Wdb.animate-enter260 {
-  animation: animate-enter260-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.in .in-provides-a-seamle-s06Wdb.animate-enter351 {
+  animation: animate-enter351-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter260-frames {
+@keyframes animate-enter351-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -914,14 +1175,14 @@ transform: translate(0,0);
   width: 512px;
 }
 
-.in .by-using-the-neutral-s06Wdb.animate-enter261 {
-  animation: animate-enter261-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.in .by-using-the-neutral-s06Wdb.animate-enter352 {
+  animation: animate-enter352-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter261-frames {
+@keyframes animate-enter352-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -947,14 +1208,14 @@ transform: translate(0,0);
   width: 512px;
 }
 
-.in .after-getting-permis-s06Wdb.animate-enter262 {
-  animation: animate-enter262-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.in .after-getting-permis-s06Wdb.animate-enter353 {
+  animation: animate-enter353-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter262-frames {
+@keyframes animate-enter353-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -965,11 +1226,30 @@ transform: translate(0,0);
 
 .in .path-5-tZtrpw {
   background-color: transparent;
+  display: block;
   height: 3px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 5912px;
+  transform: scaleX(0);
   width: 1242px;
+}
+
+.in .path-5-tZtrpw.animate-enter354 {
+  animation: animate-enter354-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter354-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .in .applications-s06Wdb {
@@ -977,46 +1257,55 @@ transform: translate(0,0);
   display: block;
   height: 23px;
   left: 103px;
+  opacity: 0;
   position: absolute;
   top: 12984px;
+  transform: translate(0, 25px);
   width: 191px;
 }
 
-.in .applications-s06Wdb.animate-enter263 {
-  animation: animate-enter263-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.in .applications-s06Wdb.animate-enter355 {
+  animation: animate-enter355-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
 }
 
-@keyframes animate-enter263-frames {
-  from{}
-to{}
+@keyframes animate-enter355-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
 }
 
 .in .path-5-copy-3-NyFeQa {
   background-color: transparent;
+  display: block;
   height: 4px;
   left: 102px;
+  opacity: 1;
   position: absolute;
   top: 12930px;
+  transform: scaleX(0);
   width: 1237px;
 }
 
-.in .rectangle-NyFeQa {
-  background-color: var(--white);
-  height: 89px;
-  left: 1235px;
-  position: absolute;
-  top: 8444px;
-  width: 105px;
+.in .path-5-copy-3-NyFeQa.animate-enter356 {
+  animation: animate-enter356-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
 }
 
-.in .rectangle-copy-4-s06Wdb {
-  background-color: var(--white);
-  height: 89px;
-  left: 100px;
-  position: absolute;
-  top: 9741px;
-  width: 1240px;
+@keyframes animate-enter356-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .in .about-s06Wdb {
@@ -1103,14 +1392,14 @@ to{}
   width: 1240px;
 }
 
-.in .full-bleed-lifestyle1-NyFeQa.animate-enter265 {
-  animation: animate-enter265-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.in .full-bleed-lifestyle1-NyFeQa.animate-enter358 {
+  animation: animate-enter358-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter265-frames {
+@keyframes animate-enter358-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -1131,18 +1420,106 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.in .full-bleed-lifestyle1-DMitFq.animate-enter264 {
-  animation: animate-enter264-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.in .full-bleed-lifestyle1-DMitFq.animate-enter357 {
+  animation: animate-enter357-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter264-frames {
+@keyframes animate-enter357-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
 to{opacity: 1;
 transform: translate(0,0);
 }
+}
+
+.in .x-s06Wdb {
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 876px;
+  position: absolute;
+  top: 13512px;
+  transform: rotate(0deg);
+  width: 24px;
+}
+
+.in .x-s06Wdb.animate-enter359 {
+  animation: animate-enter359-frames 5.23s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  transform: rotate(0deg);
+}
+
+@keyframes animate-enter359-frames {
+  from{transform: rotate(0deg);
+}
+to{transform: rotate(359deg);
+}
+}
+
+.in .image-s06Wdb {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 69px;
+  left: 1309px;
+  opacity: 0;
+  position: absolute;
+  top: 15003px;
+  transform: translate(0, 25px);
+  width: 33px;
+}
+
+.in .image-s06Wdb.animate-enter360 {
+  animation: animate-enter360-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter360-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.in .hi-s06Wdb {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 177px;
+  left: 813px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 14534px;
+  transition: all 0.5s ease-in-out;
+  width: 134px;
+}
+
+.in .hi-s06Wdb.animate-enter361 {
+  animation: animate-enter361-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter361-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.in .hi-s06Wdb:hover {
+  transform: translate(0, -20px);
 }

@@ -1,7 +1,7 @@
 /* screen - benchling */
 
 .benchling {
-  background-color: var(--black);
+  background-color: var(--cod-gray);
   height: 16247px;
   overflow-x: hidden;
   position: relative;
@@ -20,14 +20,14 @@
   width: 550px;
 }
 
-.benchling .benchling-illu-ins-peptidesv3-9v54ur.animate-enter165 {
-  animation: animate-enter165-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-illu-ins-peptidesv3-9v54ur.animate-enter212 {
+  animation: animate-enter212-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter165-frames {
+@keyframes animate-enter212-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -48,14 +48,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .benchling-illu-ins-peptidesv3-JbcQPn.animate-enter164 {
-  animation: animate-enter164-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-illu-ins-peptidesv3-JbcQPn.animate-enter211 {
+  animation: animate-enter211-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter164-frames {
+@keyframes animate-enter211-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -76,14 +76,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .benchling-webs-verviewv4-web-9v54ur.animate-enter167 {
-  animation: animate-enter167-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-webs-verviewv4-web-9v54ur.animate-enter214 {
+  animation: animate-enter214-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter167-frames {
+@keyframes animate-enter214-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -104,14 +104,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .benchling-webs-verviewv4-web-q1x9CX.animate-enter166 {
-  animation: animate-enter166-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-webs-verviewv4-web-q1x9CX.animate-enter213 {
+  animation: animate-enter213-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter166-frames {
+@keyframes animate-enter213-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -132,14 +132,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .benchling-illu-on-servicesv3-9v54ur.animate-enter169 {
-  animation: animate-enter169-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-illu-on-servicesv3-9v54ur.animate-enter216 {
+  animation: animate-enter216-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter169-frames {
+@keyframes animate-enter216-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -160,14 +160,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .benchling-illu-on-servicesv3-xfT3kw.animate-enter168 {
-  animation: animate-enter168-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-illu-on-servicesv3-xfT3kw.animate-enter215 {
+  animation: animate-enter215-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter168-frames {
+@keyframes animate-enter215-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -188,14 +188,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.benchling .full-bleed-lifestyle1-9v54ur.animate-enter171 {
-  animation: animate-enter171-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .full-bleed-lifestyle1-9v54ur.animate-enter218 {
+  animation: animate-enter218-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter171-frames {
+@keyframes animate-enter218-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -216,14 +216,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.benchling .full-bleed-lifestyle1-MznzVv.animate-enter170 {
-  animation: animate-enter170-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .full-bleed-lifestyle1-MznzVv.animate-enter217 {
+  animation: animate-enter217-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter170-frames {
+@keyframes animate-enter217-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -249,14 +249,14 @@ transform: translate(0,0);
   width: 248px;
 }
 
-.benchling .website-design-9v54ur.animate-enter172 {
-  animation: animate-enter172-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.benchling .website-design-9v54ur.animate-enter219 {
+  animation: animate-enter219-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter172-frames {
+@keyframes animate-enter219-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -277,14 +277,14 @@ transform: translate(0,0);
   width: 86px;
 }
 
-.benchling .role-9v54ur.animate-enter173 {
-  animation: animate-enter173-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.benchling .role-9v54ur.animate-enter220 {
+  animation: animate-enter220-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter173-frames {
+@keyframes animate-enter220-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -310,14 +310,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.benchling .benchling-9v54ur.animate-enter174 {
-  animation: animate-enter174-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-9v54ur.animate-enter221 {
+  animation: animate-enter221-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter174-frames {
+@keyframes animate-enter221-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -352,14 +352,14 @@ transform: translate(0,0);
   width: 56px;
 }
 
-.benchling .x2019-9v54ur.animate-enter175 {
-  animation: animate-enter175-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.benchling .x2019-9v54ur.animate-enter222 {
+  animation: animate-enter222-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter175-frames {
+@keyframes animate-enter222-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -370,11 +370,30 @@ transform: translate(0,0);
 
 .benchling .path-5-9v54ur {
   background-color: transparent;
+  display: block;
   height: 2px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 406px;
+  transform: scaleX(0);
   width: 1237px;
+}
+
+.benchling .path-5-9v54ur.animate-enter223 {
+  animation: animate-enter223-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter223-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .benchling .anelevatedwebpr-nlifescience-rd-9v54ur {
@@ -389,14 +408,14 @@ transform: translate(0,0);
   width: 462px;
 }
 
-.benchling .anelevatedwebpr-nlifescience-rd-9v54ur.animate-enter176 {
-  animation: animate-enter176-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.benchling .anelevatedwebpr-nlifescience-rd-9v54ur.animate-enter224 {
+  animation: animate-enter224-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter176-frames {
+@keyframes animate-enter224-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -422,14 +441,14 @@ transform: translate(0,0);
   width: 606px;
 }
 
-.benchling .traditional-rd-soft-9v54ur.animate-enter177 {
-  animation: animate-enter177-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.benchling .traditional-rd-soft-9v54ur.animate-enter225 {
+  animation: animate-enter225-frames 1.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter177-frames {
+@keyframes animate-enter225-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -464,14 +483,14 @@ transform: translate(0,0);
   width: 513px;
 }
 
-.benchling .main-focus-for-the-b-9v54ur.animate-enter178 {
-  animation: animate-enter178-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.benchling .main-focus-for-the-b-9v54ur.animate-enter226 {
+  animation: animate-enter226-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter178-frames {
+@keyframes animate-enter226-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -482,11 +501,30 @@ transform: translate(0,0);
 
 .benchling .path-5-Lhs6Wp {
   background-color: transparent;
+  display: block;
   height: 4px;
   left: 98px;
+  opacity: 1;
   position: absolute;
   top: 8236px;
+  transform: scaleX(0);
   width: 1238px;
+}
+
+.benchling .path-5-Lhs6Wp.animate-enter227 {
+  animation: animate-enter227-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter227-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .benchling .arefreshedbrandpalette-9v54ur {
@@ -515,14 +553,14 @@ transform: translate(0,0);
   width: 513px;
 }
 
-.benchling .with-the-purpose-of-9v54ur.animate-enter179 {
-  animation: animate-enter179-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.benchling .with-the-purpose-of-9v54ur.animate-enter228 {
+  animation: animate-enter228-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter179-frames {
+@keyframes animate-enter228-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -548,14 +586,14 @@ transform: translate(0,0);
   width: 513px;
 }
 
-.benchling .i-created-custom-ill-9v54ur.animate-enter180 {
-  animation: animate-enter180-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.benchling .i-created-custom-ill-9v54ur.animate-enter229 {
+  animation: animate-enter229-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter180-frames {
+@keyframes animate-enter229-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -566,33 +604,52 @@ transform: translate(0,0);
 
 .benchling .path-5-dTSEyy {
   background-color: transparent;
+  display: block;
   height: 4px;
   left: 100px;
+  opacity: 1;
   position: absolute;
   top: 12546px;
+  transform: scaleX(0);
   width: 1238px;
+}
+
+.benchling .path-5-dTSEyy.animate-enter230 {
+  animation: animate-enter230-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter230-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .benchling .image02-9v54ur {
   background-color: transparent;
   display: block;
   height: 6299px;
-  left: 100px;
+  left: 99px;
   opacity: 0;
   position: absolute;
-  top: 1790px;
+  top: 1800px;
   transform: translate(0, 25px);
   width: 1237px;
 }
 
-.benchling .image02-9v54ur.animate-enter182 {
-  animation: animate-enter182-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .image02-9v54ur.animate-enter232 {
+  animation: animate-enter232-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter182-frames {
+@keyframes animate-enter232-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -613,14 +670,14 @@ transform: translate(0,0);
   width: 1237px;
 }
 
-.benchling .image02-HDxy5z.animate-enter181 {
-  animation: animate-enter181-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .image02-HDxy5z.animate-enter231 {
+  animation: animate-enter231-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter181-frames {
+@keyframes animate-enter231-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -641,14 +698,14 @@ transform: translate(0,0);
   width: 1242px;
 }
 
-.benchling .image06-9v54ur.animate-enter183 {
-  animation: animate-enter183-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .image06-9v54ur.animate-enter233 {
+  animation: animate-enter233-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter183-frames {
+@keyframes animate-enter233-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -669,14 +726,14 @@ transform: translate(0,0);
   width: 1242px;
 }
 
-.benchling .image07-9v54ur.animate-enter184 {
-  animation: animate-enter184-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .image07-9v54ur.animate-enter234 {
+  animation: animate-enter234-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter184-frames {
+@keyframes animate-enter234-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -688,36 +745,17 @@ transform: translate(0,0);
 .benchling .group-2-9v54ur {
   background-color: transparent;
   cursor: pointer;
-  display: block;
   height: 26px;
   left: 1179px;
-  opacity: 0;
   pointer-events: auto;
   position: absolute;
   top: 14672px;
-  transform: translate(0, 25px);
-  transition: all 1.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
   width: 159px;
 }
 
-.benchling .group-2-9v54ur.animate-enter185 {
-  animation: animate-enter185-frames 1.50s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
-}
-
-@keyframes animate-enter185-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
-}
-
 .benchling .group-2-9v54ur:hover {
-  filter: blur(10px);
+  transform: translate(0, -5px);
 }
 
 .benchling .nextproject-juevKC {
@@ -757,14 +795,14 @@ transform: translate(0,0);
   width: 1238px;
 }
 
-.benchling .getty-images-946509292-9v54ur.animate-enter187 {
-  animation: animate-enter187-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .getty-images-946509292-9v54ur.animate-enter236 {
+  animation: animate-enter236-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter187-frames {
+@keyframes animate-enter236-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -785,14 +823,14 @@ transform: translate(0,0);
   width: 1238px;
 }
 
-.benchling .getty-images-946509292-7VCFpN.animate-enter186 {
-  animation: animate-enter186-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .getty-images-946509292-7VCFpN.animate-enter235 {
+  animation: animate-enter235-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter186-frames {
+@keyframes animate-enter235-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -812,11 +850,30 @@ transform: translate(0,0);
 
 .benchling .path-5-copy-2-9v54ur {
   background-color: transparent;
+  display: block;
   height: 4px;
   left: 98px;
+  opacity: 1;
   position: absolute;
   top: 11506px;
+  transform: scaleX(0);
   width: 1238px;
+}
+
+.benchling .path-5-copy-2-9v54ur.animate-enter237 {
+  animation: animate-enter237-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter237-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .benchling .benchling-illu-gene-therapyv2-9v54ur {
@@ -831,14 +888,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .benchling-illu-gene-therapyv2-9v54ur.animate-enter189 {
-  animation: animate-enter189-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-illu-gene-therapyv2-9v54ur.animate-enter239 {
+  animation: animate-enter239-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter189-frames {
+@keyframes animate-enter239-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -859,14 +916,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .benchling-illu-gene-therapyv2-4m7vpd.animate-enter188 {
-  animation: animate-enter188-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-illu-gene-therapyv2-4m7vpd.animate-enter238 {
+  animation: animate-enter238-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter188-frames {
+@keyframes animate-enter238-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -887,14 +944,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .referral-lp-9v54ur.animate-enter191 {
-  animation: animate-enter191-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .referral-lp-9v54ur.animate-enter241 {
+  animation: animate-enter241-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter191-frames {
+@keyframes animate-enter241-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -915,14 +972,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .referral-lp-ZtPUmx.animate-enter190 {
-  animation: animate-enter190-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .referral-lp-ZtPUmx.animate-enter240 {
+  animation: animate-enter240-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter190-frames {
+@keyframes animate-enter240-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -943,14 +1000,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .image01-9v54ur.animate-enter193 {
-  animation: animate-enter193-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .image01-9v54ur.animate-enter243 {
+  animation: animate-enter243-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter193-frames {
+@keyframes animate-enter243-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -971,14 +1028,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .image01-yk7KHx.animate-enter192 {
-  animation: animate-enter192-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .image01-yk7KHx.animate-enter242 {
+  animation: animate-enter242-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter192-frames {
+@keyframes animate-enter242-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -999,14 +1056,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .benchling-illu-therapyv3-copy-9v54ur.animate-enter195 {
-  animation: animate-enter195-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-illu-therapyv3-copy-9v54ur.animate-enter245 {
+  animation: animate-enter245-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter195-frames {
+@keyframes animate-enter245-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -1027,14 +1084,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .benchling-illu-therapyv3-copy-8j3ANO.animate-enter194 {
-  animation: animate-enter194-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-illu-therapyv3-copy-8j3ANO.animate-enter244 {
+  animation: animate-enter244-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter194-frames {
+@keyframes animate-enter244-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -1055,14 +1112,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .benchling-illu-ns-vaccinesv3-9v54ur.animate-enter197 {
-  animation: animate-enter197-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-illu-ns-vaccinesv3-9v54ur.animate-enter247 {
+  animation: animate-enter247-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter197-frames {
+@keyframes animate-enter247-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -1083,14 +1140,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.benchling .benchling-illu-ns-vaccinesv3-w9Vt9z.animate-enter196 {
-  animation: animate-enter196-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .benchling-illu-ns-vaccinesv3-w9Vt9z.animate-enter246 {
+  animation: animate-enter246-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter196-frames {
+@keyframes animate-enter246-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -1114,37 +1171,42 @@ transform: translate(0,0);
   width: auto;
 }
 
-.benchling .thanks-for-scrolling-9v54ur.animate-enter198 {
-  animation: animate-enter198-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.benchling .thanks-for-scrolling-9v54ur.animate-enter248 {
+  animation: animate-enter248-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
 }
 
-@keyframes animate-enter198-frames {
+@keyframes animate-enter248-frames {
   from{}
 to{}
 }
 
 .benchling .path-5-kAHPQ5 {
   background-color: transparent;
+  display: block;
   height: 3px;
   left: 102px;
+  opacity: 1;
   position: absolute;
   top: 14774px;
+  transform: scaleX(0);
   width: 1238px;
 }
 
-.benchling .x-9v54ur {
-  background-color: transparent;
-  font-weight: 400;
-  height: 56px;
-  left: 897px;
-  letter-spacing: 0.00px;
-  line-height: 50px;
-  position: absolute;
-  text-align: left;
-  top: 14635px;
-  white-space: nowrap;
-  width: auto;
+.benchling .path-5-kAHPQ5.animate-enter249 {
+  animation: animate-enter249-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 1;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter249-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
 }
 
 .benchling .group-9v54ur {
@@ -1159,14 +1221,14 @@ to{}
   width: 93px;
 }
 
-.benchling .group-9v54ur.animate-enter199 {
-  animation: animate-enter199-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.benchling .group-9v54ur.animate-enter250 {
+  animation: animate-enter250-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter199-frames {
+@keyframes animate-enter250-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -1273,11 +1335,31 @@ transform: translate(0,0);
 
 .benchling .group-2-Lhs6Wp {
   background-color: transparent;
-  height: 182px;
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 162px;
   left: 486px;
+  opacity: 0;
   position: absolute;
-  top: 15661px;
-  width: 466px;
+  top: 15681px;
+  width: 290px;
+}
+
+.benchling .group-2-Lhs6Wp.animate-enter251 {
+  animation: animate-enter251-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter251-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
 }
 
 .benchling .sayhi-4flXtH {
@@ -1285,78 +1367,108 @@ transform: translate(0,0);
   height: 162px;
   left: 0px;
   position: absolute;
-  top: 20px;
-  width: 462px;
-}
-
-.benchling .path-4flXtH {
-  background-color: transparent;
-  height: 6px;
-  left: 332px;
-  position: absolute;
-  top: 172px;
-  width: 136px;
-}
-
-.benchling .textlabel-4flXtH {
-  background-color: transparent;
-  font-weight: 400;
-  height: 53px;
-  left: 425px;
-  letter-spacing: 0.00px;
-  line-height: 53px;
-  position: absolute;
-  text-align: left;
   top: 0px;
-  white-space: nowrap;
-  width: auto;
+  width: 290px;
+}
+
+.benchling .hi-9v54ur {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 177px;
+  left: 814px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 15661px;
+  transition: all 0.5s ease-in-out;
+  width: 134px;
+}
+
+.benchling .hi-9v54ur.animate-enter252 {
+  animation: animate-enter252-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter252-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.benchling .hi-9v54ur:hover {
+  transform: translate(0, -20px);
 }
 
 .benchling .copyright-2021-ash-9v54ur {
   background-color: transparent;
-  display: block;
   font-weight: 600;
   height: 50px;
   left: 648px;
   letter-spacing: 0.00px;
   line-height: 50px;
-  opacity: 0;
   position: absolute;
   text-align: right;
   top: 16146px;
-  transform: translate(0, 25px);
   white-space: nowrap;
   width: auto;
 }
 
-.benchling .copyright-2021-ash-9v54ur.animate-enter200 {
-  animation: animate-enter200-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.benchling .x-9v54ur {
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 877px;
+  position: absolute;
+  top: 14638px;
+  transform: rotate(0deg);
+  width: 24px;
+}
+
+.benchling .x-9v54ur.animate-enter253 {
+  animation: animate-enter253-frames 5.23s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  transform: rotate(0deg);
+}
+
+@keyframes animate-enter253-frames {
+  from{transform: rotate(0deg);
+}
+to{transform: rotate(359deg);
+}
+}
+
+.benchling .image-9v54ur {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 69px;
+  left: 1309px;
+  opacity: 0;
+  position: absolute;
+  top: 16109px;
+  transform: translate(0, 25px);
+  width: 33px;
+}
+
+.benchling .image-9v54ur.animate-enter254 {
+  animation: animate-enter254-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter200-frames {
+@keyframes animate-enter254-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
 to{opacity: 1;
 transform: translate(0,0);
 }
-}
-
-.benchling .textlabel-9v54ur {
-  background-color: transparent;
-  cursor: pointer;
-  font-weight: 400;
-  height: 66px;
-  left: 1300px;
-  letter-spacing: 0.00px;
-  line-height: 66px;
-  position: absolute;
-  text-align: left;
-  top: 16111px;
-  transform: rotate(-45deg);
-  white-space: nowrap;
-  width: auto;
 }
