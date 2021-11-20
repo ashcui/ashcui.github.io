@@ -20,14 +20,14 @@
   width: 124px;
 }
 
-.about .expertise-vRTBB9.animate-enter214 {
-  animation: animate-enter214-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .expertise-vRTBB9.animate-enter76 {
+  animation: animate-enter76-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter214-frames {
+@keyframes animate-enter76-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -48,14 +48,14 @@ transform: translate(0,0);
   width: 138px;
 }
 
-.about .overshare-vRTBB9.animate-enter215 {
-  animation: animate-enter215-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .overshare-vRTBB9.animate-enter77 {
+  animation: animate-enter77-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter215-frames {
+@keyframes animate-enter77-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -76,14 +76,14 @@ transform: translate(0,0);
   width: 416px;
 }
 
-.about .x2-e01-ef68-69-a-e851-c71105c-vRTBB9.animate-enter217 {
-  animation: animate-enter217-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .x2-e01-ef68-69-a-e851-c71105c-vRTBB9.animate-enter79 {
+  animation: animate-enter79-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter217-frames {
+@keyframes animate-enter79-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -104,14 +104,14 @@ filter: none;
   width: 416px;
 }
 
-.about .x2-e01-ef68-69-a-e851-c71105c-STwpBg.animate-enter216 {
-  animation: animate-enter216-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .x2-e01-ef68-69-a-e851-c71105c-STwpBg.animate-enter78 {
+  animation: animate-enter78-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter216-frames {
+@keyframes animate-enter78-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -132,14 +132,14 @@ filter: none;
   width: 50px;
 }
 
-.about .group-2-vRTBB9.animate-enter218 {
-  animation: animate-enter218-frames 2.00s ease-in-out 3.00s 1 normal forwards;
+.about .group-2-vRTBB9.animate-enter80 {
+  animation: animate-enter80-frames 2.00s ease-in-out 3.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter218-frames {
+@keyframes animate-enter80-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -228,14 +228,14 @@ transform: translate(0,0);
 .about .span11-bJIxjY {
 }
 
-.about .hi-lm-ash-a-des-vRTBB9.animate-enter219 {
-  animation: animate-enter219-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .hi-lm-ash-a-des-vRTBB9.animate-enter81 {
+  animation: animate-enter81-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter219-frames {
+@keyframes animate-enter81-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -300,14 +300,14 @@ transform: translate(0,0);
   line-height: 90px;
 }
 
-.about .experiences-at-baunf-vRTBB9.animate-enter220 {
-  animation: animate-enter220-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.about .experiences-at-baunf-vRTBB9.animate-enter82 {
+  animation: animate-enter82-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter220-frames {
+@keyframes animate-enter82-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -338,14 +338,14 @@ transform: translate(0,0);
 .about .span2-q82tMf {
 }
 
-.about .collaboration-with-n-vRTBB9.animate-enter221 {
-  animation: animate-enter221-frames 2.00s ease-in-out 1.00s 1 normal forwards;
+.about .collaboration-with-n-vRTBB9.animate-enter83 {
+  animation: animate-enter83-frames 2.00s ease-in-out 1.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter221-frames {
+@keyframes animate-enter83-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -408,14 +408,14 @@ transform: translate(0,0);
 .about .span9-Km1hxJ {
 }
 
-.about .i-have-specialized-i-vRTBB9.animate-enter222 {
-  animation: animate-enter222-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .i-have-specialized-i-vRTBB9.animate-enter84 {
+  animation: animate-enter84-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter222-frames {
+@keyframes animate-enter84-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -444,14 +444,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.about .art-direction-vRTBB9.animate-enter223 {
-  animation: animate-enter223-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .art-direction-vRTBB9.animate-enter85 {
+  animation: animate-enter85-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter223-frames {
+@keyframes animate-enter85-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -484,14 +484,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.about .digital-design-vRTBB9.animate-enter224 {
-  animation: animate-enter224-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .digital-design-vRTBB9.animate-enter86 {
+  animation: animate-enter86-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter224-frames {
+@keyframes animate-enter86-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -524,14 +524,14 @@ transform: translate(0,0);
   width: 885px;
 }
 
-.about .product-design-vRTBB9.animate-enter225 {
-  animation: animate-enter225-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .product-design-vRTBB9.animate-enter87 {
+  animation: animate-enter87-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter225-frames {
+@keyframes animate-enter87-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -564,14 +564,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.about .visual-identity-vRTBB9.animate-enter226 {
-  animation: animate-enter226-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .visual-identity-vRTBB9.animate-enter88 {
+  animation: animate-enter88-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter226-frames {
+@keyframes animate-enter88-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -604,14 +604,14 @@ transform: translate(0,0);
   width: 885px;
 }
 
-.about .motion-graphic-vRTBB9.animate-enter227 {
-  animation: animate-enter227-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .motion-graphic-vRTBB9.animate-enter89 {
+  animation: animate-enter89-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter227-frames {
+@keyframes animate-enter89-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -644,14 +644,14 @@ transform: translate(0,0);
   width: auto;
 }
 
-.about .prototyping-vRTBB9.animate-enter228 {
-  animation: animate-enter228-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .prototyping-vRTBB9.animate-enter90 {
+  animation: animate-enter90-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter228-frames {
+@keyframes animate-enter90-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -676,14 +676,14 @@ transform: translate(0,0);
   width: 1241px;
 }
 
-.about .path-4-copy-vRTBB9.animate-enter229 {
-  animation: animate-enter229-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .path-4-copy-vRTBB9.animate-enter91 {
+  animation: animate-enter91-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 1;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter229-frames {
+@keyframes animate-enter91-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -704,14 +704,14 @@ transform: scaleX(1);
   width: 1241px;
 }
 
-.about .path-4-copy-2-vRTBB9.animate-enter230 {
-  animation: animate-enter230-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .path-4-copy-2-vRTBB9.animate-enter92 {
+  animation: animate-enter92-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 1;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter230-frames {
+@keyframes animate-enter92-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -732,14 +732,14 @@ transform: scaleX(1);
   width: 680px;
 }
 
-.about .e04-d31-b9-e95-20-bebf066-a36-vRTBB9.animate-enter231 {
-  animation: animate-enter231-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .e04-d31-b9-e95-20-bebf066-a36-vRTBB9.animate-enter93 {
+  animation: animate-enter93-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter231-frames {
+@keyframes animate-enter93-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -761,14 +761,14 @@ filter: none;
   width: 290px;
 }
 
-.about .group-4-vRTBB9.animate-enter232 {
-  animation: animate-enter232-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .group-4-vRTBB9.animate-enter94 {
+  animation: animate-enter94-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter232-frames {
+@keyframes animate-enter94-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -810,14 +810,14 @@ filter: none;
   width: 134px;
 }
 
-.about .hi-vRTBB9.animate-enter233 {
-  animation: animate-enter233-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.about .hi-vRTBB9.animate-enter95 {
+  animation: animate-enter95-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter233-frames {
+@keyframes animate-enter95-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -890,14 +890,14 @@ filter: none;
 .about .span10-7CSKGK {
 }
 
-.about .lve-been-to-16-coun-vRTBB9.animate-enter234 {
-  animation: animate-enter234-frames 3.00s ease-in-out 0.00s 1 normal forwards;
+.about .lve-been-to-16-coun-vRTBB9.animate-enter96 {
+  animation: animate-enter96-frames 3.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter234-frames {
+@keyframes animate-enter96-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -970,14 +970,14 @@ transform: translate(0,0);
   width: 33px;
 }
 
-.about .image-vRTBB9.animate-enter235 {
-  animation: animate-enter235-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.about .image-vRTBB9.animate-enter97 {
+  animation: animate-enter97-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter235-frames {
+@keyframes animate-enter97-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }

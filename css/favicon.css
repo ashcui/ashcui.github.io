@@ -1,0 +1,28 @@
+/* screen - favicon */
+
+.favicon {
+  background-color: var(--white);
+  height: 32px;
+  overflow-x: hidden;
+  position: relative;
+  width: 32px;
+}
+
+.favicon .rectangle-YfcMqx {
+  background-color: #000000;
+  border-radius: 16px;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.favicon .ash-YfcMqx {
+  background-color: transparent;
+  height: 6px;
+  left: 4px;
+  position: absolute;
+  top: 13px;
+  width: 23px;
+}
