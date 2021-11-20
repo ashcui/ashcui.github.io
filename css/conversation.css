@@ -1080,7 +1080,7 @@ transform: translate(0,0);
 }
 
 .conversation .x-5FVeIU.animate-enter406 {
-  animation: animate-enter406-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter406-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }

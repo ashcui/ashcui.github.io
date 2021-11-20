@@ -1432,7 +1432,7 @@ filter: none;
 }
 
 .benchling .x-9v54ur.animate-enter268 {
-  animation: animate-enter268-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter268-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }

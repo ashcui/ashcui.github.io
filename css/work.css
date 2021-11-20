@@ -376,7 +376,7 @@ transform: translate(0,0);
 }
 
 .work .x-vLgc0E.animate-enter47 {
-  animation: animate-enter47-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter47-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }
@@ -433,7 +433,7 @@ transform: translate(0,0);
 }
 
 .work .x-03nOWn.animate-enter49 {
-  animation: animate-enter49-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter49-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }
@@ -523,7 +523,7 @@ transform: translate(0,0);
 }
 
 .work .x-Ehflww.animate-enter52 {
-  animation: animate-enter52-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter52-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }
@@ -547,7 +547,7 @@ to{transform: rotate(359deg);
 }
 
 .work .x-OITZyQ.animate-enter53 {
-  animation: animate-enter53-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter53-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }
@@ -604,7 +604,7 @@ transform: translate(0,0);
 }
 
 .work .x-PcD1dS.animate-enter55 {
-  animation: animate-enter55-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter55-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }
@@ -661,7 +661,7 @@ transform: translate(0,0);
 }
 
 .work .x-euu7qe.animate-enter57 {
-  animation: animate-enter57-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter57-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }
@@ -842,7 +842,7 @@ transform: translate(0,0);
 }
 
 .work .x-XiEyoT.animate-enter63 {
-  animation: animate-enter63-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter63-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }
@@ -866,7 +866,7 @@ to{transform: rotate(359deg);
 }
 
 .work .x-A7xzkH.animate-enter64 {
-  animation: animate-enter64-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter64-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }
@@ -890,7 +890,7 @@ to{transform: rotate(359deg);
 }
 
 .work .x-0DesJA.animate-enter65 {
-  animation: animate-enter65-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter65-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }

@@ -1138,7 +1138,7 @@ filter: none;
 }
 
 .dlight .x-FBnW7p.animate-enter166 {
-  animation: animate-enter166-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter166-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }

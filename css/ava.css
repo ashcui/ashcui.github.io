@@ -1029,7 +1029,7 @@ filter: none;
 }
 
 .ava .x-GiHQA9.animate-enter192 {
-  animation: animate-enter192-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter192-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }

@@ -1484,7 +1484,7 @@ filter: none;
 }
 
 .sheep .x-f7gdTe.animate-enter308 {
-  animation: animate-enter308-frames 5.00s linear 0.00s 1 normal forwards;
+  animation: animate-enter308-frames 5.00s linear infinite;
   display: block;
   transform: rotate(0deg);
 }
