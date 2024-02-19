@@ -112,7 +112,7 @@
 .manrope-extra-bold-white-100px {
   color: var(--white);
   font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xxxl);
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 800;
 }
