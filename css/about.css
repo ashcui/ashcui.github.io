@@ -151,12 +151,17 @@ to{opacity: 1;
   height: 28px;
   left: 0;
   position: absolute;
-  top: 59px;
+  top: 20px;
   width: 238px;
 }
 
 .about .download-resume {
   color: var(--white);
+  font-family: var(--font-family-manrope-semibold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+  /* color: var(--white);
   font-family: var(--font-family-nats-regular);
   font-size: 32px;
   font-weight: 400;
@@ -165,7 +170,7 @@ to{opacity: 1;
   line-height: normal;
   position: absolute;
   top: 0;
-  width: 264px;
+  width: 264px; */
 }
 
 .about .group-427321953 {
