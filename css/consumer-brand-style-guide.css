@@ -544,10 +544,11 @@ to{opacity: 1;
 }
 
 .consumer-brand-style-guide .rectangle-25137 {
-  background-color: #7b61ff;
+  /* background-color: #7b61ff; */
   height: 668px;
-  margin-right: 32.0px;
-  margin-top: 50px;
+  /* margin-right: 32.0px; */
+  margin: auto;
+  /* margin-top: 50px; */
   opacity: 0;
   width: 1237px;
 }
