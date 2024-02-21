@@ -1,30 +1,9 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:500,700,800|Lexend+Mega:500|Source+Sans+Pro:400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/6192e41d64db1beb4c0ee0bd.6192e41eb0352fc40c52decb.SQN8iZh.hcp.png");
 
-@import url("https://fonts.googleapis.com/css?family=Manrope:400,700,600,800");
-@font-face {
-  font-family: "ArchivoExpanded-Bold";
-  font-weight: 1 1000;
-  src: url("fonts/Archivo_Expanded-Bold.ttf") format("truetype");
-}
-@font-face {
-  font-family: "ArchivoExpanded-Regular";
-  font-weight: 1 1000;
-  src: url("fonts/Archivo_Expanded-Regular.ttf") format("truetype");
-}
 
-.screen textarea:focus,
-.screen input:focus {
-  outline: none;
-}
-
-.screen * {
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
-}
-
-.screen div {
-  -webkit-text-size-adjust: none;
-}
 
 .screen a {
   display: contents;
@@ -44,12 +23,228 @@
   pointer-events: auto;
 }
 
-.smart-layers-pointers,
-.smart-layers-pointers * {
-  pointer-events: auto;
-  visibility: visible;
+.align-self-flex-end {
+  align-self: flex-end;
 }
 
 * {
   box-sizing: border-box;
+}
+
+.text {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: relative;
+}
+
+.flex {
+  align-items: center;
+  display: flex;
+}
+
+.image-46 {
+  cursor: pointer;
+  height: 22px;
+  object-fit: cover;
+  transition: all 0.5s ease-in-out;
+  width: 151px;
+}
+
+.image-47 {
+  cursor: pointer;
+  height: 16px;
+  margin-left: 821px;
+  object-fit: cover;
+  transition: all 0.5s ease-in-out;
+  width: 85px;
+}
+
+.image-48 {
+  cursor: pointer;
+  height: 16px;
+  margin-left: 63px;
+  object-fit: cover;
+  transition: all 0.5s ease-in-out;
+  width: 97px;
+}
+
+.line-1186 {
+  height: 348px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.image-50 {
+  height: 64px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 371px;
+  width: 16px;
+}
+
+.image-44 {
+  display: block;
+  height: 230px;
+  object-fit: cover;
+  opacity: 0;
+  width: 412px;
+}
+
+.image-45 {
+  cursor: pointer;
+  display: block;
+  height: 251px;
+  object-fit: cover;
+  opacity: 0;
+  transition: all 0.5s ease-in-out;
+  width: 190px;
+}
+
+.toast-website-buil {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 573px;
+  width: 1017px;
+}
+
+.baunfire-google-san-jose {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 570px;
+  width: 1017px;
+}
+
+.image-42 {
+  height: 549px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1237px;
+}
+
+.image-43 {
+  height: 550px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1237px;
+}
+
+.hi {
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 177px;
+  opacity: 0;
+  transition: all 0.5s ease-in-out;
+  width: 134px;
+}
+
+.full-bleed-lifestyle_1 {
+  height: 550px;
+  opacity: 0;
+  position: relative;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.ui-design {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.google_-twitter_-feed {
+  height: 550px;
+  margin-left: 1.5px;
+  margin-top: 50px;
+  opacity: 0;
+  position: relative;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.google_-twitter_-feed-1 {
+  display: block;
+  height: 550px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.group-2-1 {
+  align-self: flex-end;
+  background-image: url(../img/index-sayhi-91ED15C2-9104-484E-BA17-5ED4CFBF2834@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  filter: blur(10px);
+  height: 162px;
+  opacity: 0;
+  width: 290px;
+}
+
+.uiux-design {
+  color: var(--mercury);
+  font-weight: 400;
+  left: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.brand-identity {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 80px;
+  white-space: nowrap;
+}
+
+.getty-images-946509292-1 {
+  display: block;
+  height: 570px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(0, 25px);
+  width: 1238px;
+}
+
+.anelevatedwebpresenc {
+  display: block;
+  height: 59px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 462px;
+}
+
+.exhibition-design {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 80px;
+  opacity: 0;
+  text-align: right;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 248px;
 }

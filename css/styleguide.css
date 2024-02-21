@@ -1,88 +1,105 @@
 :root { 
+  --black: #000000;
   --cod-gray: #090909;
   --dove-gray: #707070;
+  --eerie-black: #202020;
   --mercury: #e7e7e7;
-  --onyx: #393939;
-  --onyx-2: #383838;
-  --storm-dust: #646464;
+  --neutral-70: #6c6865;
+  --onyx: #383838;
+  --silver-chalice: #afafaf;
   --white: #ffffff;
  
-  --font-size-l: 22px;
+  --font-size-l: 24px;
   --font-size-m: 18px;
-  --font-size-s: 12px;
-  --font-size-xl: 55px;
-  --font-size-xxl: 80px;
-  --font-size-xxxl: 100px;
-  --font-size-xxxxl: 120px;
+  --font-size-s: 16px;
+  --font-size-xl: 36px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 48px;
+  --font-size-xxxl: 120px;
  
-  --font-family-applecoloremoji: "AppleColorEmoji", Helvetica;
   --font-family-archivoexpanded-bold: "ArchivoExpanded-Bold", Helvetica;
-  --font-family-archivoexpanded-regular: "ArchivoExpanded-Regular", Helvetica;
-  --font-family-manrope: "Manrope", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-lexend_mega: "Lexend Mega", Helvetica;
+  --font-family-manrope-extrabold: "Manrope-ExtraBold", Helvetica;
+  --font-family-manrope-extralight_bold: "Manrope-ExtraLight_Bold", Helvetica;
+  --font-family-manrope-extralight_regular: "Manrope-ExtraLight_Regular", Helvetica;
+  --font-family-manrope-regular: "Manrope-Regular", Helvetica;
+  --font-family-manrope-semibold: "Manrope-SemiBold", Helvetica;
+  --font-family-nats-regular: "NATS-Regular", Helvetica;
   --font-family-pingfangsc-light: "PingFangSC-Light", Helvetica;
   --font-family-pingfangsc-regular: "PingFangSC-Regular", Helvetica;
   --font-family-pingfangsc-semibold: "PingFangSC-Semibold", Helvetica;
+  --font-family-source_sans_pro: "Source Sans Pro", Helvetica;
+  --font-family-source_sans_pro-italic: "Source Sans Pro-Italic", Helvetica;
 }
 .h3 {
-  font-family: var(--font-family-manrope);
+  font-family: var(--font-family-manrope-regular);
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
-  letter-spacing: 0px;
+  letter-spacing: 0;
 }
 
-.manrope-bold-white-22px {
+.nats-regular-normal-white-36px {
   color: var(--white);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-l);
+  font-family: var(--font-family-nats-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.manrope-extralight-bold-white-22px {
+  color: var(--white);
+  font-family: var(--font-family-manrope-extralight_bold);
+  font-size: 22px;
   font-style: normal;
   font-weight: 700;
 }
 
-.manrope-normal-mercury-18px {
+.sourcesanspro-normal-granite-gray-16px {
+  color: var(--neutral-70);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.manrope-extralightregular-normal-mercury-18px {
   color: var(--mercury);
-  font-family: var(--font-family-manrope);
+  font-family: var(--font-family-manrope-extralight_regular);
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
 
-.manrope-semi-bold-white-24px {
+.sourcesanspro-normal-white-16px {
   color: var(--white);
-  font-family: var(--font-family-manrope);
-  font-size: 24px;
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-s);
   font-style: normal;
-  font-weight: 600;
-}
-
-.manrope-bold-white-120px {
-  color: var(--white);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .manrope-semi-bold-dove-gray-12px {
   color: var(--dove-gray);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-s);
+  font-family: var(--font-family-manrope-semibold);
+  font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 600;
 }
 
-.manrope-bold-white-55px {
+.manrope-extralight-bold-white-120px {
   color: var(--white);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xl);
+  font-family: var(--font-family-manrope-extralight_bold);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 700;
 }
 
-.manrope-bold-white-80px {
+.manrope-extralight-bold-white-80px {
   color: var(--white);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xxl);
+  font-family: var(--font-family-manrope-extralight_bold);
+  font-size: 80px;
   font-style: normal;
   font-weight: 700;
 }
@@ -93,90 +110,74 @@
   font-size: var(--font-size-m);
 }
 
-.manrope-bold-onyx-55px {
-  color: var(--onyx);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xxl);
+.manrope-semi-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-manrope-semibold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-bold-white-90px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 90px;
   font-style: normal;
   font-weight: 700;
 }
 
-.manrope-extra-bold-onyx-55px {
-  color: var(--onyx);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 800;
-}
-
-.manrope-extra-bold-white-100px {
+.sourcesanspro-italic-normal-white-16px {
   color: var(--white);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 800;
-}
-
-.manrope-extra-bold-white-55px {
-  color: var(--white);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 800;
-}
-
-.manrope-extra-bold-white-120px {
-  color: var(--white);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 800;
-}
-
-.manrope-extra-bold-onyx-120px {
-  color: var(--onyx-2);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xxxxl);
-  font-style: normal;
-  font-weight: 800;
-}
-
-.manrope-extra-bold-onyx-100px {
-  color: var(--onyx);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 800;
-}
-
-.manrope-extra-bold-storm-dust-100px {
-  color: var(--storm-dust);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 800;
-}
-
-.manrope-normal-white-22px {
-  color: var(--white);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-l);
-  font-style: normal;
+  font-family: var(--font-family-source_sans_pro-italic);
+  font-size: var(--font-size-s);
+  font-style: italic;
   font-weight: 400;
 }
 
-.manrope-bold-onyx-120px {
+.manrope-extra-extra-bold-white-120px {
+  color: var(--white);
+  font-family: var(--font-family-manrope-extrabold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.manrope-extra-extra-bold-onyx-120px {
   color: var(--onyx);
-  font-family: var(--font-family-manrope);
-  font-size: var(--font-size-xxxxl);
+  font-family: var(--font-family-manrope-extrabold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.lexendmega-medium-silver-chalice-24px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-lexend_mega);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 700;
 }
 
-manrope-extra-bold-white-Esther {
-    color: var(--white);
-    font-family: var(--font-family-manrope);
-    font-size: var(--font-size-l);
-    font-style: normal;
-    font-weight: 600;
+.inter-bold-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-extra-bold-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 800;
 }
