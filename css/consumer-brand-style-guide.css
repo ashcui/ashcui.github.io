@@ -29,7 +29,7 @@
 }
 
 .consumer-brand-style-guide .ash-cui_-black:hover {
-  transform: translate(0, -10px);
+  transform: scale(1.3);
 }
 
 .consumer-brand-style-guide .work_-black {
@@ -42,7 +42,7 @@
 }
 
 .consumer-brand-style-guide .work_-black:hover {
-  transform: translate(0, -10px);
+  transform: scale(1.3);
 }
 
 .consumer-brand-style-guide .about_-black {
@@ -55,7 +55,7 @@
 }
 
 .consumer-brand-style-guide .about_-black:hover {
-  transform: translate(0, -10px);
+  transform: scale(1.3);
 }
 
 .consumer-brand-style-guide .flex-row {

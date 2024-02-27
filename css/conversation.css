@@ -44,7 +44,7 @@
 }
 
 .conversation .work:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .conversation .about {
@@ -57,7 +57,7 @@
 }
 
 .conversation .about:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .conversation .title {

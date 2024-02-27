@@ -44,7 +44,7 @@
 }
 
 .ava .work:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .ava .about {
@@ -57,7 +57,7 @@
 }
 
 .ava .about:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .ava .name {
@@ -778,7 +778,7 @@ to{transform: rotate(359deg);
 }
 
 .ava .group-2:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .ava .nextproject {
@@ -910,7 +910,7 @@ filter: none;
 }
 
 .ava .hi:hover {
-  transform: translate(0, -20px);
+  transform: scale(1.3);
 }
 
 .ava .flex-row-3 {

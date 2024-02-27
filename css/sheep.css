@@ -44,7 +44,7 @@
 }
 
 .sheep .work:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .sheep .about {
@@ -57,7 +57,7 @@
 }
 
 .sheep .about:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .sheep .title {

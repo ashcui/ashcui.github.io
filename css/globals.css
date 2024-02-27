@@ -44,7 +44,7 @@
 }
 
 .image-46 {
-  cursor: pointer;
+  cursor: none;
   height: 22px;
   object-fit: cover;
   transition: all 0.5s ease-in-out;
@@ -52,7 +52,7 @@
 }
 
 .image-47 {
-  cursor: pointer;
+  cursor: none;
   height: 16px;
   margin-left: 821px;
   object-fit: cover;
@@ -61,7 +61,7 @@
 }
 
 .image-48 {
-  cursor: pointer;
+  cursor: none;
   height: 16px;
   margin-left: 63px;
   object-fit: cover;

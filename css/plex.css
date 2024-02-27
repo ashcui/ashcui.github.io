@@ -56,7 +56,7 @@
 }
 
 .plex .work:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .plex .about {
@@ -69,7 +69,7 @@
 }
 
 .plex .about:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .plex .title {

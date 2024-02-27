@@ -43,7 +43,7 @@
 }
 
 .in .work:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .in .about {
@@ -56,7 +56,7 @@
 }
 
 .in .about:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .in .in-1 {

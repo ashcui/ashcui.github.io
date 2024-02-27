@@ -63,7 +63,7 @@
 }
 
 .index .work:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .index .overlap-group {
@@ -331,7 +331,7 @@ transform: translate(0,0);
 }
 
 .index .about:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .index .group-3 {
@@ -346,7 +346,7 @@ transform: translate(0,0);
 }
 
 .index .group-3:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .index .viewall {
@@ -1059,7 +1059,7 @@ filter: none;
 }
 
 .index .hi:hover {
-  transform: translate(0, -20px);
+  transform: scale(1.3);
 }
 
 .index .flex-row-9 {

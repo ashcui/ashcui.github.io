@@ -44,7 +44,7 @@
 }
 
 .benchling .work:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .benchling .about {
@@ -57,7 +57,7 @@
 }
 
 .benchling .about:hover {
-  transform: translate(0, -5px);
+  transform: scale(1.3);
 }
 
 .benchling .title {

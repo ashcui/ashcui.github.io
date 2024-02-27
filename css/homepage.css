@@ -19,15 +19,15 @@
 }
 
 .homepage .image-46:hover {
-  transform: translate(0, -10px);
+  transform: scale(1.3);
 }
 
 .homepage .image-47:hover {
-  transform: translate(0, -10px);
+  transform: scale(1.3);
 }
 
 .homepage .image-48:hover {
-  transform: translate(0, -10px);
+  transform: scale(1.3);
 }
 
 .homepage .overlap-group {
@@ -130,7 +130,7 @@ to{opacity: 1;
 }
 
 .homepage .image-41:hover {
-  transform: translate(0, -10px);
+  transform: scale(1.3);
 }
 
 .homepage .group-427321953 {
@@ -327,5 +327,5 @@ to{opacity: 1;
 }
 
 .homepage .image-45:hover {
-  transform: translate(0, -30px);
+  transform: scale(1.3);
 }
