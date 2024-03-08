@@ -40,36 +40,12 @@
   min-width: 1236px;
 }
 
-.plex .ashcui {
-  cursor: pointer;
-  height: 17px;
-  width: 124px;
-}
-
-.plex .work {
-  cursor: pointer;
-  height: 11px;
-  margin-left: 902px;
-  margin-top: 2.0px;
-  transition: all 0.5s ease-in-out;
-  width: 62px;
-}
-
 .plex .work:hover {
-  transform: scale(1.3);
-}
-
-.plex .about {
-  cursor: pointer;
-  height: 11px;
-  margin-left: 77px;
-  margin-top: 2.0px;
-  transition: all 0.5s ease-in-out;
-  width: 71px;
+  transform: translate(0, -5px);
 }
 
 .plex .about:hover {
-  transform: scale(1.3);
+  transform: translate(0, -5px);
 }
 
 .plex .title {
@@ -82,13 +58,13 @@
   white-space: nowrap;
 }
 
-.plex .title.animate-enter194 {
-  animation: animate-enter194-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .title.animate-enter251 {
+  animation: animate-enter251-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter194-frames {
+@keyframes animate-enter251-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -106,13 +82,13 @@ transform: translate(0,0);
   width: 1237px;
 }
 
-.plex .path-5.animate-enter196 {
-  animation: animate-enter196-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .path-5.animate-enter253 {
+  animation: animate-enter253-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter196-frames {
+@keyframes animate-enter253-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -140,13 +116,13 @@ transform: scaleX(1);
   width: 56px;
 }
 
-.plex .number.animate-enter195 {
-  animation: animate-enter195-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.plex .number.animate-enter252 {
+  animation: animate-enter252-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter195-frames {
+@keyframes animate-enter252-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -166,13 +142,13 @@ transform: translate(0,0);
   width: 248px;
 }
 
-.plex .website-design.animate-enter197 {
-  animation: animate-enter197-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.plex .website-design.animate-enter254 {
+  animation: animate-enter254-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter197-frames {
+@keyframes animate-enter254-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -189,13 +165,13 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.plex .full-bleed-lifestyle_1.animate-enter193 {
-  animation: animate-enter193-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .full-bleed-lifestyle_1.animate-enter250 {
+  animation: animate-enter250-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter193-frames {
+@keyframes animate-enter250-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -215,14 +191,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.plex .full-bleed-lifestyle_1-1.animate-enter192 {
-  animation: animate-enter192-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .full-bleed-lifestyle_1-1.animate-enter249 {
+  animation: animate-enter249-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter192-frames {
+@keyframes animate-enter249-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -246,14 +222,14 @@ transform: translate(0,0);
   width: 86px;
 }
 
-.plex .role.animate-enter199 {
-  animation: animate-enter199-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.plex .role.animate-enter256 {
+  animation: animate-enter256-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter199-frames {
+@keyframes animate-enter256-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -270,14 +246,14 @@ transform: translate(0,0);
   width: 463px;
 }
 
-.plex .edgydigitaldesignfor.animate-enter198 {
-  animation: animate-enter198-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.plex .edgydigitaldesignfor.animate-enter255 {
+  animation: animate-enter255-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter198-frames {
+@keyframes animate-enter255-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -302,13 +278,13 @@ transform: translate(0,0);
   width: 138px;
 }
 
-.plex .group.animate-enter216 {
-  animation: animate-enter216-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.plex .group.animate-enter273 {
+  animation: animate-enter273-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter216-frames {
+@keyframes animate-enter273-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -356,13 +332,13 @@ transform: translate(0,0);
   width: 608px;
 }
 
-.plex .plex-systems-a-powe.animate-enter200 {
-  animation: animate-enter200-frames 1.00s ease-in-out 0.50s 1 normal forwards;
+.plex .plex-systems-a-powe.animate-enter257 {
+  animation: animate-enter257-frames 1.00s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter200-frames {
+@keyframes animate-enter257-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -389,14 +365,14 @@ transform: translate(0,0);
   width: 1237px;
 }
 
-.plex .plex_-case-study_-im.animate-enter201 {
-  animation: animate-enter201-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex_-case-study_-im.animate-enter258 {
+  animation: animate-enter258-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter201-frames {
+@keyframes animate-enter258-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -409,13 +385,13 @@ transform: translate(0,0);
   height: 4px;
 }
 
-.plex .path-5-1.animate-enter204 {
-  animation: animate-enter204-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .path-5-1.animate-enter261 {
+  animation: animate-enter261-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter204-frames {
+@keyframes animate-enter261-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -447,14 +423,14 @@ transform: scaleX(1);
   width: 488px;
 }
 
-.plex .differentiationthrou.animate-enter202 {
-  animation: animate-enter202-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .differentiationthrou.animate-enter259 {
+  animation: animate-enter259-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter202-frames {
+@keyframes animate-enter259-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -474,13 +450,13 @@ transform: translate(0,0);
   width: 513px;
 }
 
-.plex .our-designers-explor.animate-enter203 {
-  animation: animate-enter203-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.plex .our-designers-explor.animate-enter260 {
+  animation: animate-enter260-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter203-frames {
+@keyframes animate-enter260-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -496,13 +472,13 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.plex .plex_-case-study_-im-1.animate-enter208 {
-  animation: animate-enter208-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex_-case-study_-im-1.animate-enter265 {
+  animation: animate-enter265-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter208-frames {
+@keyframes animate-enter265-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -520,14 +496,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.plex .plex_-case-study_-im-2.animate-enter207 {
-  animation: animate-enter207-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex_-case-study_-im-2.animate-enter264 {
+  animation: animate-enter264-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter207-frames {
+@keyframes animate-enter264-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -542,13 +518,13 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.plex .plex_-case-study_-im-3.animate-enter206 {
-  animation: animate-enter206-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex_-case-study_-im-3.animate-enter263 {
+  animation: animate-enter263-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter206-frames {
+@keyframes animate-enter263-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -566,14 +542,14 @@ transform: translate(0,0);
   width: 550px;
 }
 
-.plex .plex_-case-study_-im-4.animate-enter205 {
-  animation: animate-enter205-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex_-case-study_-im-4.animate-enter262 {
+  animation: animate-enter262-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter205-frames {
+@keyframes animate-enter262-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -595,13 +571,13 @@ transform: translate(0,0);
   height: 4px;
 }
 
-.plex .path-5-2.animate-enter211 {
-  animation: animate-enter211-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .path-5-2.animate-enter268 {
+  animation: animate-enter268-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter211-frames {
+@keyframes animate-enter268-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -619,14 +595,14 @@ transform: scaleX(1);
   width: 327px;
 }
 
-.plex .makingelementspop.animate-enter209 {
-  animation: animate-enter209-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .makingelementspop.animate-enter266 {
+  animation: animate-enter266-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter209-frames {
+@keyframes animate-enter266-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -648,13 +624,13 @@ transform: translate(0,0);
   width: 513px;
 }
 
-.plex .we-utilized-plexs-s.animate-enter210 {
-  animation: animate-enter210-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.plex .we-utilized-plexs-s.animate-enter267 {
+  animation: animate-enter267-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter210-frames {
+@keyframes animate-enter267-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -681,14 +657,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.plex .plex_-case-study_-im-5.animate-enter212 {
-  animation: animate-enter212-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex_-case-study_-im-5.animate-enter269 {
+  animation: animate-enter269-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter212-frames {
+@keyframes animate-enter269-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -705,14 +681,14 @@ transform: translate(0,0);
   width: 1242px;
 }
 
-.plex .plex_-case-study_-images_v1_-typography.animate-enter213 {
-  animation: animate-enter213-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex_-case-study_-images_v1_-typography.animate-enter270 {
+  animation: animate-enter270-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter213-frames {
+@keyframes animate-enter270-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -745,11 +721,11 @@ transform: translate(0,0);
   white-space: nowrap;
 }
 
-.plex .thanks-for-scrolling.animate-enter217 {
-  animation: animate-enter217-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.plex .thanks-for-scrolling.animate-enter274 {
+  animation: animate-enter274-frames 1.50s ease-in-out 0.00s 1 normal forwards;
 }
 
-@keyframes animate-enter217-frames {
+@keyframes animate-enter274-frames {
   from{}
 to{}
 }
@@ -764,13 +740,13 @@ to{}
   width: 26px;
 }
 
-.plex .x.animate-enter220 {
-  animation: animate-enter220-frames 5.00s linear 0.00s 1 normal forwards;
+.plex .x.animate-enter277 {
+  animation: animate-enter277-frames 5.00s linear 0.00s 1 normal forwards;
   display: block;
   transform: rotate(0deg);
 }
 
-@keyframes animate-enter220-frames {
+@keyframes animate-enter277-frames {
   from{transform: rotate(0deg);
 }
 to{transform: rotate(359deg);
@@ -824,13 +800,13 @@ to{transform: rotate(359deg);
   margin-left: 1.0px;
 }
 
-.plex .path-5-3.animate-enter218 {
-  animation: animate-enter218-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .path-5-3.animate-enter275 {
+  animation: animate-enter275-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter218-frames {
+@keyframes animate-enter275-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -846,13 +822,13 @@ transform: scaleX(1);
   width: 1240px;
 }
 
-.plex .plex_-case-study_-im-6.animate-enter215 {
-  animation: animate-enter215-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex_-case-study_-im-6.animate-enter272 {
+  animation: animate-enter272-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter215-frames {
+@keyframes animate-enter272-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -870,14 +846,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.plex .plex_-case-study_-im-7.animate-enter214 {
-  animation: animate-enter214-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .plex_-case-study_-im-7.animate-enter271 {
+  animation: animate-enter271-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter214-frames {
+@keyframes animate-enter271-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -894,13 +870,13 @@ transform: translate(0,0);
   min-width: 462px;
 }
 
-.plex .group-2-1.animate-enter219 {
-  animation: animate-enter219-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .group-2-1.animate-enter276 {
+  animation: animate-enter276-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter219-frames {
+@keyframes animate-enter276-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -909,14 +885,14 @@ filter: none;
 }
 }
 
-.plex .hi.animate-enter222 {
-  animation: animate-enter222-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.plex .hi.animate-enter279 {
+  animation: animate-enter279-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter222-frames {
+@keyframes animate-enter279-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -957,14 +933,14 @@ filter: none;
   width: 33px;
 }
 
-.plex .image.animate-enter221 {
-  animation: animate-enter221-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.plex .image.animate-enter278 {
+  animation: animate-enter278-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter221-frames {
+@keyframes animate-enter278-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -976,11 +952,6 @@ transform: translate(0,0);
 .plex .flex-col-7 {
   display: flex;
   flex-direction: column;
-}
-
-.plex .flex-row-7 {
-  align-items: flex-start;
-  display: flex;
 }
 
 .plex .path-5-4 {

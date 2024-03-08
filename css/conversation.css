@@ -28,36 +28,12 @@
   min-width: 1236px;
 }
 
-.conversation .ashcui {
-  cursor: pointer;
-  height: 17px;
-  width: 124px;
-}
-
-.conversation .work {
-  cursor: pointer;
-  height: 11px;
-  margin-left: 902px;
-  margin-top: 2.0px;
-  transition: all 0.5s ease-in-out;
-  width: 62px;
-}
-
 .conversation .work:hover {
-  transform: scale(1.3);
-}
-
-.conversation .about {
-  cursor: pointer;
-  height: 11px;
-  margin-left: 77px;
-  margin-top: 2.0px;
-  transition: all 0.5s ease-in-out;
-  width: 71px;
+  transform: translate(0, -5px);
 }
 
 .conversation .about:hover {
-  transform: scale(1.3);
+  transform: translate(0, -5px);
 }
 
 .conversation .title {
@@ -71,13 +47,13 @@
   white-space: nowrap;
 }
 
-.conversation .title.animate-enter374 {
-  animation: animate-enter374-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .title.animate-enter431 {
+  animation: animate-enter431-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter374-frames {
+@keyframes animate-enter431-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -95,13 +71,13 @@ transform: translate(0,0);
   width: 1237px;
 }
 
-.conversation .path-5.animate-enter382 {
-  animation: animate-enter382-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .path-5.animate-enter439 {
+  animation: animate-enter439-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter382-frames {
+@keyframes animate-enter439-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -128,13 +104,13 @@ transform: scaleX(1);
   width: 56px;
 }
 
-.conversation .number.animate-enter376 {
-  animation: animate-enter376-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.conversation .number.animate-enter433 {
+  animation: animate-enter433-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter376-frames {
+@keyframes animate-enter433-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -143,13 +119,13 @@ transform: translate(0,0);
 }
 }
 
-.conversation .exhibition-design.animate-enter399 {
-  animation: animate-enter399-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.conversation .exhibition-design.animate-enter456 {
+  animation: animate-enter456-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter399-frames {
+@keyframes animate-enter456-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -167,13 +143,13 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.conversation .full-bleed-lifestyle_1.animate-enter380 {
-  animation: animate-enter380-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .full-bleed-lifestyle_1.animate-enter437 {
+  animation: animate-enter437-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter380-frames {
+@keyframes animate-enter437-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -193,14 +169,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.conversation .full-bleed-lifestyle_1-1.animate-enter379 {
-  animation: animate-enter379-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .full-bleed-lifestyle_1-1.animate-enter436 {
+  animation: animate-enter436-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter379-frames {
+@keyframes animate-enter436-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -224,14 +200,14 @@ transform: translate(0,0);
   width: 86px;
 }
 
-.conversation .role.animate-enter377 {
-  animation: animate-enter377-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.conversation .role.animate-enter434 {
+  animation: animate-enter434-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter377-frames {
+@keyframes animate-enter434-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -248,14 +224,14 @@ transform: translate(0,0);
   width: 427px;
 }
 
-.conversation .a-displayof-two-art-worlds.animate-enter375 {
-  animation: animate-enter375-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.conversation .a-displayof-two-art-worlds.animate-enter432 {
+  animation: animate-enter432-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter375-frames {
+@keyframes animate-enter432-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -282,13 +258,13 @@ transform: translate(0,0);
   width: 144px;
 }
 
-.conversation .group.animate-enter381 {
-  animation: animate-enter381-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.conversation .group.animate-enter438 {
+  animation: animate-enter438-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter381-frames {
+@keyframes animate-enter438-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -352,13 +328,13 @@ transform: translate(0,0);
   width: 565px;
 }
 
-.conversation .nowadays-more-and-m.animate-enter378 {
-  animation: animate-enter378-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.conversation .nowadays-more-and-m.animate-enter435 {
+  animation: animate-enter435-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter378-frames {
+@keyframes animate-enter435-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -383,13 +359,13 @@ transform: translate(0,0);
   width: 1236px;
 }
 
-.conversation .path-5-copy.animate-enter390 {
-  animation: animate-enter390-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .path-5-copy.animate-enter447 {
+  animation: animate-enter447-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter390-frames {
+@keyframes animate-enter447-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -408,14 +384,14 @@ transform: scaleX(1);
   width: 214px;
 }
 
-.conversation .behindtheart.animate-enter386 {
-  animation: animate-enter386-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .behindtheart.animate-enter443 {
+  animation: animate-enter443-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter386-frames {
+@keyframes animate-enter443-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -437,13 +413,13 @@ transform: translate(0,0);
   width: 503px;
 }
 
-.conversation .l-chose-six-most-rep.animate-enter388 {
-  animation: animate-enter388-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.conversation .l-chose-six-most-rep.animate-enter445 {
+  animation: animate-enter445-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter388-frames {
+@keyframes animate-enter445-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -466,13 +442,13 @@ transform: translate(0,0);
   width: 1237px;
 }
 
-.conversation .wix-01-copy-2.animate-enter385 {
-  animation: animate-enter385-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .wix-01-copy-2.animate-enter442 {
+  animation: animate-enter442-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter385-frames {
+@keyframes animate-enter442-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -492,14 +468,14 @@ transform: translate(0,0);
   width: 1237px;
 }
 
-.conversation .wix-01-copy-2-1.animate-enter384 {
-  animation: animate-enter384-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .wix-01-copy-2-1.animate-enter441 {
+  animation: animate-enter441-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter384-frames {
+@keyframes animate-enter441-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -512,13 +488,13 @@ transform: translate(0,0);
   margin-left: 0.5px;
 }
 
-.conversation .path-5-copy-5.animate-enter391 {
-  animation: animate-enter391-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .path-5-copy-5.animate-enter448 {
+  animation: animate-enter448-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter391-frames {
+@keyframes animate-enter448-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -536,14 +512,14 @@ transform: scaleX(1);
   width: 394px;
 }
 
-.conversation .apalettewithpersonality.animate-enter387 {
-  animation: animate-enter387-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .apalettewithpersonality.animate-enter444 {
+  animation: animate-enter444-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter387-frames {
+@keyframes animate-enter444-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -565,13 +541,13 @@ transform: translate(0,0);
   width: 513px;
 }
 
-.conversation .to-provide-a-memorab.animate-enter389 {
-  animation: animate-enter389-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.conversation .to-provide-a-memorab.animate-enter446 {
+  animation: animate-enter446-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter389-frames {
+@keyframes animate-enter446-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -596,13 +572,13 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.conversation .wix-01-copy.animate-enter393 {
-  animation: animate-enter393-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .wix-01-copy.animate-enter450 {
+  animation: animate-enter450-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter393-frames {
+@keyframes animate-enter450-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -620,14 +596,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.conversation .wix-01-copy-1.animate-enter392 {
-  animation: animate-enter392-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .wix-01-copy-1.animate-enter449 {
+  animation: animate-enter449-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter392-frames {
+@keyframes animate-enter449-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -645,13 +621,13 @@ transform: translate(0,0);
   width: 1238px;
 }
 
-.conversation .path-5-copy-5-1.animate-enter394 {
-  animation: animate-enter394-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .path-5-copy-5-1.animate-enter451 {
+  animation: animate-enter451-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter394-frames {
+@keyframes animate-enter451-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -670,14 +646,14 @@ transform: scaleX(1);
   width: 191px;
 }
 
-.conversation .applications.animate-enter400 {
-  animation: animate-enter400-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .applications.animate-enter457 {
+  animation: animate-enter457-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter400-frames {
+@keyframes animate-enter457-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -695,14 +671,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.conversation .wix-02.animate-enter383 {
-  animation: animate-enter383-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .wix-02.animate-enter440 {
+  animation: animate-enter440-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter383-frames {
+@keyframes animate-enter440-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -762,11 +738,11 @@ transform: translate(0,0);
   white-space: nowrap;
 }
 
-.conversation .thanks-for-scrolling.animate-enter397 {
-  animation: animate-enter397-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.conversation .thanks-for-scrolling.animate-enter454 {
+  animation: animate-enter454-frames 1.50s ease-in-out 0.00s 1 normal forwards;
 }
 
-@keyframes animate-enter397-frames {
+@keyframes animate-enter454-frames {
   from{}
 to{}
 }
@@ -781,13 +757,13 @@ to{}
   width: 24px;
 }
 
-.conversation .x.animate-enter403 {
-  animation: animate-enter403-frames 5.00s linear 0.00s 1 normal forwards;
+.conversation .x.animate-enter460 {
+  animation: animate-enter460-frames 5.00s linear 0.00s 1 normal forwards;
   display: block;
   transform: rotate(0deg);
 }
 
-@keyframes animate-enter403-frames {
+@keyframes animate-enter460-frames {
   from{transform: rotate(0deg);
 }
 to{transform: rotate(359deg);
@@ -844,13 +820,13 @@ to{transform: rotate(359deg);
   width: 1238px;
 }
 
-.conversation .path-5-1.animate-enter398 {
-  animation: animate-enter398-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .path-5-1.animate-enter455 {
+  animation: animate-enter455-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter398-frames {
+@keyframes animate-enter455-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -869,13 +845,13 @@ transform: scaleX(1);
   width: 1238px;
 }
 
-.conversation .getty-images-946509292.animate-enter396 {
-  animation: animate-enter396-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .getty-images-946509292.animate-enter453 {
+  animation: animate-enter453-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter396-frames {
+@keyframes animate-enter453-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -884,14 +860,14 @@ transform: translate(0,0);
 }
 }
 
-.conversation .getty-images-946509292-1.animate-enter395 {
-  animation: animate-enter395-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .getty-images-946509292-1.animate-enter452 {
+  animation: animate-enter452-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter395-frames {
+@keyframes animate-enter452-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -909,13 +885,13 @@ transform: translate(0,0);
   min-width: 460px;
 }
 
-.conversation .group-2-1.animate-enter401 {
-  animation: animate-enter401-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .group-2-1.animate-enter458 {
+  animation: animate-enter458-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter401-frames {
+@keyframes animate-enter458-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -924,14 +900,14 @@ filter: none;
 }
 }
 
-.conversation .hi.animate-enter404 {
-  animation: animate-enter404-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.conversation .hi.animate-enter461 {
+  animation: animate-enter461-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter404-frames {
+@keyframes animate-enter461-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -954,14 +930,14 @@ filter: none;
   width: 33px;
 }
 
-.conversation .image.animate-enter402 {
-  animation: animate-enter402-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.conversation .image.animate-enter459 {
+  animation: animate-enter459-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter402-frames {
+@keyframes animate-enter459-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }

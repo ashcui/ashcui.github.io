@@ -9,7 +9,7 @@
 
 .favicon .overlap-group {
   align-items: center;
-  background-color: var(--black);
+  background-color: var(--base-shade--100);
   border-radius: 16px;
   display: flex;
   height: 32px;

@@ -40,36 +40,12 @@
   min-width: 1236px;
 }
 
-.google .ashcui {
-  cursor: pointer;
-  height: 17px;
-  width: 124px;
-}
-
-.google .work {
-  cursor: pointer;
-  height: 11px;
-  margin-left: 902px;
-  margin-top: 2.0px;
-  transition: all 0.5s ease-in-out;
-  width: 62px;
-}
-
 .google .work:hover {
-  transform: scale(1.3);
-}
-
-.google .about {
-  cursor: pointer;
-  height: 11px;
-  margin-left: 77px;
-  margin-top: 2.0px;
-  transition: all 0.5s ease-in-out;
-  width: 71px;
+  transform: translate(0, -5px);
 }
 
 .google .about:hover {
-  transform: scale(1.3);
+  transform: translate(0, -5px);
 }
 
 .google .title {
@@ -82,13 +58,13 @@
   white-space: nowrap;
 }
 
-.google .title.animate-enter97 {
-  animation: animate-enter97-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.google .title.animate-enter154 {
+  animation: animate-enter154-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter97-frames {
+@keyframes animate-enter154-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -106,13 +82,13 @@ transform: translate(0,0);
   width: 1237px;
 }
 
-.google .path-5.animate-enter123 {
-  animation: animate-enter123-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.google .path-5.animate-enter180 {
+  animation: animate-enter180-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter123-frames {
+@keyframes animate-enter180-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -141,13 +117,13 @@ transform: scaleX(1);
   width: 56px;
 }
 
-.google .number.animate-enter103 {
-  animation: animate-enter103-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.google .number.animate-enter160 {
+  animation: animate-enter160-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter103-frames {
+@keyframes animate-enter160-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -167,13 +143,13 @@ transform: translate(0,0);
   width: 248px;
 }
 
-.google .website-design.animate-enter104 {
-  animation: animate-enter104-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.google .website-design.animate-enter161 {
+  animation: animate-enter161-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter104-frames {
+@keyframes animate-enter161-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -191,13 +167,13 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.google .full-bleed-lifestyle_1.animate-enter96 {
-  animation: animate-enter96-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.google .full-bleed-lifestyle_1.animate-enter153 {
+  animation: animate-enter153-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter96-frames {
+@keyframes animate-enter153-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -217,14 +193,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.google .full-bleed-lifestyle_1-1.animate-enter95 {
-  animation: animate-enter95-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.google .full-bleed-lifestyle_1-1.animate-enter152 {
+  animation: animate-enter152-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter95-frames {
+@keyframes animate-enter152-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -250,14 +226,14 @@ transform: translate(0,0);
   width: 86px;
 }
 
-.google .role.animate-enter105 {
-  animation: animate-enter105-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.google .role.animate-enter162 {
+  animation: animate-enter162-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter105-frames {
+@keyframes animate-enter162-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -275,14 +251,14 @@ transform: translate(0,0);
   width: 586px;
 }
 
-.google .designing-san-joss-downtown-west.animate-enter98 {
-  animation: animate-enter98-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.google .designing-san-joss-downtown-west.animate-enter155 {
+  animation: animate-enter155-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter98-frames {
+@keyframes animate-enter155-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -309,13 +285,13 @@ transform: translate(0,0);
   width: 93px;
 }
 
-.google .group.animate-enter110 {
-  animation: animate-enter110-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.google .group.animate-enter167 {
+  animation: animate-enter167-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter110-frames {
+@keyframes animate-enter167-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -352,13 +328,13 @@ transform: translate(0,0);
   width: 583px;
 }
 
-.google .with-googles-expans.animate-enter106 {
-  animation: animate-enter106-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.google .with-googles-expans.animate-enter163 {
+  animation: animate-enter163-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter106-frames {
+@keyframes animate-enter163-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -382,13 +358,13 @@ transform: translate(0,0);
   width: 1241px;
 }
 
-.google .desktop-comp_1.animate-enter112 {
-  animation: animate-enter112-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.google .desktop-comp_1.animate-enter169 {
+  animation: animate-enter169-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter112-frames {
+@keyframes animate-enter169-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -408,14 +384,14 @@ transform: translate(0,0);
   width: 1241px;
 }
 
-.google .desktop-comp_1-1.animate-enter111 {
-  animation: animate-enter111-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.google .desktop-comp_1-1.animate-enter168 {
+  animation: animate-enter168-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter111-frames {
+@keyframes animate-enter168-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -429,13 +405,13 @@ transform: translate(0,0);
   width: 1237px;
 }
 
-.google .path-5-1.animate-enter116 {
-  animation: animate-enter116-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.google .path-5-1.animate-enter173 {
+  animation: animate-enter173-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter116-frames {
+@keyframes animate-enter173-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -468,14 +444,14 @@ transform: scaleX(1);
   width: 388px;
 }
 
-.google .by-san-josfor-san-jos.animate-enter99 {
-  animation: animate-enter99-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.google .by-san-josfor-san-jos.animate-enter156 {
+  animation: animate-enter156-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter99-frames {
+@keyframes animate-enter156-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -496,13 +472,13 @@ transform: translate(0,0);
   width: 503px;
 }
 
-.google .for-google-it-was-e.animate-enter107 {
-  animation: animate-enter107-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.google .for-google-it-was-e.animate-enter164 {
+  animation: animate-enter164-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter107-frames {
+@keyframes animate-enter164-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -518,13 +494,13 @@ transform: translate(0,0);
   width: 580px;
 }
 
-.google .desktop-comp_4.animate-enter115 {
-  animation: animate-enter115-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.google .desktop-comp_4.animate-enter172 {
+  animation: animate-enter172-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter115-frames {
+@keyframes animate-enter172-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -544,14 +520,14 @@ transform: translate(0,0);
   width: 580px;
 }
 
-.google .desktop-comp_4-1.animate-enter114 {
-  animation: animate-enter114-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.google .desktop-comp_4-1.animate-enter171 {
+  animation: animate-enter171-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter114-frames {
+@keyframes animate-enter171-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -566,14 +542,14 @@ transform: translate(0,0);
   width: 580px;
 }
 
-.google .desktop-comp_2.animate-enter113 {
-  animation: animate-enter113-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.google .desktop-comp_2.animate-enter170 {
+  animation: animate-enter170-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter113-frames {
+@keyframes animate-enter170-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -595,13 +571,13 @@ transform: translate(0,0);
   width: 1243px;
 }
 
-.google .path-5-2.animate-enter118 {
-  animation: animate-enter118-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.google .path-5-2.animate-enter175 {
+  animation: animate-enter175-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter118-frames {
+@keyframes animate-enter175-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -619,14 +595,14 @@ transform: scaleX(1);
   width: 241px;
 }
 
-.google .localinspiration.animate-enter100 {
-  animation: animate-enter100-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.google .localinspiration.animate-enter157 {
+  animation: animate-enter157-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter100-frames {
+@keyframes animate-enter157-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -648,13 +624,13 @@ transform: translate(0,0);
   width: 512px;
 }
 
-.google .with-mobile-visitors.animate-enter108 {
-  animation: animate-enter108-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.google .with-mobile-visitors.animate-enter165 {
+  animation: animate-enter165-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter108-frames {
+@keyframes animate-enter165-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -680,14 +656,14 @@ transform: translate(0,0);
   width: 1242px;
 }
 
-.google .color-palette.animate-enter117 {
-  animation: animate-enter117-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.google .color-palette.animate-enter174 {
+  animation: animate-enter174-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter117-frames {
+@keyframes animate-enter174-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -706,14 +682,14 @@ transform: translate(0,0);
   width: 1242px;
 }
 
-.google .typography.animate-enter119 {
-  animation: animate-enter119-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.google .typography.animate-enter176 {
+  animation: animate-enter176-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter119-frames {
+@keyframes animate-enter176-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -728,13 +704,13 @@ transform: translate(0,0);
   width: 1245px;
 }
 
-.google .path-5-3.animate-enter102 {
-  animation: animate-enter102-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.google .path-5-3.animate-enter159 {
+  animation: animate-enter159-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter102-frames {
+@keyframes animate-enter159-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -750,14 +726,14 @@ transform: scaleX(1);
   width: 96px;
 }
 
-.google .mobile.animate-enter101 {
-  animation: animate-enter101-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.google .mobile.animate-enter158 {
+  animation: animate-enter158-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter101-frames {
+@keyframes animate-enter158-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -779,13 +755,13 @@ transform: translate(0,0);
   width: 544px;
 }
 
-.google .with-mobile-visitors-1.animate-enter109 {
-  animation: animate-enter109-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.google .with-mobile-visitors-1.animate-enter166 {
+  animation: animate-enter166-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter109-frames {
+@keyframes animate-enter166-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -807,14 +783,14 @@ transform: translate(0,0);
   width: 350px;
 }
 
-.google .mobile-comp_1.animate-enter120 {
-  animation: animate-enter120-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.google .mobile-comp_1.animate-enter177 {
+  animation: animate-enter177-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter120-frames {
+@keyframes animate-enter177-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -828,14 +804,14 @@ transform: translate(0,0);
   width: 350px;
 }
 
-.google .mobile-comp_3.animate-enter121 {
-  animation: animate-enter121-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.google .mobile-comp_3.animate-enter178 {
+  animation: animate-enter178-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter121-frames {
+@keyframes animate-enter178-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -849,14 +825,14 @@ transform: translate(0,0);
   width: 350px;
 }
 
-.google .mobile-comp_2.animate-enter122 {
-  animation: animate-enter122-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.google .mobile-comp_2.animate-enter179 {
+  animation: animate-enter179-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter122-frames {
+@keyframes animate-enter179-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -892,13 +868,13 @@ transform: translate(0,0);
   white-space: nowrap;
 }
 
-.google .thanks-for-scrolling.animate-enter126 {
-  animation: animate-enter126-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.google .thanks-for-scrolling.animate-enter183 {
+  animation: animate-enter183-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter126-frames {
+@keyframes animate-enter183-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -917,13 +893,13 @@ transform: translate(0,0);
   width: 24px;
 }
 
-.google .x.animate-enter129 {
-  animation: animate-enter129-frames 5.00s linear 0.00s 1 normal forwards;
+.google .x.animate-enter186 {
+  animation: animate-enter186-frames 5.00s linear 0.00s 1 normal forwards;
   display: block;
   transform: rotate(0deg);
 }
 
-@keyframes animate-enter129-frames {
+@keyframes animate-enter186-frames {
   from{transform: rotate(0deg);
 }
 to{transform: rotate(359deg);
@@ -979,13 +955,13 @@ to{transform: rotate(359deg);
   width: 1238px;
 }
 
-.google .path-5-4.animate-enter127 {
-  animation: animate-enter127-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.google .path-5-4.animate-enter184 {
+  animation: animate-enter184-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter127-frames {
+@keyframes animate-enter184-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -994,13 +970,13 @@ transform: scaleX(1);
 }
 }
 
-.google .google_-twitter_-feed.animate-enter125 {
-  animation: animate-enter125-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.google .google_-twitter_-feed.animate-enter182 {
+  animation: animate-enter182-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter125-frames {
+@keyframes animate-enter182-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -1009,14 +985,14 @@ transform: translate(0,0);
 }
 }
 
-.google .google_-twitter_-feed-1.animate-enter124 {
-  animation: animate-enter124-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.google .google_-twitter_-feed-1.animate-enter181 {
+  animation: animate-enter181-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter124-frames {
+@keyframes animate-enter181-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -1035,13 +1011,13 @@ transform: translate(0,0);
   min-width: 462px;
 }
 
-.google .group-2-1.animate-enter128 {
-  animation: animate-enter128-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.google .group-2-1.animate-enter185 {
+  animation: animate-enter185-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter128-frames {
+@keyframes animate-enter185-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -1050,14 +1026,14 @@ filter: none;
 }
 }
 
-.google .hi.animate-enter131 {
-  animation: animate-enter131-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.google .hi.animate-enter188 {
+  animation: animate-enter188-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter131-frames {
+@keyframes animate-enter188-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -1100,14 +1076,14 @@ filter: none;
   width: 33px;
 }
 
-.google .image.animate-enter130 {
-  animation: animate-enter130-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.google .image.animate-enter187 {
+  animation: animate-enter187-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter130-frames {
+@keyframes animate-enter187-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }

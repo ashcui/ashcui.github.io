@@ -28,36 +28,12 @@
   min-width: 1236px;
 }
 
-.ava .ashcui {
-  cursor: pointer;
-  height: 17px;
-  width: 124px;
-}
-
-.ava .work {
-  cursor: pointer;
-  height: 11px;
-  margin-left: 902px;
-  margin-top: 2.0px;
-  transition: all 0.5s ease-in-out;
-  width: 62px;
-}
-
 .ava .work:hover {
-  transform: scale(1.3);
-}
-
-.ava .about {
-  cursor: pointer;
-  height: 11px;
-  margin-left: 77px;
-  margin-top: 2.0px;
-  transition: all 0.5s ease-in-out;
-  width: 71px;
+  transform: translate(0, -5px);
 }
 
 .ava .about:hover {
-  transform: scale(1.3);
+  transform: translate(0, -5px);
 }
 
 .ava .name {
@@ -71,13 +47,13 @@
   white-space: nowrap;
 }
 
-.ava .name.animate-enter167 {
-  animation: animate-enter167-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .name.animate-enter224 {
+  animation: animate-enter224-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter167-frames {
+@keyframes animate-enter224-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -115,13 +91,13 @@ transform: translate(0,0);
   width: 56px;
 }
 
-.ava .number.animate-enter168 {
-  animation: animate-enter168-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.ava .number.animate-enter225 {
+  animation: animate-enter225-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter168-frames {
+@keyframes animate-enter225-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -140,13 +116,13 @@ transform: translate(0,0);
   width: 1237px;
 }
 
-.ava .path-5.animate-enter169 {
-  animation: animate-enter169-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .path-5.animate-enter226 {
+  animation: animate-enter226-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter169-frames {
+@keyframes animate-enter226-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -169,13 +145,13 @@ transform: scaleX(1);
   width: 248px;
 }
 
-.ava .website-design.animate-enter183 {
-  animation: animate-enter183-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+.ava .website-design.animate-enter240 {
+  animation: animate-enter240-frames 2.00s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter183-frames {
+@keyframes animate-enter240-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -194,13 +170,13 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.ava .screen-shot-2021-10-25-at-114224-pm.animate-enter182 {
-  animation: animate-enter182-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .screen-shot-2021-10-25-at-114224-pm.animate-enter239 {
+  animation: animate-enter239-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter182-frames {
+@keyframes animate-enter239-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -220,14 +196,14 @@ transform: translate(0,0);
   width: 1240px;
 }
 
-.ava .screen-shot-2021-10-25-at-114224-pm-1.animate-enter181 {
-  animation: animate-enter181-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .screen-shot-2021-10-25-at-114224-pm-1.animate-enter238 {
+  animation: animate-enter238-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter181-frames {
+@keyframes animate-enter238-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -261,14 +237,14 @@ transform: translate(0,0);
   width: 86px;
 }
 
-.ava .role.animate-enter166 {
-  animation: animate-enter166-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.ava .role.animate-enter223 {
+  animation: animate-enter223-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter166-frames {
+@keyframes animate-enter223-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -285,13 +261,13 @@ transform: translate(0,0);
   width: 138px;
 }
 
-.ava .group.animate-enter184 {
-  animation: animate-enter184-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+.ava .group.animate-enter241 {
+  animation: animate-enter241-frames 1.50s ease-in-out 1.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter184-frames {
+@keyframes animate-enter241-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -334,14 +310,14 @@ transform: translate(0,0);
   width: 506px;
 }
 
-.ava .ahumanizedplatformto.animate-enter170 {
-  animation: animate-enter170-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.ava .ahumanizedplatformto.animate-enter227 {
+  animation: animate-enter227-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter170-frames {
+@keyframes animate-enter227-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -360,13 +336,13 @@ transform: translate(0,0);
   width: 581px;
 }
 
-.ava .this-project-is-abou.animate-enter171 {
-  animation: animate-enter171-frames 1.00s ease-in-out 0.50s 1 normal forwards;
+.ava .this-project-is-abou.animate-enter228 {
+  animation: animate-enter228-frames 1.00s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter171-frames {
+@keyframes animate-enter228-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -395,13 +371,13 @@ transform: translate(0,0);
   width: 1236px;
 }
 
-.ava .path-5-1.animate-enter178 {
-  animation: animate-enter178-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .path-5-1.animate-enter235 {
+  animation: animate-enter235-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter178-frames {
+@keyframes animate-enter235-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -420,14 +396,14 @@ transform: scaleX(1);
   width: 428px;
 }
 
-.ava .thoughtfulbrandstory.animate-enter176 {
-  animation: animate-enter176-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.ava .thoughtfulbrandstory.animate-enter233 {
+  animation: animate-enter233-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter176-frames {
+@keyframes animate-enter233-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -449,13 +425,13 @@ transform: translate(0,0);
   width: 503px;
 }
 
-.ava .by-thoughtfully-surf.animate-enter177 {
-  animation: animate-enter177-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.ava .by-thoughtfully-surf.animate-enter234 {
+  animation: animate-enter234-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter177-frames {
+@keyframes animate-enter234-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -548,13 +524,13 @@ transform: translate(0,0);
   width: 1243px;
 }
 
-.ava .path-5-copy.animate-enter187 {
-  animation: animate-enter187-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .path-5-copy.animate-enter244 {
+  animation: animate-enter244-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter187-frames {
+@keyframes animate-enter244-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -573,14 +549,14 @@ transform: scaleX(1);
   width: 369px;
 }
 
-.ava .extendingthebrandwit.animate-enter185 {
-  animation: animate-enter185-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.ava .extendingthebrandwit.animate-enter242 {
+  animation: animate-enter242-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter185-frames {
+@keyframes animate-enter242-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -602,13 +578,13 @@ transform: translate(0,0);
   width: 512px;
 }
 
-.ava .delightful-colors-ar.animate-enter186 {
-  animation: animate-enter186-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+.ava .delightful-colors-ar.animate-enter243 {
+  animation: animate-enter243-frames 1.50s ease-in-out 0.50s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter186-frames {
+@keyframes animate-enter243-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -642,13 +618,13 @@ transform: translate(0,0);
   width: 1242px;
 }
 
-.ava .path-5-copy-1.animate-enter180 {
-  animation: animate-enter180-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .path-5-copy-1.animate-enter237 {
+  animation: animate-enter237-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter180-frames {
+@keyframes animate-enter237-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -667,14 +643,14 @@ transform: scaleX(1);
   width: 366px;
 }
 
-.ava .user-centered-research.animate-enter179 {
-  animation: animate-enter179-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+.ava .user-centered-research.animate-enter236 {
+  animation: animate-enter236-frames 1.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter179-frames {
+@keyframes animate-enter236-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -733,11 +709,11 @@ transform: translate(0,0);
   white-space: nowrap;
 }
 
-.ava .thanks-for-scrolling.animate-enter174 {
-  animation: animate-enter174-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.ava .thanks-for-scrolling.animate-enter231 {
+  animation: animate-enter231-frames 1.50s ease-in-out 0.00s 1 normal forwards;
 }
 
-@keyframes animate-enter174-frames {
+@keyframes animate-enter231-frames {
   from{}
 to{}
 }
@@ -752,13 +728,13 @@ to{}
   width: 26px;
 }
 
-.ava .x.animate-enter189 {
-  animation: animate-enter189-frames 5.00s linear 0.00s 1 normal forwards;
+.ava .x.animate-enter246 {
+  animation: animate-enter246-frames 5.00s linear 0.00s 1 normal forwards;
   display: block;
   transform: rotate(0deg);
 }
 
-@keyframes animate-enter189-frames {
+@keyframes animate-enter246-frames {
   from{transform: rotate(0deg);
 }
 to{transform: rotate(359deg);
@@ -778,7 +754,7 @@ to{transform: rotate(359deg);
 }
 
 .ava .group-2:hover {
-  transform: scale(1.3);
+  transform: translate(0, -5px);
 }
 
 .ava .nextproject {
@@ -814,13 +790,13 @@ to{transform: rotate(359deg);
   width: 1238px;
 }
 
-.ava .path-5-2.animate-enter175 {
-  animation: animate-enter175-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .path-5-2.animate-enter232 {
+  animation: animate-enter232-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   transform: scaleX(0);
 }
 
-@keyframes animate-enter175-frames {
+@keyframes animate-enter232-frames {
   from{opacity: 1;
 transform: scaleX(0);
 }
@@ -839,13 +815,13 @@ transform: scaleX(1);
   width: 1238px;
 }
 
-.ava .getty-images-946509292.animate-enter173 {
-  animation: animate-enter173-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .getty-images-946509292.animate-enter230 {
+  animation: animate-enter230-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter173-frames {
+@keyframes animate-enter230-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -854,14 +830,14 @@ transform: translate(0,0);
 }
 }
 
-.ava .getty-images-946509292-1.animate-enter172 {
-  animation: animate-enter172-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .getty-images-946509292-1.animate-enter229 {
+  animation: animate-enter229-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter172-frames {
+@keyframes animate-enter229-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }
@@ -878,13 +854,13 @@ transform: translate(0,0);
   min-width: 463px;
 }
 
-.ava .group-2-1.animate-enter188 {
-  animation: animate-enter188-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .group-2-1.animate-enter245 {
+  animation: animate-enter245-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter188-frames {
+@keyframes animate-enter245-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -893,14 +869,14 @@ filter: none;
 }
 }
 
-.ava .hi.animate-enter191 {
-  animation: animate-enter191-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.ava .hi.animate-enter248 {
+  animation: animate-enter248-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   filter: blur(10px);
   opacity: 0;
 }
 
-@keyframes animate-enter191-frames {
+@keyframes animate-enter248-frames {
   from{opacity: 0;
 filter: blur(10px);
 }
@@ -910,7 +886,7 @@ filter: none;
 }
 
 .ava .hi:hover {
-  transform: scale(1.3);
+  transform: translate(0, -20px);
 }
 
 .ava .flex-row-3 {
@@ -941,14 +917,14 @@ filter: none;
   width: 33px;
 }
 
-.ava .image.animate-enter190 {
-  animation: animate-enter190-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+.ava .image.animate-enter247 {
+  animation: animate-enter247-frames 1.50s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
   transform: translate(0, 25px);
 }
 
-@keyframes animate-enter190-frames {
+@keyframes animate-enter247-frames {
   from{opacity: 0;
 transform: translate(0, 25px);
 }

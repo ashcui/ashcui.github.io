@@ -1,26 +1,45 @@
 :root { 
-  --black: #000000;
+  --base-shade--100: #000000;
+  --base-shade--70: #000000b2;
+  --border--border-color-default: #0000001f;
   --cod-gray: #090909;
   --dove-gray: #707070;
-  --eerie-black: #202020;
+  --eerie-black: #1c1c1c;
+  --eerie-black-2: #202020;
+  --gold: #ffd600;
+  --gray110: #474747;
+  --gray125: #252525;
+  --licorice: #141414;
+  --log-cabin: #212020;
   --mercury: #e7e7e7;
+  --mercury-2: #e6e6e6;
   --neutral-70: #6c6865;
-  --onyx: #383838;
+  --shark: #262626;
+  --silver: #c0c0c0;
   --silver-chalice: #afafaf;
+  --stroke-color: #eff0f6;
+  --tuatara: #363636;
   --white: #ffffff;
  
-  --font-size-l: 24px;
+  --font-size-l: 20px;
   --font-size-m: 18px;
   --font-size-s: 16px;
-  --font-size-xl: 36px;
-  --font-size-xs: 12px;
-  --font-size-xxl: 48px;
-  --font-size-xxxl: 120px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 32px;
+  --font-size-xxxl: 36px;
+  --font-size-xxxxl: 64px;
  
   --font-family-archivoexpanded-bold: "ArchivoExpanded-Bold", Helvetica;
+  --font-family-helvetica-bold: "Helvetica-Bold", Helvetica;
   --font-family-inter: "Inter", Helvetica;
+  --font-family-inter-black: "Inter-Black", Helvetica;
+  --font-family-inter-extrabold: "Inter-ExtraBold", Helvetica;
+  --font-family-inter-medium: "Inter-Medium", Helvetica;
+  --font-family-inter-mediumitalic: "Inter-MediumItalic", Helvetica;
+  --font-family-inter-regular: "Inter-Regular", Helvetica;
   --font-family-lexend_mega: "Lexend Mega", Helvetica;
-  --font-family-manrope-extrabold: "Manrope-ExtraBold", Helvetica;
+  --font-family-lexend_mega-bold: "Lexend Mega-Bold", Helvetica;
+  --font-family-lexend_mega-medium: "Lexend Mega-Medium", Helvetica;
   --font-family-manrope-extralight_bold: "Manrope-ExtraLight_Bold", Helvetica;
   --font-family-manrope-extralight_regular: "Manrope-ExtraLight_Regular", Helvetica;
   --font-family-manrope-regular: "Manrope-Regular", Helvetica;
@@ -28,9 +47,9 @@
   --font-family-nats-regular: "NATS-Regular", Helvetica;
   --font-family-pingfangsc-light: "PingFangSC-Light", Helvetica;
   --font-family-pingfangsc-regular: "PingFangSC-Regular", Helvetica;
-  --font-family-pingfangsc-semibold: "PingFangSC-Semibold", Helvetica;
   --font-family-source_sans_pro: "Source Sans Pro", Helvetica;
-  --font-family-source_sans_pro-italic: "Source Sans Pro-Italic", Helvetica;
+  --font-family-source_sans_pro-bold: "Source Sans Pro-Bold", Helvetica;
+  --font-family-source_sans_pro-semibold: "Source Sans Pro-SemiBold", Helvetica;
 }
 .h3 {
   font-family: var(--font-family-manrope-regular);
@@ -40,10 +59,10 @@
   letter-spacing: 0;
 }
 
-.nats-regular-normal-white-36px {
-  color: var(--white);
-  font-family: var(--font-family-nats-regular);
-  font-size: var(--font-size-xl);
+.sourcesanspro-normal-granite-gray-20px {
+  color: var(--neutral-70);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 400;
 }
@@ -56,12 +75,28 @@
   font-weight: 700;
 }
 
-.sourcesanspro-normal-granite-gray-16px {
-  color: var(--neutral-70);
-  font-family: var(--font-family-source_sans_pro);
-  font-size: var(--font-size-s);
+.inter-bold-black-32px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nats-regular-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-nats-regular);
+  font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 400;
+}
+
+.inter-medium-black-27-9px {
+  color: var(--base-shade--70);
+  font-family: var(--font-family-inter-medium);
+  font-size: 27.9px;
+  font-style: normal;
+  font-weight: 500;
 }
 
 .manrope-extralightregular-normal-mercury-18px {
@@ -72,6 +107,22 @@
   font-weight: 400;
 }
 
+.inter-bold-black-47-8px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter);
+  font-size: 47.8px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-black-24px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
 .sourcesanspro-normal-white-16px {
   color: var(--white);
   font-family: var(--font-family-source_sans_pro);
@@ -80,18 +131,42 @@
   font-weight: 400;
 }
 
-.manrope-semi-bold-dove-gray-12px {
-  color: var(--dove-gray);
-  font-family: var(--font-family-manrope-semibold);
-  font-size: var(--font-size-xs);
+.lexendmega-bold-silver-chalice-24px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-lexend_mega-bold);
+  font-size: var(--font-size-xl);
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
+}
+
+.inter-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-black-20px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sourcesanspro-normal-black-16px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-s);
+  font-style: italic;
+  font-weight: 400;
 }
 
 .manrope-extralight-bold-white-120px {
   color: var(--white);
   font-family: var(--font-family-manrope-extralight_bold);
-  font-size: var(--font-size-xxxl);
+  font-size: 120px;
   font-style: normal;
   font-weight: 700;
 }
@@ -110,12 +185,108 @@
   font-size: var(--font-size-m);
 }
 
-.manrope-semi-bold-white-24px {
-  color: var(--white);
+.inter-bold-black-40px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-regular-normal-granite-gray-20px {
+  color: var(--neutral-70);
+  font-family: var(--font-family-inter-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.manrope-semi-bold-dove-gray-12px {
+  color: var(--dove-gray);
   font-family: var(--font-family-manrope-semibold);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-medium-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-medium-black-36px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.sourcesanspro-bold-granite-gray-20px {
+  color: var(--neutral-70);
+  font-family: var(--font-family-source_sans_pro-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.lexendmega-medium-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-lexend_mega-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.sourcesanspro-bold-granite-gray-36px {
+  color: var(--neutral-70);
+  font-family: var(--font-family-source_sans_pro-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-regular-normal-black-16px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sourcesanspro-semi-bold-eerie-black-20px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-source_sans_pro-semibold);
   font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 600;
+}
+
+.lexendmega-normal-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-lexend_mega);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sourcesanspro-normal-white-16px-2 {
+  color: var(--white);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-s);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.inter-black-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-inter-black);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 900;
 }
 
 .inter-bold-white-90px {
@@ -126,58 +297,66 @@
   font-weight: 700;
 }
 
-.sourcesanspro-italic-normal-white-16px {
+.inter-bold-white-32px {
   color: var(--white);
-  font-family: var(--font-family-source_sans_pro-italic);
-  font-size: var(--font-size-s);
-  font-style: italic;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-extra-extra-bold-black-64px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter-extrabold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-regular-normal-gravel-20px {
+  color: var(--gray110);
+  font-family: var(--font-family-inter-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
   font-weight: 400;
 }
 
-.manrope-extra-extra-bold-white-120px {
-  color: var(--white);
-  font-family: var(--font-family-manrope-extrabold);
-  font-size: var(--font-size-xxxl);
+.lexendmega-normal-tuatara-18px {
+  color: var(--tuatara);
+  font-family: var(--font-family-lexend_mega);
+  font-size: var(--font-size-m);
   font-style: normal;
-  font-weight: 800;
+  font-weight: 400;
 }
 
-.manrope-extra-extra-bold-onyx-120px {
-  color: var(--onyx);
-  font-family: var(--font-family-manrope-extrabold);
-  font-size: var(--font-size-xxxl);
-  font-style: normal;
-  font-weight: 800;
-}
-
-.lexendmega-medium-silver-chalice-24px {
+.lexendmega-normal-silver-chalice-18px {
   color: var(--silver-chalice);
   font-family: var(--font-family-lexend_mega);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-m);
   font-style: normal;
-  font-weight: 500;
+  font-weight: 400;
 }
 
-.inter-bold-black-24px {
-  color: var(--black);
-  font-family: var(--font-family-inter);
-  font-size: var(--font-size-l);
+.helvetica-bold-gravel-128px {
+  color: var(--gray110);
+  font-family: var(--font-family-helvetica-bold);
+  font-size: 128px;
   font-style: normal;
   font-weight: 700;
 }
 
-.inter-bold-black-32px {
-  color: var(--black);
+.inter-bold-black-64px {
+  color: var(--base-shade--100);
   font-family: var(--font-family-inter);
-  font-size: 32px;
+  font-size: var(--font-size-xxxxl);
   font-style: normal;
   font-weight: 700;
 }
 
-.inter-extra-bold-white-32px {
-  color: var(--white);
-  font-family: var(--font-family-inter);
-  font-size: 32px;
+.sourcesanspro-normal-granite-gray-24px {
+  color: var(--neutral-70);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xl);
   font-style: normal;
-  font-weight: 800;
+  font-weight: 400;
 }

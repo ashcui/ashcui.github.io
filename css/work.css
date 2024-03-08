@@ -2,128 +2,104 @@
 
 .work {
   align-items: center;
-  background-color: var(--eerie-black);
+  background-color: var(--eerie-black-2);
   display: flex;
   flex-direction: column;
   height: 10184px;
-  padding: 73px 95px;
   width: 1440px;
 }
 
-.work .image-container {
-  align-items: center;
-  align-self: flex-start;
-  display: flex;
-  margin-left: 7px;
-  min-width: 1217px;
-}
-
 .work .image-46:hover {
-  transform: scale(1.3);
+  transform: scale(1.5);
 }
 
 .work .image-47:hover {
-  transform: scale(1.3);
+  transform: scale(1.5);
 }
 
 .work .image-48:hover {
-  transform: scale(1.3);
+  transform: scale(1.5);
 }
 
 .work .title {
-  align-self: flex-start;
   letter-spacing: 0;
   line-height: 140px;
-  margin-left: 1px;
-  margin-top: 100px;
+  margin-right: 23.0px;
+  margin-top: 77px;
   opacity: 0;
   white-space: nowrap;
+  width: 1225px;
 }
 
-.work .title.animate-enter33 {
-  animation: animate-enter33-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .title.animate-enter94 {
+  animation: animate-enter94-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter33-frames {
+@keyframes animate-enter94-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321973 {
+.work .group-427322037 {
   cursor: pointer;
   height: 644px;
   margin-top: 63px;
   opacity: 0;
   position: relative;
-  transition: all 0.5s ease-in-out;
+  transition: all 0.3s ease-in-out;
   width: 1238px;
 }
 
-.work .group-427321973.animate-enter41 {
-  animation: animate-enter41-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .group-427322037.animate-enter99 {
+  animation: animate-enter99-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter41-frames {
+@keyframes animate-enter99-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321973:hover {
-  transform: scale(1.02);
+.work .group-427322037:hover {
+  transform: scale(1.05);
 }
 
-.work .frame-427322289 {
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
+.work .frame-4273222 {
+  height: 550px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1237px;
 }
 
-.work .frame-427322289.animate-enter40 {
-  animation: animate-enter40-frames 2.00s ease-in-out 0.00s 1 normal forwards;
-  display: block;
-  opacity: 0;
-  transform: translate(0, 25px);
+.work .toast-website-buil {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 573px;
+  width: 1017px;
 }
 
-@keyframes animate-enter40-frames {
-  from{opacity: 0;
-transform: translate(0, 25px);
-}
-to{opacity: 1;
-transform: translate(0,0);
-}
-}
-
-.work .group-427321974 {
-  cursor: pointer;
-  height: 645px;
-  margin-top: 93px;
-  opacity: 0;
-  position: relative;
-  transition: all 0.5s ease-in-out;
-  width: 1238px;
-}
-
-.work .group-427321974.animate-enter42 {
-  animation: animate-enter42-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .group-427321956.animate-enter100 {
+  animation: animate-enter100-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter42-frames {
+@keyframes animate-enter100-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321974:hover {
-  transform: scale(1.02);
+.work .group-427321956:hover {
+  transform: scale(1.05);
 }
 
 .work .brand {
@@ -135,30 +111,20 @@ to{opacity: 1;
   width: 1126px;
 }
 
-.work .group-427321975 {
-  cursor: pointer;
-  height: 647px;
-  margin-top: 91px;
-  opacity: 0;
-  position: relative;
-  transition: all 0.5s ease-in-out;
-  width: 1238px;
-}
-
-.work .group-427321975.animate-enter34 {
-  animation: animate-enter34-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .group-427321960.animate-enter95 {
+  animation: animate-enter95-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter34-frames {
+@keyframes animate-enter95-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321975:hover {
-  transform: scale(1.02);
+.work .group-427321960:hover {
+  transform: scale(1.05);
 }
 
 .work .toast-consumer-bra {
@@ -170,115 +136,94 @@ to{opacity: 1;
   width: 1017px;
 }
 
-.work .group-427321976 {
-  cursor: pointer;
-  height: 645px;
-  margin-right: 1.0px;
-  margin-top: 91px;
-  opacity: 0;
-  position: relative;
-  transition: all 0.5s ease-in-out;
-  width: 1239px;
-}
-
-.work .group-427321976.animate-enter35 {
-  animation: animate-enter35-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .group-427321959.animate-enter96 {
+  animation: animate-enter96-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter35-frames {
+@keyframes animate-enter96-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321976:hover {
-  transform: scale(1.02);
+.work .group-427321959:hover {
+  transform: scale(1.05);
 }
 
-.work .group-427321977 {
-  cursor: pointer;
-  height: 645px;
-  margin-right: 1.0px;
-  margin-top: 90px;
-  opacity: 0;
-  position: relative;
-  transition: all 0.5s ease-in-out;
-  width: 1239px;
-}
-
-.work .group-427321977.animate-enter36 {
-  animation: animate-enter36-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .group-427321958.animate-enter97 {
+  animation: animate-enter97-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter36-frames {
+@keyframes animate-enter97-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321977:hover {
-  transform: scale(1.02);
+.work .group-427321958:hover {
+  transform: scale(1.05);
 }
 
-.work .group-427321978 {
+.work .group-427321961 {
   cursor: pointer;
   height: 647px;
+  margin-left: 2.0px;
   margin-top: 91px;
   opacity: 0;
   position: relative;
-  transition: all 0.5s ease-in-out;
-  width: 1238px;
+  transition: all 0.3s ease-in-out;
+  width: 1240px;
 }
 
-.work .group-427321978.animate-enter37 {
-  animation: animate-enter37-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .group-427321961.animate-enter98 {
+  animation: animate-enter98-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter37-frames {
+@keyframes animate-enter98-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321978:hover {
-  transform: scale(1.02);
+.work .group-427321961:hover {
+  transform: scale(1.05);
 }
 
 .work .baunfire-benchling {
   top: 572px;
 }
 
-.work .group-427321979 {
+.work .group-427322038 {
   cursor: pointer;
   height: 646px;
   margin-left: 3.0px;
   margin-top: 90px;
   opacity: 0;
   position: relative;
-  transition: all 0.5s ease-in-out;
+  transition: all 0.3s ease-in-out;
   width: 1243px;
 }
 
-.work .group-427321979.animate-enter47 {
-  animation: animate-enter47-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .group-427322038.animate-enter105 {
+  animation: animate-enter105-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter47-frames {
+@keyframes animate-enter105-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321979:hover {
-  transform: scale(1.02);
+.work .group-427322038:hover {
+  transform: scale(1.05);
 }
 
 .work .baunfire-dlight {
@@ -294,62 +239,62 @@ to{opacity: 1;
   width: 1240px;
 }
 
-.work .group-427321980 {
-  align-self: flex-end;
+.work .group-427322039 {
   cursor: pointer;
   height: 645px;
+  margin-left: 5.0px;
   margin-top: 90px;
   opacity: 0;
   position: relative;
-  transition: all 0.5s ease-in-out;
+  transition: all 0.3s ease-in-out;
   width: 1245px;
 }
 
-.work .group-427321980.animate-enter48 {
-  animation: animate-enter48-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .group-427322039.animate-enter106 {
+  animation: animate-enter106-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter48-frames {
+@keyframes animate-enter106-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321980:hover {
-  transform: scale(1.02);
+.work .group-427322039:hover {
+  transform: scale(1.05);
 }
 
 .work .baunfire-plex {
   top: 570px;
 }
 
-.work .group-427321981 {
+.work .group-427322040 {
   cursor: pointer;
   height: 645px;
   margin-left: 2.0px;
   margin-top: 91px;
   opacity: 0;
   position: relative;
-  transition: all 0.5s ease-in-out;
+  transition: all 0.3s ease-in-out;
   width: 1242px;
 }
 
-.work .group-427321981.animate-enter49 {
-  animation: animate-enter49-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .group-427322040.animate-enter107 {
+  animation: animate-enter107-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter49-frames {
+@keyframes animate-enter107-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321981:hover {
-  transform: scale(1.02);
+.work .group-427322040:hover {
+  transform: scale(1.05);
 }
 
 .work .image-54 {
@@ -362,51 +307,51 @@ to{opacity: 1;
 }
 
 .work .visual {
-  align-self: flex-start;
   letter-spacing: 0;
   line-height: 140px;
-  margin-left: 1px;
+  margin-right: 23.0px;
   margin-top: 90px;
   opacity: 0;
   white-space: nowrap;
+  width: 1225px;
 }
 
-.work .visual.animate-enter43 {
-  animation: animate-enter43-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .visual.animate-enter101 {
+  animation: animate-enter101-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter43-frames {
+@keyframes animate-enter101-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321982 {
+.work .group-427322041 {
   cursor: pointer;
   height: 644px;
   margin-top: 63px;
   opacity: 0;
   position: relative;
-  transition: all 0.5s ease-in-out;
+  transition: all 0.3s ease-in-out;
   width: 1238px;
 }
 
-.work .group-427321982.animate-enter45 {
-  animation: animate-enter45-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .group-427322041.animate-enter103 {
+  animation: animate-enter103-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter45-frames {
+@keyframes animate-enter103-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321982:hover {
-  transform: scale(1.02);
+.work .group-427322041:hover {
+  transform: scale(1.05);
 }
 
 .work .exhibition-in-the-memory-of-paul-rand {
@@ -418,56 +363,57 @@ to{opacity: 1;
   width: 1017px;
 }
 
-.work .group-427321983 {
+.work .group-427321964 {
   cursor: pointer;
   height: 645px;
   margin-top: 93px;
   opacity: 0;
   position: relative;
-  transition: all 0.5s ease-in-out;
+  transition: all 0.3s ease-in-out;
   width: 1238px;
 }
 
-.work .group-427321983.animate-enter46 {
-  animation: animate-enter46-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .group-427321964.animate-enter104 {
+  animation: animate-enter104-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter46-frames {
+@keyframes animate-enter104-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321983:hover {
-  transform: scale(1.02);
+.work .group-427321964:hover {
+  transform: scale(1.05);
 }
 
-.work .group-427321984 {
+.work .group-427321962 {
   cursor: pointer;
   height: 647px;
+  margin-left: 2.0px;
   margin-top: 91px;
   opacity: 0;
   position: relative;
-  transition: all 0.5s ease-in-out;
-  width: 1238px;
+  transition: all 0.3s ease-in-out;
+  width: 1240px;
 }
 
-.work .group-427321984.animate-enter44 {
-  animation: animate-enter44-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .group-427321962.animate-enter102 {
+  animation: animate-enter102-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
 }
 
-@keyframes animate-enter44-frames {
+@keyframes animate-enter102-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .group-427321984:hover {
-  transform: scale(1.02);
+.work .group-427321962:hover {
+  transform: scale(1.05);
 }
 
 .work .exhibition-a-great-conversation {
@@ -479,35 +425,34 @@ to{opacity: 1;
   width: 1017px;
 }
 
-.work .image-container-1 {
+.work .image-container {
   align-items: flex-end;
   display: flex;
   gap: 60px;
-  margin-right: 44.0px;
-  margin-top: 269px;
+  margin-top: 227px;
   min-width: 662px;
 }
 
-.work .image-44.animate-enter38 {
-  animation: animate-enter38-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .image-44.animate-enter108 {
+  animation: animate-enter108-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter38-frames {
+@keyframes animate-enter108-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
 }
 }
 
-.work .image-45.animate-enter39 {
-  animation: animate-enter39-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+.work .image-45.animate-enter109 {
+  animation: animate-enter109-frames 2.00s ease-in-out 0.00s 1 normal forwards;
   display: block;
   opacity: 0;
 }
 
-@keyframes animate-enter39-frames {
+@keyframes animate-enter109-frames {
   from{opacity: 0;
 }
 to{opacity: 1;
@@ -515,7 +460,7 @@ to{opacity: 1;
 }
 
 .work .image-45:hover {
-  transform: translate(0, -30px);
+  transform: scale(1.3);
 }
 
 .work .baunfire {
@@ -524,14 +469,6 @@ to{opacity: 1;
   line-height: normal;
   position: absolute;
   width: 1017px;
-}
-
-.work .frame {
-  height: 550px;
-  left: 1px;
-  position: absolute;
-  top: 0;
-  width: 1237px;
 }
 
 .work .personal {
