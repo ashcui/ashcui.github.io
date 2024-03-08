@@ -1,0 +1,28 @@
+:root { 
+  --mercury: #e7e7e7;
+  --white: #ffffff;
+ 
+  --font-size-l: 22px;
+  --font-size-m: 18px;
+  --font-size-xl: 80px;
+  --font-size-xxl: 120px;
+ 
+  --font-family-manrope-extralight_bold: "Manrope-ExtraLight_Bold", Helvetica;
+  --font-family-manrope-extralight_regular: "Manrope-ExtraLight_Regular", Helvetica;
+  --font-family-manrope-regular: "Manrope-Regular", Helvetica;
+}
+.h3 {
+  font-family: var(--font-family-manrope-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.manrope-extralightregular-normal-mercury-18px {
+  color: var(--mercury);
+  font-family: var(--font-family-manrope-extralight_regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,448 @@
+/* screen - index */
+
+.index {
+  align-items: center;
+  background-color: #202020;
+  display: flex;
+  flex-direction: column;
+  height: 5445px;
+  width: 1440px;
+}
+
+.index .frame-427322291 {
+  align-items: center;
+  background-color: #212020;
+  display: flex;
+  gap: 821px;
+  height: 118px;
+  padding: 0 102px;
+  width: 1440px;
+}
+
+.index .image-46 {
+  cursor: pointer;
+  height: 22px;
+  object-fit: cover;
+  transition: all 0.3s ease-in-out;
+  width: 151px;
+}
+
+.index .image-46:hover {
+  transform: scale(1.5);
+}
+
+.index .group-427322032 {
+  align-items: flex-start;
+  display: flex;
+  gap: 63px;
+  min-width: 245px;
+}
+
+.index .image-47 {
+  cursor: pointer;
+  height: 16px;
+  object-fit: cover;
+  transition: all 0.3s ease-in-out;
+  width: 85px;
+}
+
+.index .image-47:hover {
+  transform: scale(1.5);
+}
+
+.index .image-48 {
+  cursor: pointer;
+  height: 16px;
+  object-fit: cover;
+  transition: all 0.3s ease-in-out;
+  width: 97px;
+}
+
+.index .image-48:hover {
+  transform: scale(1.5);
+}
+
+.index .group-container {
+  height: 839px;
+  margin-right: 5.0px;
+  margin-top: 78px;
+  position: relative;
+  width: 1243px;
+}
+
+.index .group-427322035 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 124px;
+  left: 0;
+  min-height: 839px;
+  position: absolute;
+  top: 0;
+  width: 1243px;
+}
+
+.index .ui-ux-designer-p {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 140px;
+  min-height: 700px;
+  opacity: 0;
+  width: 1225px;
+}
+
+.index .span {
+  color: var(--white);
+}
+
+.index .span-1 {
+  color: #5e5e5e;
+}
+
+.index .ui-ux-designer-p.animate-enter {
+  animation: animate-enter-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .image-41 {
+  align-self: flex-end;
+  cursor: pointer;
+  display: block;
+  height: 15px;
+  margin-right: 2px;
+  object-fit: cover;
+  opacity: 0;
+  transition: all 0.3s ease-in-out;
+  width: 125px;
+}
+
+.index .image-41.animate-enter1 {
+  animation: animate-enter1-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .image-41:hover {
+  transform: scale(1.5);
+}
+
+.index .group-427321953 {
+  height: 435px;
+  left: 1205px;
+  opacity: 0;
+  position: absolute;
+  top: 132px;
+  transform: scale(0.1);
+  width: 16px;
+}
+
+.index .group-427321953.animate-enter9 {
+  animation: animate-enter9-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: scale(0.1);
+}
+
+@keyframes animate-enter9-frames {
+  from{opacity: 0;
+transform: scale(0.1);
+}
+to{opacity: 1;
+transform: scale(1);
+}
+}
+
+.index .line-1186 {
+  height: 348px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.index .image-50 {
+  height: 64px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 371px;
+  width: 16px;
+}
+
+.index .group-427322036 {
+  cursor: pointer;
+  height: 644px;
+  margin-top: 91px;
+  opacity: 0;
+  position: relative;
+  transition: all 0.3s ease-in-out;
+  width: 1238px;
+}
+
+.index .group-427322036.animate-enter6 {
+  animation: animate-enter6-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .group-427322036:hover {
+  transform: scale(1.05);
+}
+
+.index .frame-42732228 {
+  height: 550px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1237px;
+}
+
+.index .toast-website-buil {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 573px;
+  width: 1017px;
+}
+
+.index .group-427321956 {
+  cursor: pointer;
+  height: 645px;
+  margin-top: 93px;
+  opacity: 0;
+  position: relative;
+  transition: all 0.3s ease-in-out;
+  width: 1238px;
+}
+
+.index .group-427321956.animate-enter7 {
+  animation: animate-enter7-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .group-427321956:hover {
+  transform: scale(1.05);
+}
+
+.index .toast-branded-onli {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 570px;
+  width: 1126px;
+}
+
+.index .group-427321960 {
+  cursor: pointer;
+  height: 647px;
+  margin-left: 2.0px;
+  margin-top: 91px;
+  opacity: 0;
+  position: relative;
+  transition: all 0.3s ease-in-out;
+  width: 1240px;
+}
+
+.index .group-427321960.animate-enter8 {
+  animation: animate-enter8-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .group-427321960:hover {
+  transform: scale(1.05);
+}
+
+.index .toast-consumer-bra {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 572px;
+  width: 1017px;
+}
+
+.index .group-427321959 {
+  cursor: pointer;
+  height: 645px;
+  margin-right: 1.0px;
+  margin-top: 91px;
+  opacity: 0;
+  position: relative;
+  transition: all 0.3s ease-in-out;
+  width: 1239px;
+}
+
+.index .group-427321959.animate-enter2 {
+  animation: animate-enter2-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .group-427321959:hover {
+  transform: scale(1.05);
+}
+
+.index .baunfire-google-san-jose {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 570px;
+  width: 1017px;
+}
+
+.index .image-42 {
+  height: 549px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1237px;
+}
+
+.index .group-427321958 {
+  cursor: pointer;
+  height: 645px;
+  margin-left: 1.0px;
+  margin-top: 90px;
+  opacity: 0;
+  position: relative;
+  transition: all 0.3s ease-in-out;
+  width: 1241px;
+}
+
+.index .group-427321958.animate-enter3 {
+  animation: animate-enter3-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .group-427321958:hover {
+  transform: scale(1.05);
+}
+
+.index .personal-ava {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 570px;
+  width: 1017px;
+}
+
+.index .image-43 {
+  height: 550px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1237px;
+}
+
+.index .image-container {
+  align-items: flex-end;
+  display: flex;
+  gap: 60px;
+  margin-right: 44.0px;
+  margin-top: 197px;
+  min-width: 662px;
+}
+
+.index .image-44 {
+  display: block;
+  height: 230px;
+  object-fit: cover;
+  opacity: 0;
+  width: 412px;
+}
+
+.index .image-44.animate-enter4 {
+  animation: animate-enter4-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .image-45 {
+  cursor: pointer;
+  display: block;
+  height: 251px;
+  object-fit: cover;
+  opacity: 0;
+  transition: all 0.3s ease-in-out;
+  width: 190px;
+}
+
+.index .image-45.animate-enter5 {
+  animation: animate-enter5-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.index .image-45:hover {
+  transform: scale(1.3);
+}

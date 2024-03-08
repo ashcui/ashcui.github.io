@@ -1,0 +1,68 @@
+:root { 
+  --base-shade--100: #000000;
+  --eerie-black: #1c1c1c;
+  --gray125: #252525;
+  --neutral-70: #6c6865;
+  --silver-chalice: #afafaf;
+  --white: #ffffff;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 20px;
+  --font-size-s: 16px;
+  --font-size-xl: 32px;
+  --font-size-xxl: 36px;
+  --font-size-xxxl: 64px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-inter-regular: "Inter-Regular", Helvetica;
+  --font-family-lexend_mega: "Lexend Mega", Helvetica;
+  --font-family-source_sans_pro: "Source Sans Pro", Helvetica;
+  --font-family-source_sans_pro-semibold: "Source Sans Pro-SemiBold", Helvetica;
+}
+.sourcesanspro-normal-granite-gray-20px {
+  color: var(--neutral-70);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-black-20px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-regular-normal-black-16px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sourcesanspro-semi-bold-eerie-black-20px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-source_sans_pro-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-bold-black-32px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.lexendmega-bold-silver-chalice-24px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-lexend_mega);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}

@@ -1,0 +1,17 @@
+:root { 
+  --base-shade--100: #000000;
+  --white: #ffffff;
+ 
+  --font-size-l: 90px;
+  --font-size-m: 36px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-nats-regular: "NATS-Regular", Helvetica;
+}
+.nats-regular-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-nats-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}

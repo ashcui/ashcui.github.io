@@ -1,0 +1,167 @@
+:root { 
+  --base-shade--100: #000000;
+  --base-shade--70: #000000b2;
+  --border--border-color-default: #0000001f;
+  --gray110: #474747;
+  --licorice: #141414;
+  --mercury: #e6e6e6;
+  --neutral-70: #6c6865;
+  --silver: #c0c0c0;
+  --silver-chalice: #afafaf;
+  --stroke-color: #eff0f6;
+  --tuatara: #363636;
+  --white: #ffffff;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 20px;
+  --font-size-s: 18px;
+  --font-size-xl: 27.9px;
+  --font-size-xs: 16px;
+  --font-size-xxl: 32px;
+  --font-size-xxxl: 64px;
+ 
+  --font-family-helvetica-bold: "Helvetica-Bold", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-inter-black: "Inter-Black", Helvetica;
+  --font-family-inter-regular: "Inter-Regular", Helvetica;
+  --font-family-inter-semibold: "Inter-SemiBold", Helvetica;
+  --font-family-lexend_mega: "Lexend Mega", Helvetica;
+  --font-family-lexend_mega-medium: "Lexend Mega-Medium", Helvetica;
+  --font-family-lexend_mega-regular: "Lexend Mega-Regular", Helvetica;
+  --font-family-source_sans_pro: "Source Sans Pro", Helvetica;
+}
+.sourcesanspro-normal-granite-gray-20px {
+  color: var(--neutral-70);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-black-24px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sourcesanspro-normal-black-16px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xs);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.inter-bold-black-47-8px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter);
+  font-size: 47.8px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-black-40px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-regular-normal-granite-gray-20px {
+  color: var(--neutral-70);
+  font-family: var(--font-family-inter-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-medium-black-27-9px {
+  color: var(--base-shade--70);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-medium-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-bold-black-32px {
+  color: var(--base-shade--100);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.lexendmega-medium-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-lexend_mega-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.lexendmega-bold-silver-chalice-24px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-lexend_mega);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-black-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-inter-black);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.inter-regular-normal-gravel-20px {
+  color: var(--gray110);
+  font-family: var(--font-family-inter-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexendmega-regular-normal-tuatara-18px {
+  color: var(--tuatara);
+  font-family: var(--font-family-lexend_mega-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lexendmega-regular-normal-silver-chalice-18px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-lexend_mega-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helvetica-bold-gravel-128px {
+  color: var(--gray110);
+  font-family: var(--font-family-helvetica-bold);
+  font-size: 128px;
+  font-style: normal;
+  font-weight: 700;
+}

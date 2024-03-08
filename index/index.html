@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
+    <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
+    <meta name="viewport" content="width=1440, maximum-scale=1.0" />
+    <link rel="shortcut icon" href="./img/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #202020">
+    <input type="hidden" id="anPageName" name="page" value="index" />
+    <div class="container-center-horizontal">
+      <div class="index screen">
+        <div class="frame-427322291">
+          <a href="https://ashcui.com/" target="_blank"
+            ><img class="image-46" src="img/image-46.png" alt="image 46" />
+          </a>
+          <div class="group-427322032">
+            <a href="https://ashcui.com/work" target="_blank"
+              ><img class="image-47" src="img/image-47.png" alt="image 47" /> </a
+            ><a href="https://ashcui.com/about" target="_blank"
+              ><img class="image-48" src="img/image-48.png" alt="image 48" />
+            </a>
+          </div>
+        </div>
+        <div class="group-container">
+          <div class="group-427322035">
+            <h1 class="ui-ux-designer-p animate-enter" show-on-scroll>
+              <span class="span">UI / UX designer +<br />Product Manager + </span><span class="span-1"></span
+              ><span class="span">Creative Director<br /></span
+              ><span class="span-1">with a passion for<br />Digital Media</span>
+            </h1>
+            <a href="https://ashcui.com/work" target="_blank" class="align-self-flex-end"
+              ><img class="image-41 animate-enter1" show-on-scroll src="img/image-41.png" alt="image 41" />
+            </a>
+          </div>
+          <div class="group-427321953 animate-enter9" show-on-scroll>
+            <img class="line-1186" src="img/line-1186.svg" alt="Line 1186" />
+            <img class="image-50" src="img/image-50@2x.png" alt="image 50" />
+          </div>
+        </div>
+        <a href="https://ashcui.com/website-builder" target="_blank">
+          <div class="group-427322036 animate-enter6" show-on-scroll>
+            <img class="frame-42732228" src="img/frame-427322289.png" alt="Frame 427322289" />
+            <p class="toast-website-buil nats-regular-normal-white-36px">
+              Toast - Website Builder (Admin) &amp; Template Design
+            </p>
+          </div></a
+        ><a href="https://ashcui.com/online-ordering-pro" target="_blank">
+          <div class="group-427321956 animate-enter7" show-on-scroll>
+            <img class="frame-42732228" src="img/frame-427322287.png" alt="Frame 427322287" />
+            <p class="toast-branded-onli nats-regular-normal-white-36px">
+              Toast - Branded Online Ordering Pro (Admin) &amp; White Label App (Admin)
+            </p>
+          </div></a
+        ><a href="https://ashcui.com/consumer-brand-style" target="_blank">
+          <div class="group-427321960 animate-enter8" show-on-scroll>
+            <img class="frame-42732228" src="img/frame-427322288.png" alt="Frame 427322288" />
+            <p class="toast-consumer-bra nats-regular-normal-white-36px">
+              Toast - Consumer Brand Style Guide &amp; Takeout App (Design System)
+            </p>
+          </div></a
+        ><a href="https://ashcui.com/google" target="_blank">
+          <div class="group-427321959 animate-enter2" show-on-scroll>
+            <p class="baunfire-google-san-jose nats-regular-normal-white-36px">BAUNFIRE - Google San Jose</p>
+            <img class="image-42" src="img/image-42.png" alt="image 42" /></div></a
+        ><a href="https://ashcui.com/ava" target="_blank">
+          <div class="group-427321958 animate-enter3" show-on-scroll>
+            <div class="personal-ava nats-regular-normal-white-36px">PERSONAL - AVA</div>
+            <img class="image-43" src="img/image-43.png" alt="image 43" /></div
+        ></a>
+        <div class="image-container">
+          <img class="image-44 animate-enter4" show-on-scroll src="img/image-44.png" alt="image 44" />
+          <img class="image-45 animate-enter5" show-on-scroll src="img/image-45.png" alt="image 45" />
+        </div>
+      </div>
+    </div>
+    <script>
+      function ShowOnScroll() {
+        this.toShow = [];
+        this.nextEventY = undefined;
+      }
+
+      ShowOnScroll.prototype.show = function (e) {
+        e.style.display = "";
+      };
+
+      ShowOnScroll.prototype.hide = function (e) {
+        e.style.display = "none";
+      };
+
+      ShowOnScroll.prototype.getTop = function (e) {
+        if (e.Top != undefined && e.Top != 0) {
+          return e.Top;
+        }
+        var top = 0;
+        var iter = e;
+        do {
+          top += iter.offsetTop || 0;
+          iter = iter.offsetParent;
+        } while (iter);
+        e.Top = top;
+        return top;
+      };
+
+      ShowOnScroll.prototype.onScroll = function () {
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        if (this.nextEventY == undefined || this.nextEventY > screenBottom) {
+          return;
+        }
+        this.nextEventY = undefined;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            this.show(e);
+            this.toShow.shift();
+            i--;
+          } else {
+            this.nextEventY = top;
+            break;
+          }
+        }
+      };
+
+      ShowOnScroll.prototype.resetScrolling = function () {
+        // Clear state
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          this.show(e);
+        }
+        this.toShow = [];
+        this.nextEventY == undefined;
+
+        // Collect items
+        var itemsToShowOnScroll = Array.prototype.slice.call(document.getElementsByTagName("*"));
+        itemsToShowOnScroll = itemsToShowOnScroll.filter(function (e) {
+          return e.getAttribute("show-on-scroll") != undefined;
+        });
+        var getTop = this.getTop;
+        itemsToShowOnScroll.sort(function (a, b) {
+          return getTop(a) - getTop(b);
+        });
+        for (var i = 0; i < itemsToShowOnScroll.length; i++) {
+          var e = itemsToShowOnScroll[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            continue;
+          }
+          this.toShow.push(e);
+          this.hide(e);
+          this.nextEventY = this.nextEventY != undefined ? this.nextEventY : top;
+        }
+      };
+
+      ShowOnScroll.prototype.handleEvent = function (e) {
+        switch (e.type) {
+          case "scroll":
+            this.onScroll();
+            break;
+          case "resize":
+            this.resetScrolling();
+            break;
+        }
+      };
+
+      ShowOnScroll.prototype.init = function () {
+        this.resetScrolling();
+        window.addEventListener("scroll", this);
+        window.addEventListener("resize", this);
+      };
+
+      // After anima-src
+      setTimeout(function () {
+        var instShowOnScroll = new ShowOnScroll();
+        instShowOnScroll.init();
+      }, 250);
+    </script>
+  </body>
+</html>

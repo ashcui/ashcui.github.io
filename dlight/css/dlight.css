@@ -1,0 +1,1177 @@
+/* screen - dlight */
+
+.dlight {
+  align-items: center;
+  background-color: #090909;
+  display: flex;
+  flex-direction: column;
+  min-height: 13032px;
+  padding: 0 55px;
+  width: 1440px;
+}
+
+.dlight .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 7238px;
+  width: 1286px;
+}
+
+.dlight .flex-col-1 {
+  align-items: center;
+  gap: 66px;
+  margin-left: 2px;
+  min-height: 94px;
+  width: 1236px;
+}
+
+.dlight .rectangle {
+  background-color: #090909;
+  height: 11px;
+  margin-right: 3.0px;
+  width: 311px;
+}
+
+.dlight .flex-row {
+  align-items: center;
+  display: flex;
+  min-width: 1236px;
+}
+
+.dlight .ashcui {
+  cursor: pointer;
+  height: 17px;
+  width: 124px;
+}
+
+.dlight .work {
+  cursor: pointer;
+  height: 11px;
+  margin-left: 902px;
+  margin-top: 2.0px;
+  transition: all 0.5s ease-in-out;
+  width: 62px;
+}
+
+.dlight .work:hover {
+  transform: translate(0, -5px);
+}
+
+.dlight .about {
+  cursor: pointer;
+  height: 11px;
+  margin-left: 77px;
+  margin-top: 2.0px;
+  transition: all 0.5s ease-in-out;
+  width: 71px;
+}
+
+.dlight .about:hover {
+  transform: translate(0, -5px);
+}
+
+.dlight .title {
+  color: var(--white);
+  font-family: var(--font-family-manrope-extralight_bold);
+  font-size: var(--font-size-xxl);
+  letter-spacing: 0;
+  line-height: 160px;
+  margin-left: 3px;
+  margin-top: 103px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+}
+
+.dlight .title.animate-enter2 {
+  animation: animate-enter2-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter2-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .path-5 {
+  display: block;
+  height: 2px;
+  margin-left: 1.5px;
+  margin-top: 48px;
+  transform: scaleX(0);
+  width: 1237px;
+}
+
+.dlight .path-5.animate-enter19 {
+  animation: animate-enter19-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter19-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
+}
+
+.dlight .flex-row-1 {
+  gap: 979px;
+  height: 80px;
+  margin-left: 3px;
+  margin-top: 6px;
+  min-width: 1283px;
+}
+
+.dlight .number {
+  color: var(--white);
+  font-family: var(--font-family-manrope-extralight_bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 80px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 56px;
+}
+
+.dlight .number.animate-enter7 {
+  animation: animate-enter7-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter7-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .website-design {
+  color: var(--white);
+  font-family: var(--font-family-manrope-extralight_bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 80px;
+  opacity: 0;
+  text-align: center;
+  transform: translate(0, 25px);
+  white-space: nowrap;
+  width: 248px;
+}
+
+.dlight .website-design.animate-enter8 {
+  animation: animate-enter8-frames 2.00s ease-in-out 0.50s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter8-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .flex-col-2 {
+  align-items: flex-start;
+  gap: 141px;
+  margin-top: 51px;
+  min-height: 718px;
+  width: 1240px;
+}
+
+.dlight .full-bleed-lifestyle_1 {
+  height: 550px;
+  opacity: 0;
+  position: relative;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.dlight .full-bleed-lifestyle_1.animate-enter1 {
+  animation: animate-enter1-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter1-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .full-bleed-lifestyle_1-1 {
+  display: block;
+  height: 550px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.dlight .full-bleed-lifestyle_1-1.animate-enter {
+  animation: animate-enter-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .flex-row-2 {
+  gap: 540px;
+  height: 27px;
+  margin-left: 5px;
+  min-width: 1166px;
+}
+
+.dlight .role {
+  display: block;
+  height: 18px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 86px;
+}
+
+.dlight .role.animate-enter9 {
+  animation: animate-enter9-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter9-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .aredesignedwebsitewithpurpose {
+  align-self: flex-end;
+  display: block;
+  height: 23px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 540px;
+}
+
+.dlight .aredesignedwebsitewithpurpose.animate-enter3 {
+  animation: animate-enter3-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter3-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .flex-row-3 {
+  gap: 535px;
+  height: 241px;
+  margin-left: 3px;
+  margin-top: 43px;
+  min-width: 1211px;
+}
+
+.dlight .group {
+  height: 110px;
+  opacity: 0;
+  position: relative;
+  transform: translate(0, 25px);
+  width: 93px;
+}
+
+.dlight .group.animate-enter14 {
+  animation: animate-enter14-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter14-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .ui-design {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dlight .animation {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 80px;
+  white-space: nowrap;
+}
+
+.dlight .illustration {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.dlight .dlight-is-the-leadi {
+  align-self: flex-end;
+  color: var(--mercury);
+  font-weight: 400;
+  line-height: 30px;
+  min-height: 240px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 583px;
+}
+
+.dlight .dlight-is-the-leadi.animate-enter10 {
+  animation: animate-enter10-frames 1.50s ease-in-out 1.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter10-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .flex-col-3 {
+  align-items: flex-end;
+  gap: 148px;
+  margin-left: 2.5px;
+  margin-top: 142px;
+  min-height: 5550px;
+  width: 1237px;
+}
+
+.dlight .overlap-group1 {
+  height: 5397px;
+  margin-right: 4.5px;
+  position: relative;
+  width: 1226px;
+}
+
+.dlight .group-3 {
+  height: 5397px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(0, 25px);
+  width: 1226px;
+}
+
+.dlight .group-3.animate-enter20 {
+  animation: animate-enter20-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter20-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .overlap-group {
+  height: 5397px;
+  position: relative;
+}
+
+.dlight .x4 {
+  background-image: url(../img/dlight-4-B5B7AB61-DC0A-4700-B629-F2A85ADE0E80.png);
+  background-size: 100% 100%;
+  height: 4845px;
+  left: 0;
+  position: absolute;
+  top: 552px;
+  width: 1226px;
+}
+
+.dlight .x2 {
+  height: 651px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1226px;
+}
+
+.dlight .rectangle-1 {
+  background-color: #f9f9f9;
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 658px;
+  width: 1226px;
+}
+
+.dlight .path-5-1 {
+  height: 4px;
+  width: 1237px;
+}
+
+.dlight .path-5-1.animate-enter15 {
+  animation: animate-enter15-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter15-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
+}
+
+.dlight .flex-row-4 {
+  gap: 71px;
+  margin-right: 5.0px;
+  margin-top: 48px;
+  min-width: 1233px;
+}
+
+.dlight .flex-col-4 {
+  align-items: flex-start;
+  min-height: 1511px;
+  width: 581px;
+}
+
+.dlight .thoughtfulbrandstorytelling {
+  display: block;
+  height: 23px;
+  margin-left: 2px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 428px;
+}
+
+.dlight .thoughtfulbrandstorytelling.animate-enter4 {
+  animation: animate-enter4-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter4-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .subpages-are-designe {
+  color: var(--white);
+  font-weight: 400;
+  line-height: 30px;
+  margin-left: 1px;
+  margin-top: 48px;
+  min-height: 120px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 503px;
+}
+
+.dlight .span2 {
+  font-family: var(--font-family-pingfangsc-regular);
+  font-size: var(--font-size-m);
+  letter-spacing: 0;
+}
+
+.dlight .subpages-are-designe.animate-enter11 {
+  animation: animate-enter11-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter11-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .overlap-group2 {
+  height: 1130px;
+  margin-top: 190px;
+  position: relative;
+  width: 581px;
+}
+
+.dlight .x5 {
+  height: 616px;
+  left: 1px;
+  position: absolute;
+  top: 108px;
+  width: 580px;
+}
+
+.dlight .x7-2.animate-enter22 {
+  animation: animate-enter22-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter22-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .x7-1 {
+  display: block;
+}
+
+.dlight .x7-1.animate-enter21 {
+  animation: animate-enter21-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter21-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .dlight_desktop_2 {
+  position: relative;
+}
+
+.dlight .dlight_desktop_2.animate-enter24 {
+  animation: animate-enter24-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter24-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .dlight_desktop_2-1 {
+  display: block;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.dlight .dlight_desktop_2-1.animate-enter23 {
+  animation: animate-enter23-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter23-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .flex-col-5 {
+  align-items: flex-start;
+  gap: 50px;
+  margin-top: 150px;
+  min-height: 72px;
+  width: 1243px;
+}
+
+.dlight .path-5-copy {
+  height: 3px;
+  width: 1243px;
+}
+
+.dlight .path-5-copy.animate-enter17 {
+  animation: animate-enter17-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter17-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
+}
+
+.dlight .brandedillustrations {
+  display: block;
+  height: 18px;
+  margin-left: 5.5px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 305px;
+}
+
+.dlight .brandedillustrations.animate-enter6 {
+  animation: animate-enter6-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter6-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .we-created-custom-il {
+  align-self: flex-start;
+  color: var(--white);
+  font-weight: 400;
+  line-height: 30px;
+  margin-left: 47px;
+  margin-top: 40px;
+  min-height: 180px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 512px;
+}
+
+.dlight .we-created-custom-il.animate-enter13 {
+  animation: animate-enter13-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter13-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .flex-col-6 {
+  align-items: flex-start;
+  margin-left: 4.0px;
+  margin-top: 33px;
+  min-height: 1030px;
+  width: 1243px;
+}
+
+.dlight .x8 {
+  display: block;
+  height: 804px;
+  margin-left: 1.5px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 1235px;
+}
+
+.dlight .x8.animate-enter25 {
+  animation: animate-enter25-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter25-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .path-5-2 {
+  height: 3px;
+  margin-top: 150px;
+  width: 1243px;
+}
+
+.dlight .path-5-2.animate-enter16 {
+  animation: animate-enter16-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter16-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
+}
+
+.dlight .customiconography {
+  display: block;
+  height: 23px;
+  margin-left: 3.5px;
+  margin-top: 50px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 309px;
+}
+
+.dlight .customiconography.animate-enter5 {
+  animation: animate-enter5-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter5-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .a-custom-icon-set-wa {
+  align-self: flex-start;
+  color: var(--white);
+  font-weight: 400;
+  line-height: 30px;
+  margin-left: 47px;
+  margin-top: 36px;
+  min-height: 60px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 512px;
+}
+
+.dlight .a-custom-icon-set-wa.animate-enter12 {
+  animation: animate-enter12-frames 1.50s ease-in-out 0.50s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter12-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .typography {
+  display: block;
+  height: 805px;
+  margin-left: 2.0px;
+  margin-top: 95px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 1238px;
+}
+
+.dlight .typography.animate-enter18 {
+  animation: animate-enter18-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter18-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .group-container {
+  align-items: center;
+  display: flex;
+  gap: 282px;
+  margin-top: 97px;
+  min-width: 1240px;
+}
+
+.dlight .overlap-group3 {
+  height: 160px;
+  position: relative;
+  width: 799px;
+}
+
+.dlight .thanks-for-scrolling {
+  color: var(--white);
+  font-family: var(--font-family-manrope-extralight_bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 160px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dlight .thanks-for-scrolling.animate-enter28 {
+  animation: animate-enter28-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+}
+
+@keyframes animate-enter28-frames {
+  from{}
+to{}
+}
+
+.dlight .x {
+  display: block;
+  height: 24px;
+  left: 775px;
+  position: absolute;
+  top: 47px;
+  transform: rotate(0deg);
+  width: 24px;
+}
+
+.dlight .x.animate-enter31 {
+  animation: animate-enter31-frames 5.00s linear 0.00s 1 normal forwards;
+  display: block;
+  transform: rotate(0deg);
+}
+
+@keyframes animate-enter31-frames {
+  from{transform: rotate(0deg);
+}
+to{transform: rotate(359deg);
+}
+}
+
+.dlight .group-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 36.0px;
+  min-height: 26px;
+  transition: all 0.5s ease-in-out;
+  width: 159px;
+}
+
+.dlight .group-2:hover {
+  transform: translate(0, -5px);
+}
+
+.dlight .nextproject {
+  height: 11px;
+  margin-left: 2px;
+  margin-top: 3px;
+  width: 157px;
+}
+
+.dlight .path-6 {
+  cursor: pointer;
+  height: 2px;
+  margin-left: 0.5px;
+  transition: all 1.5s ease-in-out;
+  width: 159px;
+}
+
+.dlight .path-6:hover {
+  filter: blur(10px);
+}
+
+.dlight .flex-col-7 {
+  align-items: center;
+  margin-left: 0.5px;
+  margin-top: 24px;
+  min-height: 1050px;
+  width: 1242px;
+}
+
+.dlight .path-5-3 {
+  height: 3px;
+  margin-right: 3.5px;
+  width: 1238px;
+}
+
+.dlight .path-5-3.animate-enter29 {
+  animation: animate-enter29-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  transform: scaleX(0);
+}
+
+@keyframes animate-enter29-frames {
+  from{opacity: 1;
+transform: scaleX(0);
+}
+to{opacity: 1;
+transform: scaleX(1);
+}
+}
+
+.dlight .google_-twitter_-feed {
+  height: 550px;
+  margin-left: 1.5px;
+  margin-top: 50px;
+  opacity: 0;
+  position: relative;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.dlight .google_-twitter_-feed.animate-enter27 {
+  animation: animate-enter27-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter27-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .google_-twitter_-feed-1 {
+  display: block;
+  height: 550px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(0, 25px);
+  width: 1240px;
+}
+
+.dlight .google_-twitter_-feed-1.animate-enter26 {
+  animation: animate-enter26-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter26-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .flex-row-5 {
+  gap: 40px;
+  height: 181px;
+  margin-right: 10.5px;
+  margin-top: 265px;
+  min-width: 464px;
+}
+
+.dlight .group-2-1 {
+  align-self: flex-end;
+  background-image: url(../img/index-sayhi-91ED15C2-9104-484E-BA17-5ED4CFBF2834@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  filter: blur(10px);
+  height: 162px;
+  opacity: 0;
+  width: 290px;
+}
+
+.dlight .group-2-1.animate-enter30 {
+  animation: animate-enter30-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter30-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.dlight .hi {
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 177px;
+  opacity: 0;
+  transition: all 0.5s ease-in-out;
+  width: 134px;
+}
+
+.dlight .hi.animate-enter33 {
+  animation: animate-enter33-frames 2.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes animate-enter33-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.dlight .hi:hover {
+  transform: translate(0, -20px);
+}
+
+.dlight .flex-row-6 {
+  align-self: flex-end;
+  gap: 518px;
+  height: 76px;
+  margin-right: 44px;
+  margin-top: 277px;
+  min-width: 693px;
+}
+
+.dlight .copyright-2021-ash {
+  align-self: flex-end;
+  color: #707070;
+  font-family: var(--font-family-manrope-semibold);
+  font-size: var(--font-size-s);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 50px;
+  min-width: 142px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.dlight .image {
+  cursor: pointer;
+  display: block;
+  height: 69px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 33px;
+}
+
+.dlight .image.animate-enter32 {
+  animation: animate-enter32-frames 1.50s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+  transform: translate(0, 25px);
+}
+
+@keyframes animate-enter32-frames {
+  from{opacity: 0;
+transform: translate(0, 25px);
+}
+to{opacity: 1;
+transform: translate(0,0);
+}
+}
+
+.dlight .dlight_desktop_2-2 {
+  height: 1511px;
+  opacity: 0;
+  transform: translate(0, 25px);
+  width: 581px;
+}
+
+.dlight .flex-col-8 {
+  display: flex;
+  flex-direction: column;
+}
+
+.dlight .flex-row-7 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.dlight .path-5-4 {
+  display: block;
+  transform: scaleX(0);
+}
+
+.dlight .x7-2 {
+  height: 1130px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transform: translate(0, 25px);
+  width: 580px;
+}

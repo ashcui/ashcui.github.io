@@ -1,0 +1,22 @@
+:root { 
+  --mercury: #e7e7e7;
+  --white: #ffffff;
+ 
+  --font-size-l: 22px;
+  --font-size-m: 18px;
+  --font-size-s: 12px;
+  --font-size-xl: 80px;
+  --font-size-xxl: 120px;
+ 
+  --font-family-manrope-extralight_bold: "Manrope-ExtraLight_Bold", Helvetica;
+  --font-family-manrope-regular: "Manrope-Regular", Helvetica;
+  --font-family-manrope-semibold: "Manrope-SemiBold", Helvetica;
+  --font-family-pingfangsc-regular: "PingFangSC-Regular", Helvetica;
+}
+.h3 {
+  font-family: var(--font-family-manrope-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
